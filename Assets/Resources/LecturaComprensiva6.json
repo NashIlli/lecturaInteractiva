@@ -1,0 +1,145 @@
+{
+	"exercises": [
+		{
+			"paragraph":"¿Qué tienen los tiburones que nos asustan tanto? ¿La boca enorme, los dientes afilados, los ojos asesinos? Cuando pensamos en un tiburón, imaginamos un gigantesco monstruo submarino que ataca a la gente. Pero lo cierto es que la mayoría son inofensivos para el hombre.  Los tiburones son peces, pero a diferencia de otros peces, su esqueleto no es de hueso, sino de material ligero y flexible llamado cartílago.",
+			"questions":["¿Quién es el monstruo gigante?"],
+			"hints":["Cuando pensamos en un tiburón, imaginamos un gigantesco monstruo submarino que ataca a la gente"],
+			"answers":["El tiburón","Los peces","Los cartílagos"],
+			"questionType":1
+		},
+		{
+			"paragraph":"Todos son carnívoros. Algunos devoran presas del tamaño de focas o delfines. Todos los tiburones son cazadores. Puede que los tiburones sean los mayores predadores del océano, pero no son ni la mitad de peligrosos que los humanos. La gente mata tiburones por diferentes motivos. Algunas personas se sienten  amenazadas por esos grandes predadores, otras sólo quieren comer aletas de tiburón que se creen deliciosas. Y muchos tiburones mueren  debido a la contaminación del océano.",
+			"questions":["¿Quién es el peor depredador? "],
+			"hints":["Puede que los tiburones sean los mayores predadores del océano, pero no son ni la mitad de peligrosos que los humanos"],
+			"answers":["El humano","El tiburón", "Los peces"],
+			"questionType":0
+		},
+		{
+			"paragraph":"Arrancó el coche y yo me quedé duro. Corrí tras él, pero aceleró tanto que tuve que detenerme cuando ya el corazón se me salía por la boca. Tuve que correrme porque un auto casi me arrolla. Volví a mi casa y tomé agua del balde. Oí venir otro auto. Le ladré y corrí a la calle y lo perseguí. Esta vez, me tocó bocina y me asuste. Olí un aroma a flores y corrí a recibirla. ¡Mi niña! Ella me abrazó y me acarició el pelo.",
+			"questions":["¿Por qué corría los autos?"],
+			"hints":["Le ladré y corrí a la calle y lo perseguí"],
+			"answers":["Porque era un perro","Porque quería decirles algo","Porque quería hablarle a la gente"],
+			"questionType":3
+		},
+		{
+			"paragraph":"Cuando el señor Hiram B. Otis compró Canterville-Chase, todo el mundo le dijo que cometía una locura, porque la finca estaba embrujada. Hasta el mismo lord Canterville, se creyó en el deber de decírselo al señor Otis. Le dijo que su familia no vivía en esa casa desde que su tía abuela, espantada al sentir dos manos de esqueleto en sus hombros, se desmayó y nunca volvió a ser la misma. El fantasma había sido visto por varios miembros de la familia.",
+			"questions":["¿Quién vivía en la casa al momento de la conversación?"],
+			"hints":["Le dijo que su familia no vivía en esa casa desde que su tía abuela, espantada al sentir dos manos de esqueleto en sus hombros, se desmayó y nunca volvió a ser la misma"],
+			"answers":["Nadie","Amigos de la familia","La tía abuela de lord Canterville"],
+			"questionType":2
+		},
+		{
+			"paragraph":"Pero, el señor Otis dijo que nada de eso le importaba y quiso comprar la casa con los muebles y el fantasma. La hija mayor del señor Otis, sin embargo, preguntó quién era el fantasma. El lord Canterville dijo que hacía más de tres siglos que se le conoce. Data, con precisión, de mil quinientos setenta y cuatro, y no deja de mostrarse nunca cuando está a punto de ocurrir alguna defunción en la familia. Pero el señor Otis se río y salió a recorrer su nuevo hogar.",
+			"questions":["¿Cómo es el fantasma?"],
+			"hints":["Data, con precisión, de mil quinientos setenta y cuatro, y no deja de mostrarse nunca cuando está a punto de ocurrir alguna defunción en la familia"],
+			"answers":["Aterrador", "Sociable","Amigable"],
+			"questionType":3
+		},
+		{
+			"paragraph":"En una casa, una anciana criaba dos gallos. Un día, los gallos salieron a pasear fuera de la casa. De pronto, vieron un enorme gusano que se arrastraba por el camino. Entonces, ambos corrieron para atraparlo, pero antes de que alguno lo cogiera, se miraron creyendo que cada uno tenía derecho a comerse al animal. Por eso, empezaron a discutir. Muchos animales empezaron a acercarse para saber qué era lo que pasaba. Entre ellos, también se asomó un zorro hambriento. ",
+			"questions":["¿A dónde salieron a pasear los dos gallos?"],
+			"hints":["Un día, los gallos salieron a pasear fuera de la casa"],
+			"answers":["Fuera de la casa","Por el campo","Por el gallinero"],
+			"questionType":0
+		},
+		{
+			"paragraph":"Al ver que los dos gallos seguían discutiendo, el zorro dijo: - Para arreglar este problema, es mejor que se peleen y el ganador se llevará el gusano. Todos dijeron que sí. Pero para que la pelea sea justa, los animales presentes nombraron un juez. Y el juez fue justamente el zorro, quien dijo: - La pelea será solo entre los dos. Nadie debe ayudar a ninguno de los gallos. Todos estuvieron de acuerdo. ",
+			"questions":["¿Cómo arreglarían la disputa los gallos?"],
+			"hints":["Para arreglar este problema, es mejor que se peleen y el ganador se llevará el gusano"],
+			"answers":["Peleando","Debatiendo","Convenciendo al juez"],
+			"questionType":1
+		},
+		{
+			"paragraph":"La pelea fue muy dura. Al cabo de un buen rato, ambos gallos cayeron al suelo de tanto cansancio. Algunos animales que veían la pelea se pusieron a llorar tristemente. Pensaban que los gallos se habían muerto. En ese momento, nuevamente habló el zorro a todos los animales: - Señores, como ustedes ven, nadie ha ganado. Y nadie se comerá al gusano. Pero a mí me tienen que pagar algo por haber sido juez. Dicho eso, el zorro atrapó a los dos gallos y se perdió entre los árboles de un bosque cercano.",
+			"questions":["¿Qué nos enseña principalmente este cuento?"],
+			"hints":["La pelea fue muy dura. Al cabo de un buen rato, ambos gallos cayeron al suelo de tanto cansancio."],
+			"answers":["Que debemos conversar para arreglar los problemas","Que debemos discutir hasta ganar","Que debemos escuchar a los demás"],
+			"questionType":3
+		},
+		{
+			"paragraph":"En el mes de febrero los halcones peregrinos presienten la primavera. Macho y hembra se persiguen, volando e imitando persecuciones de caza. Los científicos llaman paradas nupciales a estos juegos amorosos. Durante toda la época de paradas nupciales, el halcón macho vigila constantemente para expulsar de su territorio a cualquiera que pretenda invadirlo.",
+			"questions":["¿Cómo se llama cuando los halcones peregrinos hacen estos juegos amorosos?"],
+			"hints":["Los científicos llaman paradas nupciales a estos juegos amorosos"],
+			"answers":["Paradas nupciales","Juegos amorosos","Persecución amorosa"],
+			"questionType":0
+		},
+		{
+			"paragraph":"A principios de marzo, el halcón hembra deposita de dos a cuatro huevos. La madre vigila afanosamente el nido, expulsando a cualquier presunto enemigo, aunque sea del tamaño de un zorro o de un lobo. El macho caza para toda la familia. Transporta las presas en las garras hasta las inmediaciones del nido, donde se las entrega a la hembra. Ésta se encarga de desplumar y despedazar las aves para alimentar a sus polluelos.",
+			"questions":["¿De qué se encarga la hembra?"],
+			"hints":["La madre vigila afanosamente el nido, expulsando a cualquier presunto enemigo, aunque sea del tamaño de un zorro o de un lobo"],
+			"answers":["De cuidar el huevo y protegerlo de enemigos","De cazar alimento","De transportar las presas"],
+			"questionType":1
+		},
+		{
+			"paragraph":"Hay animales que se han hecho célebres por su belleza, otros por su bravura y  orgulloso porte. Finalmente, otros impresionan por sus tamaño. Pero existe una criatura que, al  margen de su tamaño, su porte y su  apariencia  física, es famosa entre todos los cazadores y zoólogos, precisamente por su peligrosidad. Me refiero al  búfalo cafre, el gran bóvido de las sabanas. Este herbívoro ha causado más víctimas que cualquier fiera, aparentemente más agresiva e incontrolable.",
+			"questions":["¿Por qué es famoso este animal?"],
+			"hints":["Pero existe una criatura que, al  margen de su tamaño, su porte y su  apariencia  física, es famosa entre todos los cazadores y zoólogos, precisamente por su peligrosidad"],
+			"answers":["Por su agresividad","Por su físico","Por comer a sus enemigos naturales"],
+			"questionType":2
+		},
+		{
+			"paragraph":"Para los cazadores que buscan emociones fuertes, el búfalo ha  constituido siempre una pieza codiciada.  Porque  si  el tirador no acierta a derribarlo del primer  disparo, el rastreo del búfalo resulta sumamente peligroso.  El búfalo herido se retira hacia los más  impenetrables matorrales y trata siempre de atacar por la espalda al hombre que lo busca. El búfalo acostumbra a ensañarse con sus enemigos, a los que pisotea después de derribarlos.",
+			"questions":["¿Por qué es peligroso el búfalo herido?"],
+			"hints":["Porque  si  el tirador no acierta a derribarlo del primer  disparo, el rastreo del búfalo resulta sumamente peligroso"],
+			"answers":["Porque ataca por la espalda","Porque ataca en el descampado","Porque se pone furioso"],
+			"questionType":2
+		},
+		{
+			"paragraph":"¿Tendríamos que  pensar  tras  esta descripción que el búfalo es un ser odioso,  merecedor de la más despiadada persecución?  En  absoluto, porque sólo  ataca  cuando  es acosado, comportándose, en condiciones normales, como una criatura inofensiva y tímida. Una mañana en la gran Fosa del  Rift,  estábamos filmando pelícanos blancos, cuando sorprendimos a media docena de grandes  búfalos machos, revolcándose en un lodazal.",
+			"questions":["¿Por qué el autor da el ejemplo de Fosa del Rift?"],
+			"hints":["Una mañana en la gran Fosa del  Rift,  estábamos filmando pelícanos blancos, cuando sorprendimos a media docena de grandes  búfalos machos, revolcándose en un lodazal"],
+			"answers":["Para mostrarle al lector que los búfalos son inofensivos cuando se los deja tranquilos","Para contar su experiencia con búfalos peligrosos","Para cerrar su historia"],
+			"questionType":3
+		},
+		{
+			"paragraph":"Vivía en Grecia un joven llamado Orfeo, que solía entonar hermosísimos cantos acompañado por su lira. Su música era tan hermosa que, cuando sonaba, las fieras del bosque se acercaban a lamerle los pies. Un día en que Orfeo se encontraba en el corazón del bosque tocando su lira, descubrió entre las ramas de un lejano arbusto a una joven ninfa escuchándolo. Orfeo se acercó a contemplar a aquel ser cuya hermosura no eran igualadas por ningún otro.",
+			"questions":["¿Qué descubrió Orfeo en el bosque?"],
+			"hints":["Un día en que Orfeo se encontraba en el corazón del bosque tocando su lira, descubrió entre las ramas de un lejano arbusto a una joven ninfa escuchándolo"],
+			"answers":["A una ninfa hermosa","A una mujer","A un dios"],
+			"questionType":0
+		},
+		{
+			"paragraph":"- Hermosa ninfa de los bosques –dijo Orfeo-, si mi música es de tu agrado, abandona tu escondite y acércate a escuchar lo que mi lira tiene que decirte.\nLa joven ninfa, llamada Eurídice, dudó unos segundos, pero finalmente se acercó a Orfeo y se sentó junto a él. Entonces Orfeo compuso para ella la más bella canción de amor que se había oído nunca en aquellos bosques. Y pocos días después se celebraban en aquel mismo lugar las bodas entre Orfeo y Eurídice.",
+			"questions":["¿Qué pasó con Orfeo y Eurídice?"],
+			"hints":["Y pocos días después se celebraban en aquel mismo lugar las bodas entre Orfeo y Eurídice"],
+			"answers":["Se casaron","Compusieron una canción juntos","Se escondieron en el bosque"],
+			"questionType":0
+		},
+		{
+			"paragraph":"La felicidad y el amor llenaron los días de la joven pareja. Pero una mañana una serpiente vino a morder el delicado talón de la ninfa depositando en él la semilla de la muerte. Así fue como Eurídice murió apenas unos meses después de haber celebrado sus bodas. Al enterarse de la muerte de su amada, Orfeo, lleno de dolor decidió descender a las profundidades infernales para suplicar que permitieran a Eurídice volver a la vida.",
+			"questions":["¿Qué fue la semilla de la muerte? "],
+			"hints":["Pero una mañana una serpiente vino a morder el delicado talón de la ninfa depositando en él la semilla de la muerte"],
+			"answers":["El veneno de la serpiente","La serpiente","El prado"],
+			"questionType":2
+		},
+		{
+			"paragraph":"Aunque el camino a los infiernos era largo y estaba lleno de dificultades, Orfeo consiguió llegar hasta el borde de la laguna Estigia, cuyas aguas separan el reino de la luz del reino de las tinieblas. Allí entonó un canto tan triste y tan melodioso que conmovió al mismísimo Carón, el barquero encargado de transportar las almas hasta la otra orilla de la laguna. Orfeo atravesó en la barca de Carón y una vez en el reino de las tinieblas, se presentó ante Hades, dios del infierno.",
+			"questions":["¿Cómo atravesó la laguna Estigia? "],
+			"hints":["Allí entonó un canto tan triste y tan melodioso que conmovió al mismísimo Carón, el barquero encargado de transportar las almas hasta la otra orilla de la laguna"],
+			"answers":["Tocándole la lira a Carón, el barquero","Pagándole al barquero","Nadando hasta encontrarse con Hades"],
+			"questionType":1
+		},
+		{
+			"paragraph":"Orfeo le suplicó al rey de las tinieblas que le devolviera a Eurídice y prometió que al morir, ambos volverían para siempre a aquel lugar. La música y las palabras de Orfeo eran tan conmovedoras que lograron ablandar el corazón de Hades.El dios le dijo que Eurídice seguiría sus pasos hasta que haya abandonado el reino de las tinieblas. Sólo entonces podría Orfeo mirarla. Si intentaba verla antes de atravesar la laguna Estigia, la perdería para siempre.",
+			"questions":["¿Quién es el dios de las tinieblas?"],
+			"hints":["La música y las palabras de Orfeo eran tan conmovedoras que lograron ablandar el corazón de Hades"],
+			"answers":["Hades","Orfeo","Estigia"],
+			"questionType":2
+		},
+		{
+			"paragraph":"Y Orfeo inició el camino de vuelta hacia el mundo de la luz. Durante largo tiempo Orfeo caminó por sombríos senderos y oscuros caminos habitados por la penumbra. En sus oídos retumbaba el silencio. Ni el más leve ruido delataba la proximidad de su amada. Y en su cabeza resonaban las palabras de Hades: \"Si intentas verla antes de atravesar la laguna de Estigia, la perderás para siempre\". Por fin, Orfeo divisó la laguna. Del otro lado, la felicidad en compañía de Eurídice. ¿O acaso era un sueño y Eurídice no estaba allí?",
+			"questions":["¿Qué pasó con Orfeo?"],
+			"hints":["Por fin, Orfeo divisó la laguna. Del otro lado, la felicidad en compañía de Eurídice. ¿O acaso era un sueño y Eurídice no estaba allí?"],
+			"answers":["Comenzó a dudar","Se olvidó de Eurídice","Carón lo engaño"],
+			"questionType":3
+		},
+		{
+			"paragraph":"Orfeo dudó por un momento y, lleno de impaciencia, giró la cabeza para comprobar si Eurídice le seguía. Y en ese mismo momento vio cómo su amada se convertía en una columna de humo. Orfeo lloró y suplicó perdón a los dioses por su falta de confianza, pero sólo el silencio respondió a sus súplicas. Y, según cuentan las leyendas, Orfeo, triste y lleno de dolor, se retiró a un monte donde pasó el resto de su vida sin más compañía que su lira y las fieras que se acercaban a escuchar los melancólicos cantos.",
+			"questions":["¿Qué hizo Orfeo?"],
+			"hints":["Y, según cuentan las leyendas, Orfeo, triste y lleno de dolor, se retiró a un monte donde pasó el resto de su vida sin más compañía que su lira y las fieras que se acercaban a escuchar los melancólicos cantos."],
+			"answers":["Pasó su vida lamentando la muerte de Eurídice","Volvió a pedirle ayuda a Hades y a las fieras","Se convirtió en una fiera"],
+			"questionType":1
+		}
+		
+	]
+}

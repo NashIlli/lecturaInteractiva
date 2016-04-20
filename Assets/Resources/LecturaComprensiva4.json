@@ -1,0 +1,117 @@
+{
+	"exercises": [
+		{
+			"paragraph":"Cierta vez las víboras dieron un gran baile. Invitaron a las ranas y a los sapos, a los flamencos, y a los yacarés y a los peces. Los peces, como no caminan, no pudieron bailar; pero siendo el baile a la orilla del río, los peces estaban asomados a la arena, y aplaudían con la cola.",
+			"questions":["¿Por qué se acercaron a la orilla los peces?"],
+			"hints":["Los peces, como no caminan, no pudieron bailar; pero siendo el baile a la orilla del río, los peces estaban asomados a la arena, y aplaudían con la cola"],
+			"answers":["Porque no caminan y querían mirar","Porque estaban espiando","Porque no los habían invitado"],
+			"questionType":2
+		},
+		{
+			"paragraph":"El mundo de los trópicos, con sus variados tipos de clima y vegetación, está habitado por muchos animales diferentes. Uno de ellos es el camaleón. Es muy peculiar porque puede mover sus ojos independientemente uno del otro y tiene una lengua larga como su cuerpo que usa para atrapar insectos.",
+			"questions":["¿Dónde viven los camaleón?"],
+			"hints":["El mundo de los trópicos, con sus variados tipos de clima y vegetación, está habitado por muchos animales diferentes. Uno de ellos es el camaleón"],
+			"answers":["En el trópico","En la vegetación","Con otros insectos"],
+			"questionType":2
+		},
+		{
+			"paragraph":"En mi pueblo vive un ave misteriosa, que siempre anda sola y vive entre las ruinas. Es un ave muy tenebroso y hace temblar a las mujeres y hombres más rudos ya que su canto anuncia la muerte.\nAlgunos dicen que lo hace por maldad, otros, porque en verdad es una bruja malvada que se convirtió en pájaro el día que murió su amado.",
+			"questions":["¿Por qué se tiemblan los hombres y mujeres?"],
+			"hints":["Es un ave muy tenebroso y hace temblar a las mujeres y hombres más rudos ya que su canto anuncia la muerte"],
+			"answers":["Por miedo","Por frío","Porque el ruido es muy molesto y lastima los oídos"],
+			"questionType":2
+		},
+		{
+			"paragraph":"En los ríos tropicales viven animales sorprendentes como la raya eléctrica. Este pez produce verdadera electricidad. Se supone que la usa para defenderse de sus enemigos y para paralizar víctimas. Su electricidad puede ser muy fuerte, incluso, puede paralizar un hombre por unos momentos.",
+			"questions":["¿Para qué usan la electricidad?"],
+			"hints":["Se supone que la usa para defenderse de sus enemigos y para paralizar víctimas"],
+			"answers":["Para paralizar a sus enemigos","Para matar humanos","Para nadar rápido"],
+			"questionType":0
+		},
+		{
+			"paragraph":"Los flamencos, que antes tenían las patas blancas, y tienen ahora como antes la nariz muy gruesa y torcida, estaban tristes, porque como tienen muy poca inteligencia, no habían sabido cómo vestirse para la fiesta.",
+			"questions":["¿De qué color eran las patas de los flamencos?"],
+			"hints":["Los flamencos, que antes tenían las patas blancas, y tienen ahora como antes la nariz muy gruesa y torcida"],
+			"answers":["Blancas","Rosas","Torcidas"],
+			"questionType":0
+		},
+		{
+			"paragraph":"Los mayas cuentan que hubo una época en la cual la piel del venado era distinta a como hoy la conocemos. En ese tiempo, tenía un color muy claro, por eso el venado podía verse con mucha facilidad desde cualquier parte del monte. Gracias a ello, era presa fácil para los cazadores, quienes apreciaban mucho el sabor de su carne y la resistencia de su piel, que usaban en la construcción de escudos para los guerreros. Por esas razones, el venado era muy perseguido y estuvo a punto de desaparecer.",
+			"questions":["¿Para qué se usaba la piel de venado?"],
+			"hints":["Gracias a ello, era presa fácil para los cazadores, quienes apreciaban mucho el sabor de su carne y la resistencia de su piel, que usaban en la construcción de escudos para los guerreros"],
+			"answers":["Para comer su carne y usar su piel resistente","Para cazarlos por diversión","Para cambiarles el color de la piel"],
+			"questionType":1
+		},
+		{
+			"paragraph":"En un pueblo muy lejano vivía una señora en una casa de paja. Todos los campesinos decían que era bruja, porque siempre vestía de negro y la veían salir acompañada de dos perros enormes y unos pequeños duendes que jugaban con la falda de su vestido. Los campesinos no la querían, le echaban la culpa de que algunos no lograban cosechar nada. ",
+			"questions":["¿De quién salía acompañada la señora?"],
+			"hints":["Todos los campesinos decían que era bruja, porque siempre vestía de negro y la veían salir acompañada de dos perros enormes y unos pequeños duendes que jugaban con la falda de su vestido"],
+			"answers":["De dos perros enormes y unos pequeños duende","De los campesinos","De duendes enormes"],
+			"questionType":0
+		},
+		{
+			"paragraph":"¿Sabes lo que es el acebuche? Es el olivo silvestre, o sea salvajes y sin cultivar. Todavía quedan muchos en las sierras. Los puedes distinguir porque sus aceitunas son pequeñitas, casi todo hueso, y, además, tienen las hojas más redondeadas que las del olivo y sus ramas son espinosas.",
+			"questions":["¿De qué trata el texto?"],
+			"hints":["Los puedes distinguir porque sus aceitunas son pequeñitas, casi todo hueso, y, además, tienen las hojas más redondeadas que las del olivo y sus ramas son espinosas"],
+			"answers":["De las planta de aceitunas","De plantas silvestres","De hojas"],
+			"questionType":1
+		},
+		{
+			"paragraph":"La brújula es un instrumento especial que se inventó hace mucho tiempo para indicar dirección. La brújula tiene una aguja que señala en qué dirección queda el norte. Gracias a la brújula, los marineros podían viajar en sus barcos a través del océano si perderse.",
+			"questions":["¿Cómo funciona la brújula?"],
+			"hints":["La brújula tiene una aguja que señala en qué dirección queda el norte"],
+			"answers":["Tiene una aguja que apunta al norte","Apunta al lugar a donde se quiere ir","Sirve sólo si estás en el mar"],
+			"questionType":1
+		},
+		{
+			"paragraph":"Estaba de pie con las piernas separadas y una de ellas era una pata de palo. Sus manos estaban afianzadas a su cadera y con la cabeza alta sonreía a la tormenta. Los vientos golpeaban su cara y hacían volar su cabello. Las olas rompían fuerte contra el suelo pero el pirata no se movía y se reía como desafiando al viento y al mar a rugir más fuerte.",
+			"questions":["¿Dónde estaba el pirata?"],
+			"hints":["Las olas rompían fuerte contra el suelo pero el pirata no se movía y se reía como desafiando al viento y al mar a rugir más fuerte"],
+			"answers":["En un baroc", "En una isla", "En un auto"],
+			"questionType":3
+		},
+		{
+			"paragraph":"En el interior de la nave, a través del amplio ventanal, podían verse a sus dos ocupantes.Uno era alto y delgado, completamente blanco, sin pelo, ojos grandes y oscuros, boca pequeña, apenas nariz y tres dedos largos en cada mano. El otro era bajo, redondo... ¡y metálico! Tenía una triángulo grande por cuerpo y un triángulo pequeño por cabeza. Sus ojos emitían luz y junto a su compañeros estaban mirando el planeta Tierra.",
+			"questions":["¿Qué eran los personajes? "],
+			"hints":["Sus ojos emitían luz y junto a su compañeros estaban mirando el planeta Tierra"],
+			"answers":["Alienígenas", "Personas", "Animales"],
+			"questionType":3
+		},
+		{
+			"paragraph":"Regresé a la tienda y, cuando me disponía a mirar el periódico, escuché un ruido en las estanterías de regalos.\nMe acerqué y me llevé una gran sorpresa: ¡allí estaba una de las pequeñas más hermosas del mundo! Sus ojos enormes me miraban con alegría y movía los bigotes que le salían de la nariz. Lentamente, caminó por el estante y maulló al salir por la puerta de la tienda.",
+			"questions":["¿Con qué se encontró el hombre?"],
+			"hints":["Lentamente, caminó por el estante y maulló al salir por la puerta de la tienda"],
+			"answers":["Con un gato","Con una niña","Con un perro"],
+			"questionType":3
+		},
+		{
+			"paragraph":"El bisonte es un animal muy grande que se parece a un toro. Tiene pelo muy grueso y tupido.  Todo ese pelo le es un abrigo muy caluroso que le permite vivir en zonas de mucho frío. Cuando el primer bisonte llegó al pueblo la gente inmediatamente le tuvo miedo y organizaron una reunión entre todos para poder resolver qué hacer con este animal horrible que los vino a atormentar.",
+			"questions":["¿Cómo era el pelo del bisonte?"],
+			"hints":["Tiene pelo muy grueso y tupido"],
+			"answers":["Grueso y tupido","Muy oscuro","Igual a la del toro"],
+			"questionType":0
+		},
+		{
+			"paragraph":"Cuando los campesinos lo vieron por primera vez pensaron que era un toro peludo y peligroso. Eso mismo le dijeron a la gente del pueblo y decidieron que irían a cazarlo. Primero, lo que no esperaban era que los demás animales lo protegieron. Los caballos se negaban a ser montados, las vacas no daban leche y las ovejas dejaron de dar lana.",
+			"questions":["¿Por qué los hombres querían cazar al bisonte?"],
+			"hints":["Cuando los campesinos lo vieron por primera vez pensaron que era un toro peludo y peligroso"],
+			"answers":["Porque tenían miedo de lo que el animal les iba a hacer","Porque querían sacarle el pelo que es muy abrigado","Porque es un animal grande"],
+			"questionType":3
+		},
+		{
+			"paragraph":" El pueblo se revolucionó. Los cazadores quisieron salir a buscar al bisonte pero la gente del pueblo los detuvo. Los campesinos estaban horrorizados buscando formas de hacer que los animales trabajaran.\nUna niña estaba juntando flores en el campo cuando el bisonte se le acercó. La madre a la distancia la vio y corrió para salvarla, pero estaba muy lejos y la niña no escuchaba sus gritos.",
+			"questions":["¿Por qué los campesinos detuvieron a los cazadores?"],
+			"hints":["Los cazadores quisieron salir a buscar al bisonte pero la gente del pueblo los detuvo. Los campesinos estaban horrorizados buscando formas de hacer que los animales trabajaran"],
+			"answers":["Porque no querían hacerle nada al bisonte para que sus animales trabajaran","Porque les daba lástima el bisonte","Porque descubrieron que el bisonte era bueno"],
+			"questionType":2
+		},
+		{
+			"paragraph":"La madre corrió a su hija y escuchó un grito. Cuando llegó hasta ella, vio que el grito era una risa. Su hija estaba riendo con el animal. El animal la molestaba con su hocico, le hacía cosquillas e incluso corrían uno detrás de otro. La madre se acercó al animal y suavemente le acarició el lomo.\nA partir de ese día, los animales volvieron a trabajar. Los caballos dejaron ser montados, las ovejas dieron lana y las vacas leche. Y así como los hombres y los bisontes aprendieron a vivieron en paz.",
+			"questions":["¿Qué estaban haciendo el bisonte y la niña?"],
+			"hints":["El animal la molestaba con su hocico, le hacía cosquillas e incluso corrían uno detrás de otro"],
+			"answers":["Jugando","Peleando","Discutiendo"],
+			"questionType":1
+		}
+		
+	]
+}
