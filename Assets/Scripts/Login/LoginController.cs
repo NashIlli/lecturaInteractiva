@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using Assets.Scripts.App;
+using System;
 
 namespace Assets.Scripts.Login
 {
@@ -18,23 +19,18 @@ namespace Assets.Scripts.Login
             }
         }
 
-		public void SaveUsername(string username,int level){
-            if(username != "" && username.Length > 2){
-
-                AppController.GetController().SetUsername(username);
-				ViewController.GetController ().StartGame(level);
-            } else{
-                loginView.ShowIncorrectInputAnimation();
-            }
-
-        }
-
         internal void GoBack() {
             ViewController.GetController().LoadCover();
         }
 
         public static LoginController GetController(){
             return loginController;
+        }
+
+        internal void OnClickTic()
+        {
+            AppController.GetController().LoadBooks(loginView.GetSelectedLevel());
+            ViewController.GetController().LoadMainMenu();
         }
     }
 }

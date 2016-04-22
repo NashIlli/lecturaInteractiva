@@ -8,9 +8,7 @@ namespace Assets.Scripts.MainMenu
     public class MainMenuController : MonoBehaviour
     {
         private static MainMenuController mainMenuController;
-
         public MenuView menuView;
-        public GamePreview gamePreview;
 
         void Awake()
         {
@@ -18,27 +16,16 @@ namespace Assets.Scripts.MainMenu
             else if (mainMenuController != this) Destroy(gameObject);
         }
 
-        internal void ShowMenu()
+        void Start()
         {
-            menuView.gameObject.SetActive(true);
-        }     
 
-        internal void ShowPreviewGame(int game)
-        {
-            AppController.GetController().SetCurrentGame(game);
-            gamePreview.gameObject.SetActive(true);
-
+            menuView.AddStoryButtonsOf(AppController.GetController().GetBookTitles());
         }
 
-//        internal void ShowSettings()
-//        {
-//            ViewController.GetController().LoadSettings();
-//        }
-//
-//        internal void ShowMetrics()
-//        {
-//            ViewController.GetController().LoadMetrics();
-//        }
+        internal void ShowBook(int indexBook)
+        {
+            AppController.GetController().ShowBook(indexBook);
+        }
 
         public static MainMenuController GetController()
         {

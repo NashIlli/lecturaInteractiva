@@ -20,7 +20,7 @@ namespace Assets.Scripts._Levels.ReadTest
 
         public override void InitGame()
         {
-			readTestModel = new ReadTestModel(AppController.GetController().GetCurrentGame());
+		//	readTestModel = new ReadTestModel(AppController.GetController().GetCurrentGame());
  
             NextChallenge();
         }

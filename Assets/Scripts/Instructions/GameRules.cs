@@ -10,8 +10,7 @@ namespace Assets.Scripts.Instructions
 		public Text instructionText;
 
         void Start(){
-			instructionText.text = (AppController.GetController ().GetCurrentGame () == 0) ? "LEE Y CONTESTA LAS PREGUNTAS"
-				: "Lee las historias y contesta las preguntas. Elige una respuesta correcta.";
+            instructionText.text = "ads";
 
         }
 

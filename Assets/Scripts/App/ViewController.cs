@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using Assets.Scripts.Sound;
 using Assets.Scripts._Levels;
+using Assets.Scripts._Levels.BookView;
+using System;
 
 namespace Assets.Scripts.App
 {
@@ -10,17 +12,16 @@ namespace Assets.Scripts.App
         private static ViewController viewController;
         public GameObject cover;
         public GameObject login;
-//        public GameObject mainMenu;
+        public GameObject mainMenu;
 //        public GameObject settings;
-//        public GameObject metrics;
         public GameObject inGameMenu;
         public GameObject instructions;
-//        public GameObject levelCompleted;
+        public GameObject levelCompleted;
 		public GameObject readTest;
 		public GameObject viewPanel;
+        public GameObject bookView;
         public List<GameObject> levels;
         private GameObject currentGameObject;
-
 
         // these objects are pop, the current object isn't destroyed when they are showed
         private GameObject inGameMenuScreen;
@@ -37,26 +38,29 @@ namespace Assets.Scripts.App
 			LoadCover ();
 		}
 
-//        internal void LoadMainMenu()
-//        {
-//            ChangeCurrentObject(mainMenu);
-//            SoundController.GetController().StopMusic();
-//        }    
+        internal void LoadMainMenu()
+        {
+            ChangeCurrentObject(mainMenu);
+            SoundController.GetController().StopMusic();
+        }    
 
         internal void LoadCover()
         {
             ChangeCurrentObject(cover);		
         }
 
-//        internal void LoadMetrics()
-//        {
-//            ChangeCurrentObject(metrics);
-//        }
+        internal void ShowBook(Book book)
+        {
+            ChangeCurrentObject(bookView);
+            currentGameObject.GetComponentInChildren<BookView>().StartBook(book);
+
+
+        }
 
         private void ChangeCurrentObject(GameObject newObject)
         {
             GameObject child = Instantiate(newObject);
-            FitObjectToScene(child);
+            FitObjectTo(child, viewPanel.transform);
             Destroy(currentGameObject);
             currentGameObject = child;            
         }
@@ -64,22 +68,17 @@ namespace Assets.Scripts.App
         internal void ShowInGameMenu()
         {
             inGameMenuScreen = Instantiate(inGameMenu);
-            FitObjectToScene(inGameMenuScreen);
+            FitObjectTo(inGameMenuScreen, viewPanel.transform);
         }
 
-        private void FitObjectToScene(GameObject child)
+        public static void FitObjectTo(GameObject child, Transform transform)
         {
-            child.transform.SetParent(viewPanel.transform, true);
+            child.transform.SetParent(transform, true);
             child.transform.localPosition = Vector3.zero;
             child.GetComponent<RectTransform>().offsetMax = Vector2.zero;
             child.GetComponent<RectTransform>().offsetMin = Vector2.zero;
             child.transform.localScale = Vector3.one;
         }
-
-//        internal void LoadSettings()
-//        {
-//            ChangeCurrentObject(settings);
-//        }
 
         internal void LoadLogin()
         {
@@ -88,14 +87,14 @@ namespace Assets.Scripts.App
 
         internal void StartGame(int currentLevel)
         {
-			AppController.GetController ().SetCurrentGame (currentLevel);
+			AppController.GetController ().ShowBook (currentLevel);
 			ChangeCurrentObject(readTest);         
         }    
 
         internal void ShowInstructions()
         {
             instructionsScreen = Instantiate(instructions);
-            FitObjectToScene(instructionsScreen);
+            FitObjectTo(instructionsScreen, viewPanel.transform);
         }
 
         internal void HideInGameMenu(){
@@ -107,10 +106,10 @@ namespace Assets.Scripts.App
             Destroy(instructionsScreen);
         }
 
-//        internal void LoadLevelCompleted()
-//        {
-//            ChangeCurrentObject(levelCompleted);
-//        }
+        internal void LoadLevelCompleted()
+        {
+            ChangeCurrentObject(levelCompleted);
+        }
 
         public static ViewController GetController()
         {

@@ -1,38 +1,47 @@
 ﻿using UnityEngine;
 using Assets.Scripts.Sound;
-using System;
+using Assets.Scripts._Levels;
+using SimpleJSON;
 
 namespace Assets.Scripts.App
 {
     public class AppController : MonoBehaviour
     {
         private static AppController appController;
-        private AppModel appModel;
+        private Book currentBook;
+        private Book[] books;
+
 
         void Awake(){
             if (appController == null) appController = this;
             else if (appController != this) Destroy(gameObject);     
             DontDestroyOnLoad(gameObject);
-            appModel = new AppModel();
         }         
 
-        internal void PlayCurrentGame()
+        public void LoadBooks(int level = 1) 
         {
+            TextAsset JSONstring = Resources.Load(level+1 + "_grade") as TextAsset;
+            JSONNode data = JSON.Parse(JSONstring.text);
+            books = new Book[data["books"].Count];
+            for (int i = 0; i < data["books"].Count; i++)
+            {
+                books[i] = JsonUtility.FromJson<Book>(data["books"][i].ToString());       
+            }
+        }
+
+        internal string[] GetBookTitles()
+        {
+            string[] toReturn = new string[books.Length];
+            for (int i = 0; i < books.Length; i++)
+            {
+                toReturn[i] = books[i].title;
+            }
+            return toReturn;
+        }
+
+        internal void ShowBook(int book){
             SoundController.GetController().StopMusic();
-            ViewController.GetController().StartGame(appModel.GetCurrentGame());
-        }
-
-        internal void SetUsername(string username)
-        {
-            appModel.SetUsername(username);
-        }
-
-        internal void SetCurrentGame(int currentGame){
-            appModel.SetCurrentGame(currentGame);
-        }
-
-        internal int GetCurrentGame(){
-            return appModel.GetCurrentGame();
+            ViewController.GetController().ShowBook(books[book]);
         }
 
         internal void ShowInGameMenu(){
@@ -42,15 +51,6 @@ namespace Assets.Scripts.App
         public static AppController GetController()
         {
             return appController;
-        }
-
-        internal string GetActivityName(int game)
-        {
-            return appModel.GetDescriptionOf(game);
-        }
-
-        internal void SetLevel(int level) {
-            appModel.SetLevel(level);
         }
     }
 }
