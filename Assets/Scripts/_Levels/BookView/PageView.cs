@@ -27,5 +27,7 @@ namespace Assets.Scripts._Levels.BookView
         {
 
         }
+
+        internal abstract void ShowHint(string pista);
     }
 }

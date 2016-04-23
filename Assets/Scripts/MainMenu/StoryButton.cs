@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
+using Assets.Scripts.Sound;
 
 namespace Assets.Scripts.MainMenu
 {
@@ -14,6 +15,7 @@ namespace Assets.Scripts.MainMenu
 
         public void ShowBook()
         {
+            SoundController.GetController().PlayClickSound();
             MainMenuController.GetController().ShowBook(indexBook);
         }
 

@@ -8,11 +8,11 @@ public class InGameMenuView : MonoBehaviour {
 
     public Text mainMenuLabel, instructionsLabel, restartGameLabel, backToGameLabel;
 
-//    public void OnMainMenuClic(){
-//        PlayClickSound();
-//        ViewController.GetController().LoadMainMenu();
-//        ViewController.GetController().HideInGameMenu();
-//    }
+    public void OnMainMenuClic(){
+        PlayClickSound();
+        ViewController.GetController().LoadMainMenu();
+        ViewController.GetController().HideInGameMenu();
+    }
 
     public void OnInstructionsClic(){
         PlayClickSound();

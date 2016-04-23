@@ -1,6 +1,9 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 using UnityEngine.UI;
 using System.Collections.Generic;
+using Assets.Scripts.Sound;
+using Random = UnityEngine.Random;
 
 namespace Assets.Scripts._Levels.BookView
 {
@@ -19,7 +22,7 @@ namespace Assets.Scripts._Levels.BookView
             BookView.GetBookView().SetTicButtonEnabled(false);
             if (CheckAnswer())
             {
-                // todo -> right sound
+                SoundController.GetController().PlayRightAnswerSound();
                 BookView.GetBookView().SaveStateOfCurrentPage();
                 BookView.GetBookView().SetTicButtonInteractable(false);
                 for (int i = 0; i < toggles.Length; i++)
@@ -27,10 +30,11 @@ namespace Assets.Scripts._Levels.BookView
                     toggles[i].interactable = false;
                 }
                 BookView.GetBookView().SetForwardArrowInteractable(true);
+                BookView.GetBookView().SetHintButtonInteractble(false);
             }
             else
             {
-                // todo -> wrong sound
+                SoundController.GetController().PlayWrongSound();
             }
             BookView.GetBookView().SetTicButtonEnabled(true);
         }
@@ -81,16 +85,48 @@ namespace Assets.Scripts._Levels.BookView
                 
             }
 
-            if (BookView.GetBookView().IsCurrentPageResolved())
+            bool resolved = BookView.GetBookView().IsCurrentPageResolved();
             {
                 string correctAnswer = page.GetCorrectAnswer();
                 for (int i = 0; i < toggles.Length; i++)
                 {
-                    toggles[i].isOn = toggles[i].GetComponentInChildren<Text>().text == correctAnswer;
-                    toggles[i].interactable = false;
+                   
+                    toggles[i].isOn = resolved && toggles[i].GetComponentInChildren<Text>().text == correctAnswer;
+                    
+                    toggles[i].interactable = !resolved;
                 }
-                BookView.GetBookView().SetForwardArrowInteractable(false);
+                BookView.GetBookView().SetForwardArrowInteractable(resolved);
+                //BookView.GetBookView().SetTicButtonInteractable(!resolved);
             }
+            if (resolved) BookView.GetBookView().SetTicButtonInteractable(false);
+
+        }
+
+        internal override void ShowHint(string pista)
+        {
+            int hintIndex = text.text.IndexOf(pista, StringComparison.Ordinal);
+            int hintLength = pista.Length;
+
+            string start = text.text.Substring(0, hintIndex);
+            string middle = text.text.Substring(hintIndex, hintLength);
+            string end = text.text.Substring(hintIndex + hintLength, text.text.Length - (hintIndex + hintLength));
+
+            text.text = start + "<color=white>" + middle + "</color>" + end;
+
+        }
+
+        public void OnToggleClick()
+        {
+            SoundController.GetController().PlayClickSound();
+            for (int i = 0; i < toggles.Length; i++)
+            {
+                if (toggles[i].isOn)
+                {
+                    BookView.GetBookView().SetTicButtonInteractable(true);
+                    return;
+                }
+            }
+            BookView.GetBookView().SetTicButtonInteractable(false);
         }
 
     }

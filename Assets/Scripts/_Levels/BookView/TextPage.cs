@@ -25,5 +25,10 @@ namespace Assets.Scripts._Levels.BookView
         {
             text.text = page.text;
         }
+
+        internal override void ShowHint(string pista)
+        {
+            
+        }
     }
 }

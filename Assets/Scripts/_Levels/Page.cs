@@ -25,5 +25,10 @@ namespace Assets.Scripts._Levels
             }
             return "error";
         }
+
+        public bool HasClue()
+        {
+            return text != null && pista != null && text.Contains(pista);
+        }
     }
 }

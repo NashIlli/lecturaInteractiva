@@ -1,0 +1,828 @@
+{
+	"books": [{
+		"title": "La ostra que perdió su perla",
+		"pages": [{
+			"tipo": 2,
+			"img": "Cuentos_Ostra01.png",
+			"text": "Había una vez una ostra que estaba muy triste porque había perdido su perla.\n\nLa ostra le contó su desgracia a un pulpo que se arrastraba por el fondo del mar; el pulpo se la contó a una sardina; la sardina se la contó a un cangrejo; y el cangrejo se la contó a un ratón que estaban merodeando por la playa. ",
+			"pista": "",
+			"question": "",
+			"options": [{
+					"text": "",
+					"isCorrect": true
+				}, {
+					"text": "",
+					"isCorrect": false
+				}, {
+					"text": "",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 1,
+			"img": "",
+			"text": "-Pobre ostra. Voy a ver si encuentro por ahí algo que pueda sustituir a la perla que ha perdido.\n\n- Tiene que ser algo blanco, pequeño, duro y brillante – le indicó el cangrejo.\n\n El ratón fue a buscar por ahí, pero no encontró nada que sirviera. Encontró un botón que era blanco, brillante y pequeño, pero no era duro, pues lo podía roer con facilidad con sus dientecillos.",
+			"pista": "",
+			"question": "",
+			"options": [{
+					"text": "",
+					"isCorrect": true
+				}, {
+					"text": "",
+					"isCorrect": false
+				}, {
+					"text": "",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 3,
+			"img": ".png",
+			"text": "Encontró una piedrecita blanca, pequeña y dura, pero no era brillante. Encontró una moneda de plata blanca, dura y brillante, pero no era pequeña. Por fin, el ratón se coló en una casa donde había un niño al que acababa de caérsele un diente de leche. El niño había dejado el diente encima de su mesita de noche. El ratón vio el diente, se acercó y comprobó que era blanco, pequeño, duro y brillante. ",
+			"pista": "blanca, pequeña y dura, pero no era brillante",
+			"question": "¿Qué estaba buscando el ratón?",
+			"options": [{
+					"text": "Algo blanco, pequeño, duro y brillante",
+					"isCorrect": true
+				}, {
+					"text": "Una moneda",
+					"isCorrect": false
+				}, {
+					"text": "Un diente",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 3,
+			"img": "myImage",
+			"text": "“Esto sí servirá”, pensó el ratón.\n\nAsí que cogió el diente de leche y a cambio le dejó al niño la moneda de plata, luego volvió corriendo a la playa y le dio el diente al cangrejo, que se lo dio a la sardina, que se lo dio al pulpo, que se lo llevó a la ostra.",
+			"pista": "",
+			"question": "¿Qué dejó a cambio del diente?",
+			"options": [{
+					"text": "Una moneda de plata",
+					"isCorrect": true
+				}, {
+					"text": "Un cangrejo",
+					"isCorrect": false
+				}, {
+					"text": "Nada",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 5,
+			"img": "Cuentos_Ostra02.png",
+			"text": "",
+			"pista": "",
+			"question": "",
+			"options": [{
+					"text": "",
+					"isCorrect": true
+				}, {
+					"text": "",
+					"isCorrect": false
+				}, {
+					"text": "",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 3,
+			"img": "",
+			"text": "Entonces la ostra miró el diente y ... La ostra se puso contentísima, pues aquel diente de leche era del mismo tamaño que la perla que había perdido. Así que lo puso en el sitio de la perla y nadie pudo notar la diferencia.",
+			"pista": "Así que lo puso en el sitio de la perla y nadie pudo notar la diferencia.",
+			"question": "¿Qué hizo la ostra con el diente?",
+			"options": [{
+					"text": "Los usó para reemplazar su perla",
+					"isCorrect": true
+				}, {
+					"text": "Se lo devolvió al nene",
+					"isCorrect": false
+				}, {
+					"text": "Lo vendió por una perla",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 3,
+			"img": "",
+			"text": "Por eso, desde entonces, cuando a un niño se le cae un diente de leche, lo pone debajo de la almohada. Por la noche un ratón se lo lleva y le deja a cambio de un regalo, aunque no siempre es una moneda de plata.",
+			"pista": "",
+			"question": "¿Quién es el ratón de la historia?",
+			"options": [{
+					"text": "El ratón Peréz",
+					"isCorrect": true
+				}, {
+					"text": "Un ratón común",
+					"isCorrect": false
+				}, {
+					"text": "Una rata",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 3,
+			"img": "Cuentos_Ostra03.png",
+			"text": "Luego el ratón lleva el diente a la playa y se lo da a un cangrejo para que se lo dé a una sardina, para que se lo dé a un pulpo, para que se lo lleve a una ostra que ha perdido su perla.",
+			"pista": "",
+			"question": "",
+			"options": [{
+					"text": "",
+					"isCorrect": true
+				}, {
+					"text": "",
+					"isCorrect": false
+				}, {
+					"text": "",
+					"isCorrect": false
+				}
+
+			]
+		}]
+	}, {
+		"title": "Dédalo e Ícaro",
+		"pages": [{
+			"tipo": 1,
+			"img": "myImage",
+			"text": "Dédalo era el arquitecto, artesano e inventor muy hábil que vivía en Atenas. Era famoso por construir el laberinto de Creta e inventar naves que navegaban bajo el mar. Se casó con una mujer de Creta, Ariadna y tuvo dos hijos llamados Ícaro y Yápige. Juntos fueron a la isla de Creta, donde el rey Minos los recibió muy amistosamente y les encargaron muchos trabajos.",
+			"pista": "",
+			"question": "",
+			"options": [{
+					"text": "",
+					"isCorrect": true
+				}, {
+					"text": "",
+					"isCorrect": false
+				}, {
+					"text": "",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 3,
+			"img": ".png",
+			"text": "El rey Minos, que había ofendido al rey Poseidón, recibió como venganza que la reina, su esposa, se enamorara de un toro. Fruto de este amor nació el Minotauro, un monstruo mitad hombre y mitad toro.",
+			"pista": "Fruto de este amor nació el Minotauro, un monstruo mitad hombre y mitad toro.",
+			"question": "¿Qué es un minotauro?",
+			"options": [{
+					"text": "Un monstruo mitad humano mitad toro",
+					"isCorrect": true
+				}, {
+					"text": "Una bestia parecida a un dragón",
+					"isCorrect": false
+				}, {
+					"text": "El hijo de Dédalo",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 2,
+			"img": ".png",
+			"text": "Durante la estancia de Dédalo e Ícaro en Creta, el rey Minos les reveló que tenía que encerrar al Minotauro. Para encerrarlo, Minos ordenó a Dédalo construir un laberinto formado por muchísimos pasadizos dispuestos de una forma tan complicada que era imposible encontrar la salida. Pero Minos, para que nadie supiera cómo salir de él, encerró también a Dédalo y a su hijo Ícaro.",
+			"pista": "",
+			"question": "",
+			"options": [{
+					"text": "",
+					"isCorrect": true
+				}, {
+					"text": "",
+					"isCorrect": false
+				}, {
+					"text": "",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 3,
+			"img": "myImage",
+			"text": "Estuvieron allí encerrados durante mucho tiempo. Desesperados por salir, se le ocurrió a Dédalo la idea de fabricar unas alas, con plumas de pájaros y cera de abejas, con las que podrían escapar volando del laberinto de Creta.",
+			"pista": "Estuvieron allí encerrados durante mucho tiempo",
+			"question": "¿Por qué idearon las alas?",
+			"options": [{
+					"text": "Para escapar",
+					"isCorrect": true
+				}, {
+					"text": "Para aprender a volar",
+					"isCorrect": false
+				}, {
+					"text": "Porque eran artesanos",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 5,
+			"img": "myImage",
+			"text": "",
+			"pista": "",
+			"question": "",
+			"options": [{
+					"text": "",
+					"isCorrect": true
+				}, {
+					"text": "",
+					"isCorrect": false
+				}, {
+					"text": "",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 3,
+			"img": "",
+			"text": "Antes de salir, Dédalo le advirtió a su hijo Ícaro que no volara demasiado alto, porque si se acercaba al Sol, la cera de sus alas se derretiría y tampoco demasiado bajo porque las alas se les mojarían, y se harían demasiado pesadas para poder volar.",
+			"pista": "la cera de sus alas se derretiría",
+			"question": "¿Por qué debía tener cuidado Ícaro?",
+			"options": [{
+					"text": "Porque podrían arruinarse sus alas y caer",
+					"isCorrect": true
+				}, {
+					"text": "Porque no sabía volar",
+					"isCorrect": false
+				}, {
+					"text": "Porque había mucho sol",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 2,
+			"img": "",
+			"text": "Empezaron el viaje y al principio Ícaro obedeció sus consejos, volaba al lado suyo, pero después empezó a volar cada vez más alto y olvidándose de los consejos de su padre, se acercó tanto al Sol que se derritió la cera que sujetaba  las plumas de sus alas.  Sin alas, Ícaro no pudo sostenerse en el aire y su vuelo terminó sobre las agua del mar, donde se ahogó.",
+			"pista": "",
+			"question": "",
+			"options": [{
+					"text": "",
+					"isCorrect": true
+				}, {
+					"text": "",
+					"isCorrect": false
+				}, {
+					"text": "",
+					"isCorrect": false
+				}
+
+			]
+		}]
+	}, {
+		"title": "El traje nuevo del emperador",
+		"pages": [{
+			"tipo": 3,
+			"img": "myImage",
+			"text": "Había una vez un emperador muy pero muy vanidoso que pasaba mucho tiempo mirándose en el espejo y probándose ropa. Tanta era la dedicación que ponía en su guardarropas que descuidaba los asuntos de estado para poder pasar más tiempo arreglándose...",
+			"pista": "pasaba mucho tiempo mirándose en el espejo y probándose ropa",
+			"question": "¿Qué significa vanidoso?",
+			"options": [{
+					"text": "Que piensa mucho en su aspecto físico",
+					"isCorrect": true
+				}, {
+					"text": "Una persona malvada",
+					"isCorrect": false
+				}, {
+					"text": "Una persona tonta",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 1,
+			"img": ".png",
+			"text": "Sabiendo esto, un día dos pícaros pidieron audiencia con su majestad diciendo ser sastres capaces de crear el más fabuloso traje nunca visto. Como se imaginarán, esto interesó mucho al emperador, así que los recibió y les preguntó:\n\n-¿En verdad sois tan buenos sastres?\n\n-Por supuesto majestad-, dijo uno de ellos, -pero el mérito no es solo nuestro. El secreto de nuestro trabajo está en la magnífica tela que empleamos-.",
+			"pista": "",
+			"question": "",
+			"options": [{
+					"text": "",
+					"isCorrect": true
+				}, {
+					"text": "",
+					"isCorrect": false
+				}, {
+					"text": "",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 2,
+			"img": "Cuentos_Emperador01.png",
+			"text": "- Ohh! -exclamó el soberano entusiasmado- no puedo esperar para ver esa tela maravillosa. Mostrádmela ahora mismo-les ordenó. \n\nEntonces los dos hombres le dijeron: -Por supuesto majestad. Pero debéis saber algo más: ésta es una tela mágica que le permitirá detectar a sus súbditos de bajo intelecto, pues sólo la gente inteligente puede ver esta tela-.",
+			"pista": "",
+			"question": "",
+			"options": [{
+					"text": "",
+					"isCorrect": true
+				}, {
+					"text": "",
+					"isCorrect": false
+				}, {
+					"text": "",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 3,
+			"img": "myImage",
+			"text": "Y así diciendo esto le extendieron al emperador sus brazos vacíos, simulando sostener en ellos la tela encantada.\n-Aquí la tenéis- dijeron. Y al no ver nada, el emperador pensó: -¿Será que soy tan tonto que no puedo verla? Nadie puede enterarse, así que fingiré verla y pediré opinión a mis ministros para estar seguro de que la tela es hermosa-.",
+			"pista": "simulando sostener en ellos la tela encantada",
+			"question": "¿Por qué el emperador no podía ver la tela?",
+			"options": [{
+					"text": "Porque no existía",
+					"isCorrect": true
+				}, {
+					"text": "Porque era tonto",
+					"isCorrect": false
+				}, {
+					"text": "Porque debía usar anteojos",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 5,
+			"img": "Cuentos_Emperador02.png",
+			"text": "",
+			"pista": "",
+			"question": "",
+			"options": [{
+					"text": "",
+					"isCorrect": true
+				}, {
+					"text": "",
+					"isCorrect": false
+				}, {
+					"text": "",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 3,
+			"img": "",
+			"text": "Entonces preguntó a sus consejeros presentes: -¿Qué piensan ustedes de esta tela?- Y como nadie quería pasar por tonto, todos contestaron: -Magnífica, majestad. Realmente digna de un emperador-. Así fue que los falsos sastres fueron contratados por una cuantiosa suma para confeccionar un traje con esa tela",
+			"pista": "Y como nadie quería pasar por tonto, todos contestaron: -Magnífica, majestad",
+			"question": "¿Por qué todos mentían y decían que la tela era hermosa?",
+			"options": [{
+					"text": "Porque no querían parecer tontos",
+					"isCorrect": true
+				}, {
+					"text": "Porque nadie la veía",
+					"isCorrect": false
+				}, {
+					"text": "Porque eran mentirosos",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 1,
+			"img": "",
+			"text": "Muy pronto se corrió la voz en todo el reino de que su vanidosa majestad tenía un nuevo traje que la gente tonta no podía ver; y que, como era su costumbre, desfilaría ante el pueblo para que todos pudieran alabarlo.\n\nFinalmente un día, los presuntos sastres anunciaron que el trabajo estaba terminado, presentando al emperador una percha vacía de la que, se supone, colgaban las nuevas ropas del emperador. Ilusionado, el rey, fue <b>vestido<b/> con la ayuda de los dos pícaros que no paraban de manifestar su admiración por lo perfecto que el traje sentaba a su majestad.Y, aunque el emperador no veía frente al espejo más que su imagen en calzones, les siguió la corriente y salió a las calles del reino para que todos pudiesen admirarlo.",
+			"pista": "",
+			"question": "",
+			"options": [{
+					"text": "",
+					"isCorrect": true
+				}, {
+					"text": "",
+					"isCorrect": false
+				}, {
+					"text": "",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 3,
+			"img": "",
+			"text": "Todo el pueblo se había congregado para ver el traje mágico, pero al igual que los demás, nadie se animó a decir que no podía verlo, por temor a ser considerado un tonto, así que comenzaron a alabarlo y felicitarlo. Pero entre la multitud, un niño pequeño gritó: -¡Miren, el emperador está desnudo!-",
+			"pista": "",
+			"question": "¿Por qué lo aplaudían al emperador?",
+			"options": [{
+					"text": "Porque no querían que pensaran que eran tontos",
+					"isCorrect": true
+				}, {
+					"text": "Porque no lo veían",
+					"isCorrect": false
+				}, {
+					"text": "Porque era el rey",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 2,
+			"img": "Cuentos_Emperador03.png",
+			"text": "Y todos entonces comenzaron a reír porque se dieron cuenta de que lo que el muchacho decía era verdad. Entonces, el emperador cayó en cuenta del engaño y perdido por la vergüenza, volvió corriendo a su castillo para cubrirse. Desde ese día, nunca más volvió a estar tan pendiente de su vestuario y comenzó a ocuparse de su reino como un verdadero soberano.",
+			"pista": "",
+			"question": "",
+			"options": [{
+					"text": "",
+					"isCorrect": true
+				}, {
+					"text": "",
+					"isCorrect": false
+				}, {
+					"text": "",
+					"isCorrect": false
+				}
+
+			]
+		}]
+	}, {
+		"title": "El flautista de Hamelin",
+		"pages": [{
+			"tipo": 1,
+			"img": "myImage",
+			"text": "Hace mucho, muchísimo tiempo, en la próspera ciudad de Hamelín, sucedió algo muy extraño: una mañana, cuando sus gordos y satisfechos habitantes salieron de sus casas, encontraron las calles invadidas por miles de ratones que merodeaban por todas partes.",
+			"pista": "",
+			"question": "",
+			"options": [{
+					"text": "",
+					"isCorrect": true
+				}, {
+					"text": "",
+					"isCorrect": false
+				}, {
+					"text": "",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 2,
+			"img": "Cuentos_Hamelin01.png",
+			"text": "Devoraban, insaciables, el grano de sus repletos graneros y la comida de sus bien provistas despensas. Nadie acertaba a comprender la causa de tal invasión, y lo que era aún peor, nadie sabía qué hacer para acabar con la plaga",
+			"pista": "",
+			"question": "",
+			"options": [{
+					"text": "",
+					"isCorrect": true
+				}, {
+					"text": "",
+					"isCorrect": false
+				}, {
+					"text": "",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 3,
+			"img": ".png",
+			"text": "Por más que intentaban exterminarlos o, al menos, ahuyentarlos, parecía que cada vez acudían más y más ratones a la ciudad. Tal era la cantidad de ratones que hasta los mismos gatos huían asustados.\nAnte la gravedad de la situación, convocaron al Consejo y dijeron: -Daremos cien monedas de oro a quien nos libre de los ratones",
+			"pista": "",
+			"question": "¿Por qué huían auyentados los gatos?",
+			"options": [{
+					"text": "Porque había muchísimos ratones",
+					"isCorrect": true
+				}, {
+					"text": "Porque los ratones eran enormes",
+					"isCorrect": false
+				}, {
+					"text": "Porque se convocó un Consejo",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 3,
+			"img": ".png",
+			"text": "Dicho esto, comenzó a pasear por las calles y, mientras paseaba, tocaba con su flauta una maravillosa melodía que encantaba a los ratones, quienes, saliendo de sus escondrijos, seguían embelesados los pasos del flautista que tocaba incansable su flauta.\nY así, caminando y tocando, los llevó a un  río donde, al intentar cruzarlo para seguir al flautista, todos los ratones perecieron ahogados.",
+			"pista": "los ratones, quienes, saliendo de sus escondrijos, seguían embelesados los pasos del flautista que tocaba incansable su flauta",
+			"question": "¿Qué hizo el flautista con los ratones?",
+			"options": [{
+					"text": "Los llevó al río donde se ahogaron",
+					"isCorrect": true
+				}, {
+					"text": "Las hizo bailar",
+					"isCorrect": false
+				}, {
+					"text": "Las llevó al río con su flauta pero nadaron",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 5,
+			"img": "Cuentos_Hamelin02.png",
+			"text": "",
+			"pista": "",
+			"question": "",
+			"options": [{
+					"text": "",
+					"isCorrect": true
+				}, {
+					"text": "",
+					"isCorrect": false
+				}, {
+					"text": "",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 3,
+			"img": "myImage",
+			"text": "Los hamelineses, al verse al fin libres de las voraces tropas de ratones, respiraron aliviados. Ya tranquilos y satisfechos, volvieron a sus prósperos negocios, y tan contentos estaban que organizaron una gran fiesta para celebrar el feliz desenlace, comiendo excelentes viandas y bailando hasta muy entrada la noche.",
+			"pista": " al verse al fin libres de las voraces tropas de ratones",
+			"question": "¿Por qué hicieron una fiesta?",
+			"options": [{
+					"text": "Para festejar que los ratones se habían ido",
+					"isCorrect": true
+				}, {
+					"text": "En honor a la ciudad",
+					"isCorrect": false
+				}, {
+					"text": "Para limpiar la ciudad",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 1,
+			"img": "",
+			"text": "A la mañana siguiente, el flautista se presentó ante el Consejo y reclamó a los hombres de la ciudad las cien monedas de oro prometidas como recompensa. Pero éstos, liberados ya de su problema y cegados por su avaricia, le contestaron: -¡Vete de nuestra ciudad!, ¿o acaso crees que te pagaremos tanto oro por tan poca cosa como tocar la flauta?\nY dicho esto, los hombres del Consejo de Hamelín le volvieron la espalda dando grandes carcajadas. Furioso por la avaricia y la ingratitud de los hamelineses, el flautista, al igual que hiciera el día anterior, tocó una dulcísima melodía una y otra vez.",
+			"pista": "",
+			"question": "",
+			"options": [{
+					"text": "",
+					"isCorrect": true
+				}, {
+					"text": "",
+					"isCorrect": false
+				}, {
+					"text": "",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 3,
+			"img": "",
+			"text": "Pero esta vez no eran los ratones quienes le seguían, sino los niños de la ciudad quienes, arrebatados por aquel sonido maravilloso, iban tras los pasos del extraño músico. Tomados de la mano y sonrientes, formaban una gran hilera. Pero estaban sordos a los ruegos y gritos de sus padres que en vano, entre sollozos de desesperación, intentaban impedir que siguieran al flautista.",
+			"pista": " iban tras los pasos del extraño músico",
+			"question": "¿Por qué no los escuchaban los niños a sus padres?",
+			"options": [{
+					"text": "Porque estaban bajo el encanto del flautista",
+					"isCorrect": true
+				}, {
+					"text": "Porque eran desobedientes",
+					"isCorrect": false
+				}, {
+					"text": "Porque eran sordos",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 2,
+			"img": "Cuentos_Hamelin03.png",
+			"text": "Nada lograron y el flautista se los llevó tan lejos que nadie supo adónde, y los niños, al igual que los ratones, nunca jamás volvieron. En la ciudad sólo quedaron sus ricos habitantes, protegidos por sus sólidas murallas y un inmenso manto de silencio y tristeza. Así Hamelín quedó vacía y, por más que busques, nunca encontrarás ni un ratón ni un niño.",
+			"pista": "",
+			"question": "",
+			"options": [{
+					"text": "",
+					"isCorrect": true
+				}, {
+					"text": "",
+					"isCorrect": false
+				}, {
+					"text": "",
+					"isCorrect": false
+				}
+
+			]
+		}]
+	}, {
+		"title": "Los músicos de Bremen",
+		"pages": [{
+			"tipo": 1,
+			"img": "myImage",
+			"text": "Había una vez un burro que trabajaba en una granja. Cuando el burro se hizo viejo, su amo decidió llevarlo al matadero. Pero el burro descubrió sus planes y escapó de la granja.\n -¡Qué injusticia! He gastado toda mi vida y mis fuerzas al servicio del amo... ¡y mira cómo me lo agradece! -murmuraba el burro.\nEntonces, pensó en ir a la ciudad de Bremen para hacerse músico de la banda municipal.",
+			"pista": "",
+			"question": "",
+			"options": [{
+					"text": "",
+					"isCorrect": true
+				}, {
+					"text": "",
+					"isCorrect": false
+				}, {
+					"text": "",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 3,
+			"img": ".png",
+			"text": "Por el camino encontró a un perro de caza y le preguntó:\n-Amigo, ¿por qué corres con la lengua fuera?\n-Porque soy viejo y mi amo quiere matarme...\nEl burro escuchó todas las desgracias del perro y dijo:\n-Compañero, vente conmigo a Bremen y nos haremos músicos de la banda municipal. Yo tocaré la guitarra y tú el tambor.",
+			"pista": "-Amigo, ¿por qué corres con la lengua fuera?\n-Porque soy viejo y mi amo quiere matarme...",
+			"question": "¿Qué estaba haciendo el perro?",
+			"options": [{
+					"text": "Escapando de su dueño",
+					"isCorrect": true
+				}, {
+					"text": "Escapando del burro",
+					"isCorrect": false
+				}, {
+					"text": "Corriendo por placer",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 3,
+			"img": ".png",
+			"text": "Al cabo de un rato, el burro y el perro se encontraron con un gato.\n-Amigo, ¿por qué estás triste? -le preguntaron.\n-Como ya soy viejo, mi ama quería ahogarme. Por eso he escapado y ahora no sé cómo voy a ganarme la vida...\n-No te preocupes -le dijeron-; tu historia es igual que la nuestra. Ven con nosotros, nos haremos músicos.",
+			"pista": "-Como ya soy viejo, mi ama quería ahogarme. Por eso he escapado y ahora no sé cómo voy a ganarme la vida...",
+			"question": "¿Por qué dicen que todas las historias son iguales?",
+			"options": [{
+					"text": "Porque los dueños no los quieren más",
+					"isCorrect": true
+				}, {
+					"text": "Porque están todos de paseo y viajando",
+					"isCorrect": false
+				}, {
+					"text": "Porque son todos animales",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 2,
+			"img": "Cuentos_Bremen01.png",
+			"text": "-No te preocupes -le dijeron-; tu historia es igual que la nuestra. Ven con nosotros, nos haremos músicos.\nUn poco más adelante, el burro, el perro y el gato oyeron a un gallo que cantaba, parecía que se iba a romper la garganta.\nEl gallo les dijo:\n-¡Qué injusticia! Toda la vida he trabajado de despertador y mañana piensan echarme a la sopa... Ahora, canto hasta desgañitarme mientras puedo.\nEntonces, el burro le dijo:\n- Vente con nosotros a Bremen. Vamos a ser músicos de la banda municipal.",
+			"pista": "",
+			"question": "",
+			"options": [{
+					"text": "",
+					"isCorrect": true
+				}, {
+					"text": "",
+					"isCorrect": false
+				}, {
+					"text": "",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 3,
+			"img": "myImage",
+			"text": "Pero la ciudad de Bremen estaba lejos y la noche se les echó encima a medio camino. Los cuatro músicos decidieron pasar la noche junto a un árbol grueso.\nEl burro y el perro se quedaron bajo el árbol, el gato trepó a una rama y el gallo se encaramó a la rama más alta.",
+			"pista": "el gallo se encaramó a la rama más alta.",
+			"question": "¿Qué querrá decir 'El gallo se encaramó a la rama más alta'?",
+			"options": [{
+					"text": "Que durmió subido a un árbol",
+					"isCorrect": true
+				}, {
+					"text": "Que se acostó debajo del árbol",
+					"isCorrect": false
+				}, {
+					"text": "Que no durmió",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 1,
+			"img": "",
+			"text": "Desde aquella altura, el gallo gritó:\n-¡Se ve una luz a lo lejos...!\n-Vamos allá, amigos -dijo el burro-; seguro que es mejor posada que ésta.\nCuando llegaron a la casa, el burro se asomó a una ventana y dijo:\n-Hay un grupo de bandidos sentados a la mesa. Tienen preparada una cena fastuosa.\nLos animales, después de alguna discusión, prepararon un plan para echar a los bandidos.",
+			"pista": "",
+			"question": "",
+			"options": [{
+					"text": "",
+					"isCorrect": true
+				}, {
+					"text": "",
+					"isCorrect": false
+				}, {
+					"text": "",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 5,
+			"img": "Cuentos_Bremen02.png",
+			"text": "",
+			"pista": "",
+			"question": "",
+			"options": [{
+					"text": "",
+					"isCorrect": true
+				}, {
+					"text": "",
+					"isCorrect": false
+				}, {
+					"text": "",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 3,
+			"img": "",
+			"text": "El burro apoyó las patas delanteras en la ventana; el perro se puso encima del burro; el gato se encaramó sobre el perro y el gallo, sobre la cabeza del gato.\nA una señal, todos comenzaron su música: el burro rebuznaba, el perro ladraba, el gato maullaba y el gallo cantaba. Y, a una señal, todos se echaron sobre la ventana. ",
+			"pista": "el burro rebuznaba, el perro ladraba, el gato maullaba y el gallo cantaba.",
+			"question": "¿Qué sonido hace el gato?",
+			"options": [{
+					"text": "Maulla",
+					"isCorrect": true
+				}, {
+					"text": "Canta",
+					"isCorrect": false
+				}, {
+					"text": "Rebuzna",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 3,
+			"img": "",
+			"text": "El cristal se rompió en mil pedazos y los bandidos gritaron asustados:\n-¡Fantasmas! ¡La casa está embrujada!\nY todos huyeron aterrorizados al bosque.",
+			"pista": "-¡Fantasmas! ¡La casa está embrujada!",
+			"question": "¿Qué pensaban los bandidos que eran los animales?",
+			"options": [{
+					"text": "Fantasmas",
+					"isCorrect": true
+				}, {
+					"text": "Una banda",
+					"isCorrect": false
+				}, {
+					"text": "Animales",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 1,
+			"img": "",
+			"text": "Entonces, los cuatro músicos de Bremen se sentaron a la mesa y dieron buena cuenta de todos los alimentos. Cuando terminaron de cenar, apagaron la luz y se acostaron.\nCuando los bandidos se tranquilizaron, el capitán mandó a uno que fuera a la casa para espiar.\nEl bandido entró sin hacer ruido; al fondo de la habitación brillaban los ojos del gato. El bandido pensó que era fuego y acercó una cerilla para encender una vela.",
+			"pista": "",
+			"question": "",
+			"options": [{
+					"text": "",
+					"isCorrect": true
+				}, {
+					"text": "",
+					"isCorrect": false
+				}, {
+					"text": "",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 3,
+			"img": "",
+			"text": "Entonces, el gato se lanzó sobre él y le arañó la cara; en su huida tropezó con el perro y éste le mordió en una pierna; finalmente, el burro le atizó una patada tremenda.\nCuando escapaba aterrorizado oyó cantar al gallo:\n-¡Quiquiriqui!\nEl ladrón volvió junto a sus compañeros y les dijo:",
+			"pista": "",
+			"question": "Qué significa 'Quiquiriqui'?",
+			"options": [{
+					"text": "Es el canto del gallo",
+					"isCorrect": true
+				}, {
+					"text": "Es el grito del bandido",
+					"isCorrect": false
+				}, {
+					"text": "Es el ruido de la puerta",
+					"isCorrect": false
+				}
+
+			]
+		}, {
+			"tipo": 2,
+			"img": "Cuentos_Bremen03.png",
+			"text": "-En la casa hay una bruja horrible. Nada más entrar me arañó la cara. Luego, me agarró la pierna con unas tenazas y un mostruo negro y peludo me golpeó con una porra. Cuando escapaba, un fantasma gritó: «¡Traédmelo aquí!»\nA partir de aquel día, los bandidos no se atrevieron a volver a la casa y los cuatro músicos de Bremen se quedaron en ella para siempre.",
+			"pista": "",
+			"question": "",
+			"options": [{
+					"text": "",
+					"isCorrect": true
+				}, {
+					"text": "",
+					"isCorrect": false
+				}, {
+					"text": "",
+					"isCorrect": false
+				}
+
+			]
+		}]
+	}]
+}

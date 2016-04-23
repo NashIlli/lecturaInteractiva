@@ -2,6 +2,8 @@
 using System.Collections;
 using UnityEngine.UI;
 using System;
+using Assets.Scripts.App;
+using Assets.Scripts.Sound;
 
 namespace Assets.Scripts._Levels.BookView
 {
@@ -17,11 +19,14 @@ namespace Assets.Scripts._Levels.BookView
         [SerializeField]
         private Button ticButton;
         [SerializeField]
-        private GameObject[] pages;
+        private Button hintButton;
+        [SerializeField]
+        private PageView[] pages;
 
         private int currentPage;
         private Book book;
         private bool[] pagesResolved;
+        private bool[] hintShowed;
 
 
 
@@ -35,6 +40,7 @@ namespace Assets.Scripts._Levels.BookView
         public void StartBook(Book book)
         {
             pagesResolved = new bool[book.pages.Length];
+            hintShowed = new bool[book.pages.Length];
             currentPage = 0;
             this.book = book;
             ShowPage(0);
@@ -42,10 +48,18 @@ namespace Assets.Scripts._Levels.BookView
 
         private void ShowPage(int indexPage)
         {
-            pages[book.pages[currentPage].tipo - 1].SetActive(false);
+            pages[book.pages[currentPage].tipo - 1].gameObject.SetActive(false);
             currentPage = indexPage;
-            pages[book.pages[indexPage].tipo - 1].SetActive(true);
+            pages[book.pages[indexPage].tipo - 1].gameObject.SetActive(true);
             pages[book.pages[indexPage].tipo - 1].GetComponentInChildren<PageView>().ShowPage(book.pages[currentPage]);
+            backwardArrow.gameObject.SetActive(currentPage > 0);
+            hintButton.interactable = book.pages[currentPage].HasClue() && !hintShowed[currentPage] && !IsCurrentPageResolved();
+            if(hintShowed[currentPage]) pages[book.pages[currentPage].tipo - 1].ShowHint(book.pages[currentPage].pista);;
+        }
+
+        internal void SetHintButtonInteractble(bool v)
+        {
+            hintButton.interactable = v;
         }
 
         internal void SetForwardArrowInteractable(bool v)
@@ -86,7 +100,9 @@ namespace Assets.Scripts._Levels.BookView
 
         public static Sprite LoadSprite(string path)
         {
-            return Resources.Load<Sprite>(path);
+            Debug.Log(path);
+
+            return Resources.Load<Sprite>(path.Substring(0, path.Length - 4));
             
         }
 
@@ -98,6 +114,39 @@ namespace Assets.Scripts._Levels.BookView
         internal bool IsCurrentPageResolved()
         {
             return pagesResolved[currentPage];
+        }
+
+        public void OnClickBackwardArrow()
+        {
+            SoundController.GetController().PlayClickSound();
+            ShowPage(currentPage-1);
+        }
+
+        public void OnClickForwardArrow()
+        {
+            SoundController.GetController().PlayClickSound();
+            if (book.pages.Length - 1 > currentPage) ShowPage(currentPage+1);
+            else Debug.Log("book finished");
+        }
+
+        public void OnClickTicButton()
+        {
+            SoundController.GetController().PlayClickSound();
+            pages[book.pages[currentPage].tipo - 1].OnClickTic();
+        }
+
+        public void OnClickHintButton()
+        {
+            SoundController.GetController().PlayClickSound();
+            hintButton.interactable = false;
+            hintShowed[currentPage] = true;
+            pages[book.pages[currentPage].tipo - 1].ShowHint(book.pages[currentPage].pista);
+        }
+
+        public void OnClickMenuBtn()
+        {
+            SoundController.GetController().PlayClickSound();
+            ViewController.GetController().ShowInGameMenu();
         }
     }
 }

@@ -25,8 +25,13 @@ namespace Assets.Scripts._Levels.BookView
 
         public override void ShowPage(Page page)
         {
-            image.sprite = BookView.LoadSprite("Immages/" + page.img);
+            image.sprite = BookView.LoadSprite("Images/" + page.img);
             text.text = page.text;
+        }
+
+        internal override void ShowHint(string pista)
+        {
+            
         }
     }
 }

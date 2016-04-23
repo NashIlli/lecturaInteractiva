@@ -1,0 +1,755 @@
+{
+	"books": [{
+			"title": "El agua de la vida",
+			"pages": [{
+				"tipo": 3,
+				"img": "myImage",
+				"text": "Hubo una vez un rey que enfermó gravemente. No había nada que le calmara su dolor. Los sabios decidieron que sólo podría curarle el agua de la vida, pero no se conocía a nadie que la hubiera encontrado. Este rey tenía tres hijos. El mayor decidió partir en busca de ella. - Si logro que mejore, mi padre me premiará generosamente - pensaba, pues le importaba más el oro que la salud de su padre.",
+				"pista": "- Si logro que mejore, mi padre me premiará generosamente - pensaba, pues le importaba más el oro que la salud de su padre",
+				"question": "¿Por qué salió en búsqueda del agua de la vida el hijo mayor?",
+				"options": [{
+						"text": "",
+						"isCorrect": true
+					}, {
+						"text": "",
+						"isCorrect": false
+					}, {
+						"text": "",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 2,
+				"img": "Cuentos_Agua01.png",
+				"text": "En su camino encontró a un pequeño hombrecillo que le preguntó su destino. - ¿Qué ha de importarte eso a ti?, ¡Enano! Déjame seguir mi camino-. El duende, ofendido por el maleducado príncipe, utilizó sus poderes para desviarle hacia una garganta en las montañas que cada vez se estrechaba más, hasta que ni el caballo pudo dar la vuelta, y allí quedó atrapado. Viendo que su hermano no volvía, el mediano decidió ir en busca de la medicina para su padre: -Toda la recompensa será para mí.- pensaba ambiciosamente.",
+				"pista": "",
+				"question": "",
+				"options": [{
+						"text": "",
+						"isCorrect": true
+					}, {
+						"text": "",
+						"isCorrect": false
+					}, {
+						"text": "",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 3,
+				"img": "myImage",
+				"text": "No llevaba mucho recorrido, cuando el duende se le apareció preguntando a dónde iba: - ¡Qué te importará a ti! Aparta de mi camino, ¡Enano!- El duende se hizo a un lado, no sin antes maldecirle para que acabara en la misma trampa que el mayor, atrapado en un paso de las montañas que cada vez se hizo más estrecho, hasta que caballo y jinete quedaron inmovilizados.",
+				"pista": "- ¡Qué te importará a ti! Aparta de mi camino, ¡Enano!- ",
+				"question": "¿Por qué el duende atrapó a los hermanos?",
+				"options": [{
+						"text": "Porque estaba ofendido por cómo le hablaron",
+						"isCorrect": true
+					}, {
+						"text": "Porque era un duende travieso",
+						"isCorrect": false
+					}, {
+						"text": "Porque no quería que llegaran al agua de la vida",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 1,
+				"img": "myImage",
+				"text": " Al pasar los días y no tener noticias, el menor de los hijos del rey decidió ir en busca de sus hermanos y el agua milagrosa para sanar a su padre. Cabalgando, encontró al hombrecillo que también a él le preguntó su destino: - Mi padre está muy enfermo, busco el agua de la vida, que es la única cura para él.\n- ¿Sabes ya a dónde debes dirigirte para encontrarla? – Volvió a preguntar el enano. \n- Aún no, ¿me podrías ayudar, duendecillo? \n- Has resultado ser amable y humilde, y mereces mi favor. Toma esta varilla y estos dos panes y dirígete hacia el castillo encantado. Toca la puerta tres veces con la vara, y arroja un pan a cada una de las dos bestias que intentarán comerte.",
+				"pista": "",
+				"question": "",
+				"options": [{
+						"text": "",
+						"isCorrect": true
+					}, {
+						"text": "",
+						"isCorrect": false
+					}, {
+						"text": "",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 3,
+				"img": "myImage",
+				"text": "- Busca entonces la fuente del agua de la vida tan rápido como puedas, pues si dan las doce, y sigues en el interior del castillo, ya nunca más podrás salir. – Añadió el enanito.\nA lomos de su caballo, pasados varios días, llegó el príncipe al castillo encantado. Tocó tres veces la puerta con la vara mágica, amansó a las bestias con los panes,  y llegó a una estancia donde había una preciosa muchacha y ella exclamó:",
+				"pista": "",
+				"question": "¿Para qué servían el pan y la varilla?",
+				"options": [{
+						"text": "Para domar a las bestias y abrir la puerta",
+						"isCorrect": true
+					}, {
+						"text": "Para hacer mágia y comer",
+						"isCorrect": false
+					}, {
+						"text": "Para abrir a las bestias y darle de comer a la puerta",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 1,
+				"img": "myImage",
+				"text": "¡Por fin se ha roto el hechizo! En agradecimiento, me casaré contigo si vuelves dentro de un año. Contento por el ofrecimiento, el muchacho buscó rápidamente la fuente de la que manaba el agua de la vida. Llenó un frasco con ella y salió del castillo antes de las doce. De vuelta a palacio, se encontró de nuevo con el duende, a quien relató su experiencia y pidió: - Mis hermanos partieron hace tiempo, y no les he vuelto a ver. ¿No sabrías dónde puedo encontrarles? - Están atrapados por la avaricia y el egoísmo, pero tu bondad les hará libres. Vuelve a casa y por el camino los encontrarás. Pero ¡cuídate de ellos!",
+				"pista": "",
+				"question": "",
+				"options": [{
+						"text": "",
+						"isCorrect": true
+					}, {
+						"text": "",
+						"isCorrect": false
+					}, {
+						"text": "",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 3,
+				"img": "myImage",
+				"text": "Tal como había anunciado el duende, el menor encontró a sus dos hermanos antes de llegar al castillo del rey. Los tres fueron a ver a su padre, quien después de tomar el agua de la vida se recuperó por completo. Incluso pareció rejuvenecer.",
+				"pista": "Los tres fueron a ver a su padre, quien después de tomar el agua de la vida se recuperó por completo. Incluso pareció rejuvenecer.",
+				"question": "¿Qué hizo el agua de la vida?",
+				"options": [{
+						"text": "Mejoró al rey y lo hizo parecer más joven",
+						"isCorrect": true
+					}, {
+						"text": "Lo mató",
+						"isCorrect": false
+					}, {
+						"text": "Lo hizo más lindo",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 5,
+				"img": "Cuentos_Agua02.png",
+				"text": "",
+				"pista": "",
+				"question": "",
+				"options": [{
+						"text": "",
+						"isCorrect": true
+					}, {
+						"text": "",
+						"isCorrect": false
+					}, {
+						"text": "",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 3,
+				"img": "myImage",
+				"text": "El menor de los hermanos le relató entonces su compromiso con la princesa, y su padre, orgulloso, le dio su más sincera bendición para la boda. Así pues, cerca de la fecha pactada, el menor de los príncipes se dispuso a partir en busca de su amada.",
+				"pista": "El menor de los hermanos le relató entonces su compromiso con la princesa, y su padre, orgulloso, le dio su más sincera bendición para la boda",
+				"question": "¿Cuál era el compromiso del príncipe?",
+				"options": [{
+						"text": "Casarse con la princesa",
+						"isCorrect": true
+					}, {
+						"text": "Devolverle el agua al duende",
+						"isCorrect": false
+					}, {
+						"text": "Castigar a los hermanos por ser codiciosos",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 3,
+				"img": "myImage",
+				"text": "La princesa, esperando ansiosa en el castillo, ordenó extender una carretera de oro, desde su palacio hasta el camino, para dar la bienvenida a su futuro esposo: - Dejad pasar a aquel que venga por el centro de la carretera,- dijo a los guardianes – Cualquier otro será un impostor.- Advirtió. Y marchó a hacer los preparativos.",
+				"pista": "La princesa, esperando ansiosa en el castillo, ordenó extender una carretera de oro, desde su palacio hasta el camino, para dar la bienvenida a su futuro esposo",
+				"question": "¿Qué hizo la princesa?",
+				"options": [{
+						"text": "Puso una carretera de oro para darle la bienvenida al períncipe joven",
+						"isCorrect": true
+					}, {
+						"text": "Puso una carretera de oro para que el príncipe creyera que era rica",
+						"isCorrect": false
+					}, {
+						"text": "Engañó al príncipe con oro",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 3,
+				"img": "myImage",
+				"text": "Efectivamente, los dos hermanos mayores, envidiosos, tramaron por separado llegar antes que él y presentarse a la princesa como sus libertadores: - Suplantaré a mi hermano y desposaré a la princesa - Pensaba cada uno de ellos. ",
+				"pista": "Efectivamente, los dos hermanos mayores, envidiosos, tramaron por separado llegar antes que él y presentarse a la princesa como sus libertadores",
+				"question": "¿Por qué los hermanos tramaron suplantar a su hermano?",
+				"options": [{
+						"text": "Porque eran envidiosos",
+						"isCorrect": true
+					}, {
+						"text": "Porque eran más grandes",
+						"isCorrect": false
+					}, {
+						"text": "Porque se los pidió su padre",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 1,
+				"img": "myImage",
+				"text": "El primero en llegar fue el hermano mayor, que al ver la carretera de oro pensó que la estropearía si la pisaba, y dando un rodeo, se presentó a los guardas de la puerta, por la derecha, como el rescatador de la princesa. Mas éstos, obedientes le negaron el paso. El hermano mediano llegó después, pero apartó al caballo de la carretera por miedo a estropearla, y tomó el camino de la izquierda hasta los guardias, que tampoco le dejaron entrar.",
+				"pista": "",
+				"question": "",
+				"options": [{
+						"text": "",
+						"isCorrect": true
+					}, {
+						"text": "",
+						"isCorrect": false
+					}, {
+						"text": "",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 2,
+				"img": "Cuentos_Agua03.png",
+				"text": "Por último llegó el hermano menor, que ni siquiera notó cuando el caballo comenzó a caminar por la carretera de oro, pues iba tan absorto en sus pensamientos sobre la princesa que se podría decir que flotaba.",
+				"pista": "",
+				"question": "",
+				"options": [{
+						"text": "",
+						"isCorrect": true
+					}, {
+						"text": "",
+						"isCorrect": false
+					}, {
+						"text": "",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 3,
+				"img": "myImage",
+				"text": "Al llegar a la puerta, le abrieron enseguida, y allí estaba la princesa esperándole con los brazos abiertos, llena de alegría y reconociéndole como su salvador. La boda duró varios días, y trajeron mucha felicidad a la pareja, que invitó también al padre, que nunca volvió a enfermar.",
+				"pista": "",
+				"question": "¿Qué pasó al final de la historia?",
+				"options": [{
+						"text": "Los príncipes se casaron y festejaron por muchos días",
+						"isCorrect": true
+					}, {
+						"text": "Los hermanos engañaron a la princesa",
+						"isCorrect": false
+					}, {
+						"text": "El padre volvió a enfermar",
+						"isCorrect": false
+					}
+
+				]
+			}]
+		}, {
+			"title": "La tortuga",
+			"pages": [{
+				"tipo": 3,
+				"img": "myImage",
+				"text": "En una ocasión en que fuimos de caza con Milton, al llegar al bosque él irguió las orejas y la cola y comenzó a olfatear. Me imaginé que había encontrado el rastro de una liebre o un faisán y alisté mi escopeta. Pero lo raro fue que Milton no entró en el bosque y continuó por el campo abierto.",
+				"pista": "al llegar al bosque él irguió las orejas y la cola y comenzó a olfatear",
+				"question": "¿Quién es Milton?",
+				"options": [{
+						"text": "El perro",
+						"isCorrect": true
+					}, {
+						"text": "El hijo",
+						"isCorrect": false
+					}, {
+						"text": "Un amigo",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 2,
+				"img": "Cuentos_Tortuga03.png",
+				"text": "Lo seguí con bastante curiosidad. De repente vi que una tortuga avanzaba todo lo rápido que se lo permitían sus patas cortas. Alargaba el cuello, y la pequeña cabeza se asemejaba al badajo de una campanilla.\nApenas percibió la presencia del perro, se hundió en la hierba, recogiendo la cabeza y las patas dentro del caparazón. Milton la encontró de inmediato y comenzó a mordisquearla, irritándose al descubrir que sus dientes no lograban traspasarla.",
+				"pista": "",
+				"question": "",
+				"options": [{
+						"text": "",
+						"isCorrect": true
+					}, {
+						"text": "",
+						"isCorrect": false
+					}, {
+						"text": "",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 3,
+				"img": "myImage",
+				"text": "En efecto, era imposible que lo hiciera, ya que las tortugas están provistas de una coraza como las armaduras de los caballeros medievales, que también les protege el pecho. Esta coraza tiene orificios por los que sacan la cabeza y las extremidades.",
+				"pista": "Esta coraza tiene orificios por los que sacan la cabeza y las extremidades",
+				"question": "¿Qué es la coraza?",
+				"options": [{
+						"text": "El caparazón",
+						"isCorrect": true
+					}, {
+						"text": "El corazón",
+						"isCorrect": false
+					}, {
+						"text": "La cabeza",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 5,
+				"img": "Cuentos_Tortuga02.png",
+				"text": "",
+				"pista": "",
+				"question": "",
+				"options": [{
+						"text": "",
+						"isCorrect": true
+					}, {
+						"text": "",
+						"isCorrect": false
+					}, {
+						"text": "",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 1,
+				"img": "myImage",
+				"text": "Arrebaté la tortuga del hocico de Milton y admiré los dibujos de su caparazón. También observé por una de las ranuras, y la vi latiendo en el interior de su coraza. Después la deposité sobre la hierba y continué mi caminata. Sin embargo, Milton se negó a abandonarla allí y me siguió llevándola bien sujeta entre sus mandíbulas.\nAsí avanzamos un trecho. De repente Milton soltó su presa, aullando. Lo examiné y comprendí que la tortuga había sacado una de sus patas, dentro del hocico de mi perro, arañándole la lengua.",
+				"pista": "",
+				"question": "",
+				"options": [{
+						"text": "",
+						"isCorrect": true
+					}, {
+						"text": "",
+						"isCorrect": false
+					}, {
+						"text": "",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 2,
+				"img": "Cuentos_Tortuga01.png",
+				"text": "Milton ladraba furioso, pero volvió a agarrar a la tortuga y, aunque le ordené soltarla e intenté quitársela a la fuerza, fue inútil. Poco más adelante, mi perro cavó un hoyo y sólo entonces soltó la tortuga, tirándola dentro del agujero que cubrió rápidamente con tierra.",
+				"pista": "",
+				"question": "",
+				"options": [{
+						"text": "",
+						"isCorrect": true
+					}, {
+						"text": "",
+						"isCorrect": false
+					}, {
+						"text": "",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 3,
+				"img": "myImage",
+				"text": "Hay tortugas que habitan en la tierra y otras en el agua. Ellas procrean poniendo huevos que que se abren solos, como en el caso de los peces. Su tamaño es muy variable, ya que hay tortuguitas muy pequeñas, como miniaturas; otras, las más corrientes, del tamaño de un plato, y también algunas extremadamente grandes, que viven en los mares y pesan sobre doscientos kilos.",
+				"pista": "Ellas procrean poniendo huevos que que se abren solos, como en el caso de los peces.",
+				"question": "¿Cómo tienen hijos las tortugas?",
+				"options": [{
+						"text": "Ponen huevos",
+						"isCorrect": true
+					}, {
+						"text": "Comen peces",
+						"isCorrect": false
+					}, {
+						"text": "Como los humanos",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 3,
+				"img": "myImage",
+				"text": "El caparazón de la tortuga equivale a sus costillas. En consecuencia, mientras el resto de los animales tiene las costillas debajo de la carne, ella las tienen encima, formando su coraza protectora.",
+				"pista": "El caparazón de la tortuga equivale a sus costillas.",
+				"question": "¿Qué es el caparazón?",
+				"options": [{
+						"text": "Son como las costillas de las tortugas",
+						"isCorrect": true
+					}, {
+						"text": "La carne de las tortugas",
+						"isCorrect": false
+					}, {
+						"text": "La piel de las tortugas",
+						"isCorrect": false
+					}
+
+				]
+			}]
+		}, {
+			"title": "Las gorgonas",
+			"pages": [{
+				"tipo": 3,
+				"img": "myImage",
+				"text": "Las Gorgonas eran tres monstruos y se llamaban Esteno, Euré­ale y Medusa.  Las tres eran hijas de las divinidades marinas Forcis y Ceto. La cabeza de estos monstruos estaba rodeada de serpientes, tení­an grandes colmillos, manos de bronce y alas de oro. Su mirada era tan penetrante que el que osaba mirarlas a los ojos quedaba convertido en piedra.",
+				"pista": "Las Gorgonas eran tres monstruos ",
+				"question": "¿Qué eran las Gorgonas?",
+				"options": [{
+						"text": "Monstruos que al mirarlas te convertían en piedra",
+						"isCorrect": true
+					}, {
+						"text": "Mujeres que tenían colmillos y alas",
+						"isCorrect": false
+					}, {
+						"text": "Mujeres que tenían tres hijas: Esteno, Euréale y Medusa",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 2,
+				"img": "Cuentos_Medusa01",
+				"text": "Las más terribles de ellas se llamaban Medusa. De la cabeza de Medusa, en lugar de cabellos, salían culebras vivas. Y cuando Medusa veía cara a cara a un hombre, a un perro, a un ser vivo, el hombre y el perro y el ser vivo quedaban convertidos instantáneamente en estatuas de piedra.",
+				"pista": "",
+				"question": "",
+				"options": [{
+						"text": "",
+						"isCorrect": true
+					}, {
+						"text": "",
+						"isCorrect": false
+					}, {
+						"text": "",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 3,
+				"img": "myImage",
+				"text": "A lo largo de los años, muchos héroes valientes y bien armados habían venido a la región del monte Atlas para matar a Medusa. Ninguno había podido matarlo. Por todas partes se veían guerreros y más guerreros, en actitudes diversas, pero inmóviles y tiesos porque eran ya estatuas.",
+				"pista": "Por todas partes se veían guerreros y más guerreros, en actitudes diversas, pero inmóviles y tiesos porque eran ya estatuas.",
+				"question": "¿Por qué se veían guerreros convertidos en piedra?",
+				"options": [{
+						"text": "Porque intentaban matar a Medusa y ella los convertía en piedra",
+						"isCorrect": true
+					}, {
+						"text": "Porque Atlas era mágico",
+						"isCorrect": false
+					}, {
+						"text": "Porque eran todos los hombres que mataban a Medusa",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 1,
+				"img": "myImage",
+				"text": "Entonces vino Perseo, hijo del dios Zeus. Perseo sabía qué peligrosos eran los ojos de Medusa, pero venía muy bien preparado. Tenía una espada encorvada, filosísima, regalo del dios Hermes, Tenía un escudo muy fuerte, hecho de bronce, liso como un espejo. Y tenía también unas alas que volaban solas cada vez que él se las acomodaba en los talones.",
+				"pista": "",
+				"question": "",
+				"options": [{
+						"text": "",
+						"isCorrect": true
+					}, {
+						"text": "",
+						"isCorrect": false
+					}, {
+						"text": "",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 5,
+				"img": "Cuentos_Medusa02.png",
+				"text": "",
+				"pista": "",
+				"question": "",
+				"options": [{
+						"text": "",
+						"isCorrect": true
+					}, {
+						"text": "",
+						"isCorrect": false
+					}, {
+						"text": "",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 3,
+				"img": "myImage",
+				"text": "Llegó, pues, volando. Pero en vez de lanzarse contra Medusa, se quedó algo lejos, sin preocuparse más que de una cosa: no mirarla nunca cara a cara, no verla a los ojos por ningún motivo. Y como era necesario espiarla todo el tiempo, usó el escudo de bronce como espejo, y en él observaba lo que ella hacía.",
+				"pista": "Y como era necesario espiarla todo el tiempo, usó el escudo de bronce como espejo, y en él observaba lo que ella hacía.",
+				"question": "¿Para qué usaba su escudo?",
+				"options": [{
+						"text": "Para no mirar a Medusa directamente a la cara y poder observar qué hacía",
+						"isCorrect": true
+					}, {
+						"text": "Porque le gustaba el reflejo que prosucía",
+						"isCorrect": false
+					}, {
+						"text": "Porque estaba muy lejos",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 2,
+				"img": "Cuentos_Medusa03.png",
+				"text": "Medusa iba de un lado para otro, esforzándose en asustar a Perseo, Gritaba cosas espantosas, y las culebras de su cabeza se movían y silbaban con furia. Pero nunca consiguió que Perseo la viera directamente. Cansada al fin, Medusa se fue quedando dormida. ",
+				"pista": "",
+				"question": "",
+				"options": [{
+						"text": "",
+						"isCorrect": true
+					}, {
+						"text": "",
+						"isCorrect": false
+					}, {
+						"text": "",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 3,
+				"img": "myImage",
+				"text": "Sus ojos terribles se cerraron, y poco a poco se durmieron también sus culebras. Entonces se acercó Perseo sin ruido, empuñó la espada y de un solo tajo le cortó la cabeza. Durante toda su vida conservó Perseo la cabeza de Medusa, que varias veces le sirvió para convertir en piedra a sus enemigos.",
+				"pista": "Durante toda su vida conservó Perseo la cabeza de Medusa, que varias veces le sirvió para convertir en piedra a sus enemigos.",
+				"question": "¿Qué hizo Perseo con la cabeza de Medusa?",
+				"options": [{
+						"text": "La usó para convertir a sus enemigos en piedra",
+						"isCorrect": true
+					}, {
+						"text": "La enterró",
+						"isCorrect": false
+					}, {
+						"text": "La dejó durmiendo",
+						"isCorrect": false
+					}
+
+				]
+			}]
+		}, {
+			"title": "San Jorge y el dragón",
+			"pages": [{
+				"tipo": 1,
+				"img": "myImage",
+				"text": "Cuenta la leyenda que llegó a oídos de Jorge que en un pequeño reinado de una comarca lejana, había una bestia fabulosa que molestaba a la población. Salió él hacia ese lugar. La bestia era un inmenso dragón que habitaba en la orilla de un lago cerca de la ciudad. Este dragón no sólo se devoraba a sus presas sino que su aliento era mortal. A fin de calmarlo y mantenerlo a cierta distancia, se le entregaba periódicamente animales. Así corrían los días, los meses, hasta que un día se acabaron todos los animales de la región, no había que animal entregar en sacrificio.",
+				"pista": "",
+				"question": "",
+				"options": [{
+						"text": "",
+						"isCorrect": true
+					}, {
+						"text": "",
+						"isCorrect": false
+					}, {
+						"text": "",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 3,
+				"img": "myImage",
+				"text": "En ese momento un campesino recordó que la princesa, la hija del rey, cuidaba de un pequeño corderito que había quedado huérfano, entonces la población decidió ir a pedirle el corderito a la princesa. Esta, con todo su dolor y desconsuelo comenzó a llorar y se negó a entregarlo. El rey ordenó inmediatamente enviar a sacrificio a aquel corderito, para mantener tranquila a la bestia.",
+				"pista": "cuidaba de un pequeño corderito que había quedado huérfano, entonces la población decidió ir a pedirle el corderito a la princesa.",
+				"question": "¿Por qué debían sacrificar el cordero de la princesa?",
+				"options": [{
+						"text": "Porque ya no había más animales para sacrificar",
+						"isCorrect": true
+					}, {
+						"text": "Porque al dragón le gustaban los corderos",
+						"isCorrect": false
+					}, {
+						"text": "Porque eran malos",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 2,
+				"img": "Cuentos_Jorge01.png",
+				"text": " En el momento en que el dragón fue en busca de su presa, se encontró con el pequeño cordero, al cual rechazó, matándolo de un solo zarpazo, lo dejó tirado en el lugar y se retiró. La princesa se enteró de lo sucedido y le pidió a su padre, el rey, que le hiciera hacer un cinturón con la piel del cordero. A los días de aquel episodio, en el pueblo se escuchó un fuerte estruendo, acompañado de bravos bramidos. El viento se volvió fuerte de golpe, todo parecía que era una gran tormenta, pero el cielo estaba claro y el sol brillaba desde lo alto, sin nubes.",
+				"pista": "",
+				"question": "",
+				"options": [{
+						"text": "",
+						"isCorrect": true
+					}, {
+						"text": "",
+						"isCorrect": false
+					}, {
+						"text": "",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 3,
+				"img": "myImage",
+				"text": "Era el dragón que se había enfurecido y clamaba por una cuota mayor de alimento. Aterrada la gente y el rey, convino el rey que era hora de entregarle al dragón carne humana, pero esta debería ser de muchachas menores de 15 años. La población de acuerdo con el rey creyó que era el único camino que había para calmar a la bestia que se había enfurecido como nunca.",
+				"pista": "Aterrada la gente y el rey, convino el rey que era hora de entregarle al dragón carne humana, pero esta debería ser de muchachas menores de 15 años",
+				"question": "¿Quién propuso entregarle muchachas menores de 15 años al dragón?",
+				"options": [{
+						"text": "El rey",
+						"isCorrect": true
+					}, {
+						"text": "San Jorge",
+						"isCorrect": false
+					}, {
+						"text": "La gente",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 3,
+				"img": "myImage",
+				"text": "Y así hicieron, hasta que llegó el día en que no quedaba ni una sola muchacha. La única que quedaba era la princesa, la hija del rey. La gente se presentó en el palacio y le dijo al rey que tenía que entregar a la princesa, y puesto que el mismo rey había escrito el edicto para las muchachas menores de 15 años, era justo que entregue a la princesa que aún no los había cumplido.",
+				"pista": "",
+				"question": "¿Qué hizo la gente?",
+				"options": [{
+						"text": "Le dijo al rey que pfreciera su hija al dragón",
+						"isCorrect": true
+					}, {
+						"text": "Se fue del pueblo con sus hijas",
+						"isCorrect": false
+					}, {
+						"text": "Mataron al dragón junto con todas las muchachas",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 5,
+				"img": "Cuentos_Jorge02.png",
+				"text": "",
+				"pista": "",
+				"question": "",
+				"options": [{
+						"text": "",
+						"isCorrect": true
+					}, {
+						"text": "",
+						"isCorrect": false
+					}, {
+						"text": "",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 3,
+				"img": "myImage",
+				"text": "El rey lloraba desconsoladamente al ver que la partida de su hija era inminente, y la princesa vistiendo sus mejores galas se presentó para que sea llevada en sacrificio al dragón, llevaba puesta su corona, también el cinturón con la piel de su pequeño cordero. ",
+				"pista": "El rey lloraba desconsoladamente al ver que la partida de su hija era inminente",
+				"question": "¿Por qué lloraba el rey?",
+				"options": [{
+						"text": "Porque su hija iba a morir",
+						"isCorrect": true
+					}, {
+						"text": "Porque le tenía miedo al dragón",
+						"isCorrect": false
+					}, {
+						"text": "Porque la gente la princesa llevaba puesta su corona",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 1,
+				"img": "myImage",
+				"text": " Caminaba firme y decidida en medio de la aclamación del pueblo, y del llanto de su padre. Al llegar a las afueras de la ciudad, a la vera del lago la dejaron sola, todos se retiraron, en ese momento la princesa se arrodilló y dirigió su mirada a lo alto del cielo.\nDe repente apareció un soldado a caballo, que se abalanzó hacia donde estaba la princesa. Ella, al no entender de qué se trataba, se quedó paralizada. El caballero se dirigió hacia el dragón y se trenzaron en una brava lucha. El dragón se retorcía tratando de enredarse en las patas del caballo para hacerlo caer y dejar indefenso al caballero.",
+				"pista": "",
+				"question": "",
+				"options": [{
+						"text": "",
+						"isCorrect": true
+					}, {
+						"text": "",
+						"isCorrect": false
+					}, {
+						"text": "",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 2,
+				"img": "Cuentos_Jorge03.png",
+				"text": "Al no conseguir tirar al caballo, el dragón se levantó, se irguió y fijó su mirada en los ojos del caballero, era de esta manera que hipnotizaba a sus víctimas, para luego darles muerte. Pero el caballero pudo más que él, y cerrando los ojos para no ser hipnotizado, tomó su lanza y la hincó levemente en la cabeza del dragón.",
+				"pista": "",
+				"question": "",
+				"options": [{
+						"text": "",
+						"isCorrect": true
+					}, {
+						"text": "",
+						"isCorrect": false
+					}, {
+						"text": "",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 3,
+				"img": "myImage",
+				"text": "Entonces, le gritó a la princesa que le pasara el cinturón que ella llevaba puesto. Esta le pasó una punta del cinturón y San Jorge enroscó la cabeza del dragón con el cinturón de la princesa. En ese momento San Jorge le dijo a la princesa que no tuviera miedo, porque el dragón se había vuelto manso como un cordero.",
+				"pista": " Esta le pasó una punta del cinturón y San Jorge enroscó la cabeza del dragón con el cinturón de la princesa.",
+				"question": "¿Cómo domó al dragón San Jorge?",
+				"options": [{
+						"text": "Le puso el cinturon del cordero al rededor del cuello",
+						"isCorrect": true
+					}, {
+						"text": "Lo himnotizó",
+						"isCorrect": false
+					}, {
+						"text": "No lo domó, lo mató.",
+						"isCorrect": false
+					}
+
+				]
+			}, {
+				"tipo": 3,
+				"img": "myImage",
+				"text": "Al llegar frente al rey, el caballero Jorge le cortó la cabeza al dragón y se la ofreció al rey. De la tierra mojada con la sangre del dragón, nació un hermoso rosal con las rosas más rojas jamás vistas. El caballero cortó una de las rosas y se la dio a la princesa, de quien se había enamorado perdidamente. ",
+				"pista": "El caballero cortó una de las rosas y se la dio a la princesa, de quien se había enamorado perdidamente",
+				"question": "¿Por qué le dio la rosa a la princesa?",
+				"options": [{
+						"text": "Porque se había enamorado de ella",
+						"isCorrect": true
+					}, {
+						"text": "Porque mató al dragón",
+						"isCorrect": false
+					}, {
+						"text": "Como agradecimiento",
+						"isCorrect": false
+					}
+
+				]
+			}]
+		}
+
+	]
+}
