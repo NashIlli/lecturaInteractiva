@@ -8,13 +8,13 @@
 				"pista": "- Si logro que mejore, mi padre me premiará generosamente - pensaba, pues le importaba más el oro que la salud de su padre",
 				"question": "¿Por qué salió en búsqueda del agua de la vida el hijo mayor?",
 				"options": [{
-						"text": "",
+						"text": "Para ser recompensado",
 						"isCorrect": true
 					}, {
-						"text": "",
+						"text": "Porque quería a su padre",
 						"isCorrect": false
 					}, {
-						"text": "",
+						"text": "Estaba preocupado por la salud de su padre",
 						"isCorrect": false
 					}
 
@@ -367,8 +367,8 @@
 			}, {
 				"tipo": 3,
 				"img": "myImage",
-				"text": "Hay tortugas que habitan en la tierra y otras en el agua. Ellas procrean poniendo huevos que que se abren solos, como en el caso de los peces. Su tamaño es muy variable, ya que hay tortuguitas muy pequeñas, como miniaturas; otras, las más corrientes, del tamaño de un plato, y también algunas extremadamente grandes, que viven en los mares y pesan sobre doscientos kilos.",
-				"pista": "Ellas procrean poniendo huevos que que se abren solos, como en el caso de los peces.",
+				"text": "Hay tortugas que habitan en la tierra y otras en el agua. Ellas procrean poniendo huevos que se abren solos, como en el caso de los peces. Su tamaño es muy variable, ya que hay tortuguitas muy pequeñas; otras, del tamaño de un plato, y también algunas extremadamente grandes, que viven en los mares y pesan sobre doscientos kilos.",
+				"pista": "Ellas procrean poniendo huevos que se abren solos, como en el caso de los peces.",
 				"question": "¿Cómo tienen hijos las tortugas?",
 				"options": [{
 						"text": "Ponen huevos",
@@ -389,7 +389,7 @@
 				"pista": "El caparazón de la tortuga equivale a sus costillas.",
 				"question": "¿Qué es el caparazón?",
 				"options": [{
-						"text": "Son como las costillas de las tortugas",
+						"text": "Es como las costillas de las tortugas",
 						"isCorrect": true
 					}, {
 						"text": "La carne de las tortugas",
@@ -406,7 +406,7 @@
 			"pages": [{
 				"tipo": 3,
 				"img": "myImage",
-				"text": "Las Gorgonas eran tres monstruos y se llamaban Esteno, Euré­ale y Medusa.  Las tres eran hijas de las divinidades marinas Forcis y Ceto. La cabeza de estos monstruos estaba rodeada de serpientes, tení­an grandes colmillos, manos de bronce y alas de oro. Su mirada era tan penetrante que el que osaba mirarlas a los ojos quedaba convertido en piedra.",
+				"text": "Las Gorgonas eran tres monstruos y se llamaban Esteno, Euréale y Medusa. La cabeza de estos monstruos estaba rodeada de serpientes, tenían grandes colmillos, manos de bronce y alas de oro. Su mirada era tan penetrante que el que osaba mirarlas a los ojos quedaba convertido en piedra.",
 				"pista": "Las Gorgonas eran tres monstruos ",
 				"question": "¿Qué eran las Gorgonas?",
 				"options": [{
@@ -423,8 +423,8 @@
 				]
 			}, {
 				"tipo": 2,
-				"img": "Cuentos_Medusa01",
-				"text": "Las más terribles de ellas se llamaban Medusa. De la cabeza de Medusa, en lugar de cabellos, salían culebras vivas. Y cuando Medusa veía cara a cara a un hombre, a un perro, a un ser vivo, el hombre y el perro y el ser vivo quedaban convertidos instantáneamente en estatuas de piedra.",
+				"img": "Cuentos_Medusa01.png",
+				"text": "Las más terrible de ellas se llamaban Medusa. De la cabeza de Medusa, en lugar de cabellos, salían culebras vivas. Y cuando Medusa veía cara a cara a un hombre, a un perro, a un ser vivo, el hombre y el perro y el ser vivo quedaban convertidos instantáneamente en estatuas de piedra.",
 				"pista": "",
 				"question": "",
 				"options": [{
@@ -460,7 +460,7 @@
 			}, {
 				"tipo": 1,
 				"img": "myImage",
-				"text": "Entonces vino Perseo, hijo del dios Zeus. Perseo sabía qué peligrosos eran los ojos de Medusa, pero venía muy bien preparado. Tenía una espada encorvada, filosísima, regalo del dios Hermes, Tenía un escudo muy fuerte, hecho de bronce, liso como un espejo. Y tenía también unas alas que volaban solas cada vez que él se las acomodaba en los talones.",
+				"text": "Entonces vino Perseo, hijo del dios Zeus. Perseo sabía qué peligrosos eran los ojos de Medusa, pero venía muy bien preparado. Tenía una espada encorvada, filosísima, regalo del dios Hermes. Tenía un escudo muy fuerte, hecho de bronce, liso como un espejo. Y tenía también unas alas que volaban solas cada vez que él se las acomodaba en los talones.",
 				"pista": "",
 				"question": "",
 				"options": [{
@@ -500,10 +500,10 @@
 				"pista": "Y como era necesario espiarla todo el tiempo, usó el escudo de bronce como espejo, y en él observaba lo que ella hacía.",
 				"question": "¿Para qué usaba su escudo?",
 				"options": [{
-						"text": "Para no mirar a Medusa directamente a la cara y poder observar qué hacía",
+						"text": "Para no mirar a Medusa a la cara y poder observar qué hacía",
 						"isCorrect": true
 					}, {
-						"text": "Porque le gustaba el reflejo que prosucía",
+						"text": "Porque le gustaba el reflejo que producía",
 						"isCorrect": false
 					}, {
 						"text": "Porque estaba muy lejos",
@@ -514,7 +514,7 @@
 			}, {
 				"tipo": 2,
 				"img": "Cuentos_Medusa03.png",
-				"text": "Medusa iba de un lado para otro, esforzándose en asustar a Perseo, Gritaba cosas espantosas, y las culebras de su cabeza se movían y silbaban con furia. Pero nunca consiguió que Perseo la viera directamente. Cansada al fin, Medusa se fue quedando dormida. ",
+				"text": "Medusa iba de un lado para otro, esforzándose en asustar a Perseo. Gritaba cosas espantosas, y las culebras de su cabeza se movían y silbaban con furia. Pero nunca consiguió que Perseo la viera directamente. Cansada al fin, Medusa se fue quedando dormida. ",
 				"pista": "",
 				"question": "",
 				"options": [{
@@ -571,7 +571,7 @@
 			}, {
 				"tipo": 3,
 				"img": "myImage",
-				"text": "En ese momento un campesino recordó que la princesa, la hija del rey, cuidaba de un pequeño corderito que había quedado huérfano, entonces la población decidió ir a pedirle el corderito a la princesa. Esta, con todo su dolor y desconsuelo comenzó a llorar y se negó a entregarlo. El rey ordenó inmediatamente enviar a sacrificio a aquel corderito, para mantener tranquila a la bestia.",
+				"text": "En ese momento un campesino recordó que la princesa, la hija del rey, cuidaba de un pequeño corderito que había quedado huérfano, entonces la población decidió ir a pedirle el corderito a la princesa. Esta, con todo su dolor comenzó a llorar. El rey ordenó inmediatamente enviar a sacrificio a aquel corderito, para mantener tranquila a la bestia.",
 				"pista": "cuidaba de un pequeño corderito que había quedado huérfano, entonces la población decidió ir a pedirle el corderito a la princesa.",
 				"question": "¿Por qué debían sacrificar el cordero de la princesa?",
 				"options": [{
@@ -589,7 +589,7 @@
 			}, {
 				"tipo": 2,
 				"img": "Cuentos_Jorge01.png",
-				"text": " En el momento en que el dragón fue en busca de su presa, se encontró con el pequeño cordero, al cual rechazó, matándolo de un solo zarpazo, lo dejó tirado en el lugar y se retiró. La princesa se enteró de lo sucedido y le pidió a su padre, el rey, que le hiciera hacer un cinturón con la piel del cordero. A los días de aquel episodio, en el pueblo se escuchó un fuerte estruendo, acompañado de bravos bramidos. El viento se volvió fuerte de golpe, todo parecía que era una gran tormenta, pero el cielo estaba claro y el sol brillaba desde lo alto, sin nubes.",
+				"text": " En el momento en que el dragón fue en busca de su presa, se encontró con el pequeño cordero, al cual rechazó, matándolo de un sólo zarpazo, lo dejó tirado en el lugar y se retiró. La princesa se enteró de lo sucedido y le pidió a su padre, el rey, que le hiciera hacer un cinturón con la piel del cordero. A los días de aquél episodio, en el pueblo se escuchó un fuerte estruendo, acompañado de bravos bramidos. El viento se volvió fuerte de golpe, todo parecía que era una gran tormenta, pero el cielo estaba claro y el sol brillaba desde lo alto, sin nubes.",
 				"pista": "",
 				"question": "",
 				"options": [{
@@ -607,9 +607,9 @@
 			}, {
 				"tipo": 3,
 				"img": "myImage",
-				"text": "Era el dragón que se había enfurecido y clamaba por una cuota mayor de alimento. Aterrada la gente y el rey, convino el rey que era hora de entregarle al dragón carne humana, pero esta debería ser de muchachas menores de 15 años. La población de acuerdo con el rey creyó que era el único camino que había para calmar a la bestia que se había enfurecido como nunca.",
+				"text": "Era el dragón que se había enfurecido y clamaba por una cuota mayor de alimento. Aterrada la gente y el rey, convino el rey que era hora de entregarle al dragón carne humana, pero esta debería ser de muchachas menores de 15 años. La población de acuerdo con el rey creyó que era el único camino.",
 				"pista": "Aterrada la gente y el rey, convino el rey que era hora de entregarle al dragón carne humana, pero esta debería ser de muchachas menores de 15 años",
-				"question": "¿Quién propuso entregarle muchachas menores de 15 años al dragón?",
+				"question": "¿Quién propuso entregar muchachas menores de 15 años al dragón?",
 				"options": [{
 						"text": "El rey",
 						"isCorrect": true
@@ -625,11 +625,11 @@
 			}, {
 				"tipo": 3,
 				"img": "myImage",
-				"text": "Y así hicieron, hasta que llegó el día en que no quedaba ni una sola muchacha. La única que quedaba era la princesa, la hija del rey. La gente se presentó en el palacio y le dijo al rey que tenía que entregar a la princesa, y puesto que el mismo rey había escrito el edicto para las muchachas menores de 15 años, era justo que entregue a la princesa que aún no los había cumplido.",
+				"text": "Y así hicieron, hasta que llegó el día en que no quedaba ni una sola muchacha. La única que quedaba era la princesa, la hija del rey. La gente le dijo al rey que tenía que entregar a la princesa, y puesto que el mismo rey había escrito el edicto para las muchachas, era justo que entregue a la princesa que aún no los había cumplido.",
 				"pista": "",
 				"question": "¿Qué hizo la gente?",
 				"options": [{
-						"text": "Le dijo al rey que pfreciera su hija al dragón",
+						"text": "Le dijo al rey que ofreciera su hija al dragón",
 						"isCorrect": true
 					}, {
 						"text": "Se fue del pueblo con sus hijas",
@@ -671,7 +671,7 @@
 						"text": "Porque le tenía miedo al dragón",
 						"isCorrect": false
 					}, {
-						"text": "Porque la gente la princesa llevaba puesta su corona",
+						"text": "Porque la princesa llevaba puesta su corona",
 						"isCorrect": false
 					}
 
@@ -715,14 +715,14 @@
 			}, {
 				"tipo": 3,
 				"img": "myImage",
-				"text": "Entonces, le gritó a la princesa que le pasara el cinturón que ella llevaba puesto. Esta le pasó una punta del cinturón y San Jorge enroscó la cabeza del dragón con el cinturón de la princesa. En ese momento San Jorge le dijo a la princesa que no tuviera miedo, porque el dragón se había vuelto manso como un cordero.",
+				"text": "Entonces, le gritó a la princesa que le pasara el cinturón que ella llevaba puesto. Esta le pasó una punta del cinturón y San Jorge enroscó la cabeza del dragón con el cinturón de la princesa. En ese momento San Jorge le dijo a la princesa que no tuviera miedo, porque el dragón se había vuelto manso.",
 				"pista": " Esta le pasó una punta del cinturón y San Jorge enroscó la cabeza del dragón con el cinturón de la princesa.",
 				"question": "¿Cómo domó al dragón San Jorge?",
 				"options": [{
-						"text": "Le puso el cinturon del cordero al rededor del cuello",
+						"text": "Le puso el cinturón del cordero al rededor del cuello",
 						"isCorrect": true
 					}, {
-						"text": "Lo himnotizó",
+						"text": "Lo hipnotizó",
 						"isCorrect": false
 					}, {
 						"text": "No lo domó, lo mató.",

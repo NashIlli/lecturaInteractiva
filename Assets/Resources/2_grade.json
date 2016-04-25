@@ -76,7 +76,7 @@
 		}, {
 			"tipo": 3,
 			"img": "myImage",
-			"text": "- ¡Viene el lobo! ¡Viene el lobo!\n\nPero esta vez corría más deprisa de lo normal y gritaba también más fuerte de lo normal. Sin embargo, los vecinos del pueblo no le hicieron ni caso, hartos ya de que el pastor les hubiera engañado tantas veces.",
+			"text": "- ¡Viene el lobo! ¡Viene el lobo!\nPero esta vez corría más deprisa de lo normal y gritaba también más fuerte de lo normal. Sin embargo, los vecinos del pueblo no le hicieron ni caso, hartos ya de que el pastor les hubiera engañado tantas veces.",
 			"pista": "los vecinos del pueblo no le hicieron ni caso, hartos ya de que el pastor les hubiera engañado tantas veces",
 			"question": "¿Por qué no le hicieron caso los vecinos?",
 			"options": [{
@@ -133,7 +133,7 @@
 		}, {
 			"tipo": 3,
 			"img": "myImage",
-			"text": "Un día, pasó por allí el terrible Hades, el dios de los infiernos. Se enamoró de Perséfone y la raptó para llevarla con él.\n\nTriste y enojada, Démeter decidió abandonar sus funciones. La tierra se quedó desolada y sin ningún fruto ya que, sin la diosa para cuidar de ella, la tierra se seca y las plantas no crecen.",
+			"text": "Un día, pasó por allí el terrible Hades, el dios de los infiernos. Se enamoró de Perséfone y la raptó para llevarla con él.\nTriste y enojada, Démeter decidió abandonar sus funciones. La tierra se quedó desolada y sin ningún fruto ya que, sin la diosa para cuidar de ella, la tierra se seca y las plantas no crecen.",
 			"pista": "Triste y enojada, Démeter decidió abandonar sus funciones. La tierra se quedó desolada y sin ningún fruto ya que, sin la diosa para cuidar de ella, la tierra se seca y las plantas no crecen.",
 			"question": "¿Por qué no floreció la tierra?",
 			"options": [{
@@ -169,7 +169,7 @@
 		}, {
 			"tipo": 3,
 			"img": "myImage",
-			"text": "Ante este desastre Zeus, el dios de los dioses, se vio obligado a intervenir para devolverle la hija a su madre. Bajó al infierno a hablar con Hades y le ordenó de volver a Perséfone. Pero Hades no era ningún tonto y antes de que Perséfone volviera con su madre, le dio de comer el fruto de los infiernos.",
+			"text": "Ante este desastre Zeus, el dios de los dioses, se vio obligado a intervenir para devolverle la hija a su madre. Bajó al infierno a hablar con Hades y le ordenó devolver a Perséfone. Pero Hades no era ningún tonto y antes de que Perséfone volviera con su madre, le dio de comer el fruto de los infiernos.",
 			"pista": "Bajó al infierno a hablar con Hades",
 			"question": "¿Dónde estaban Hades y Perséfone?",
 			"options": [{
@@ -260,7 +260,7 @@
 
 			]
 		}, {
-			"tipo": 4,
+			"tipo": 2,
 			"img": "Cuentos_Caperucita01.png",
 			"text": "Caperucita vio al costado del camino unas hermosas flores. Decidió juntarlas para armar un ramo para su abuela.\n\nEl lobo fue a la casa de la abuelita y tocó la puerta. La abuela abrió la puerta y zas el lobo se la comió de un bocado.",
 			"pista": "",
@@ -373,7 +373,7 @@
 		"pages": [{
 			"tipo": 3,
 			"img": "myImage",
-			"text": "Junto a sus papás, tres cerditos habían crecido alegremente en una cabaña del bosque. Y cómo ya eran mayores, sus papás decidieron que era hora de que hicieran, cada uno, su propia casa. Los tres cerditos se despidieron de sus papás, y fueron a ver cómo era el mundo. El primer cerdito era muy perezoso. Él decidió hacer una casa de paja. En un minuto la choza estaba hecha. Y entonces se echó a dormir",
+			"text": "Junto a sus papás, tres cerditos habían crecido alegremente en una cabaña del bosque. Sus papás decidieron que era hora de que hicieran, cada uno, su propia casa. Los tres cerditos se despidieron de sus papás. El primer cerdito era muy perezoso. Él decidió hacer una casa de paja. En un minuto la choza estaba hecha. Y entonces se echó a dormir",
 			"pista": "El primer cerdito era muy perezoso. Él decidió hacer una casa de paja.",
 			"question": "¿Por qué decidió hacer una casa de paja el primer cerdito?",
 			"options": [{
@@ -389,9 +389,9 @@
 
 			]
 		}, {
-			"tipo": 3,
+			"tipo": 1,
 			"img": "myImage",
-			"text": "El segundo cerdito era glotón. Él prefirió hacer una cabaña de madera. No tardó mucho en construirla. Y luego se echó a comer manzanas. El tercer cerdito era muy trabajador.Él construyó una casa de ladrillos y cemento.Tardó más en construirla pero se sintió más protegido.",
+			"text": "El segundo cerdito era glotón. Él prefirió hacer una cabaña de madera. No tardó mucho en construirla. Y luego se echó a comer manzanas. El tercer cerdito era muy trabajador. Él construyó una casa de ladrillos y cemento. Tardó más en construirla pero se sintió más protegido.",
 			"pista": "",
 			"question": "",
 			"options": [{
@@ -554,7 +554,7 @@
 
 			]
 		}, {
-			"tipo": 3,
+			"tipo": 2,
 			"img": "Cuentos_Cena01.png",
 			"text": "En la superficie de la sopa que había en la cuchara, cuatro letras de pasta habían formado la palabra: “HOLA”. Tras la sorpresa inicial, pensó:\n\n-¡Qué casualidad! Mira que ir a caer precisamente así esas letras. \n\nY sonriendo, divertido, se tragó la cucharada.",
 			"pista": "",
