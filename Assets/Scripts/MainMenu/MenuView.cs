@@ -28,5 +28,11 @@ namespace Assets.Scripts.MainMenu {
                 ViewController.FitObjectTo(button, panel.transform);
             }
         }
+
+        public void OnClickBack()
+        {
+            ClickSound();
+            ViewController.GetController().LoadLogin();
+        }
     }
 }
