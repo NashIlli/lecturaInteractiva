@@ -39,7 +39,7 @@
 
 		]
 	},{
-		"tipo": 2,
+		"tipo": 1,
 		"img": "",
 		"text": "Cuando Zeus se dio cuenta del robo, montó en cólera y decidió castigar a los hermanos por haber regalado el fuego y a los hombres por haber aceptado el regalo.\nDe esta manera ordenó a todos los dioses crear a la primera mujer en la tierra y que cada uno de ellos la llenara de virtudes",
 		"pista": "",
@@ -99,13 +99,13 @@
 		"pista": "Así, esta mujer será la encargada de llevar la perdición al hombre, y así se lo hace saber Zeus a Hefesto, el más habilidoso del Olimpo.",
 		"question" : "¿Qué le dijo Zeus a Hefesto?",
 		"options": [{
-				"text": "Que la mujer la había hecho para llevar la perdición al hombre",
+				"text": "Que había hecho a la mujer para llevar al hombre a la perdición",
 				"isCorrect": true
 			}, {
 				"text": "Que la mujer iba a ser perfecta para el hombre",
 				"isCorrect": false
 			}, {
-				"text": "Que él era el más hábil.",
+				"text": "Que él era el más habil.",
 				"isCorrect": false
 			}
 
@@ -129,7 +129,7 @@
 
 		]
 	},{
-		"tipo": 2,
+		"tipo": 3,
 		"img": "",
 		"text": "Y le entrega a Pandora a Epimeteo, hermano de Prometeo, como su esposa; este, deslumbrado por la belleza de la mujer, acepta sin dudar el regalo, desoyendo los sabios consejos de su hermano: no aceptar ningún presente que venga de Zeus.",
 		"pista": "desoyendo los sabios consejos de su hermano: no aceptar ningún presente que venga de Zeus",
@@ -190,7 +190,7 @@
 	"pages": [{
 		"tipo": 1,
 		"img": "myImage",
-		"text": "Nunca se conoció un  amor tan grande como el que sentía el rey Valdemar por la pequeña Tove, se dice que nunca hubo sobre la faz de las tierras del norte un soberano que amase tanto a su hija. Tan grande era este cariño, que cuando murió, el soberano no quiso que enterrasen el cadáver, sino que lo hizo embalsamar y lo mandó a guardar en una sala del gran Hoff próxima a su habitación y se dice que todas las noches visitaba a la niña antes de conciliar el sueño.",
+		"text": "Nunca se conoció un amor tan grande como el que sentía el rey Valdemar por la pequeña Tove. Se dice que nunca hubo sobre la faz de las tierras del norte un soberano que amase tanto a su hija. Tan grande era este cariño, que cuando murió, el soberano no quiso que enterrasen el cadáver, sino que lo hizo embalsamar y lo mandó a guardar en una sala del gran Hoff próxima a su habitación y se dice que todas las noches visitaba a la niña antes de conciliar el sueño.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -218,7 +218,7 @@
 				"text": "Acompañar al rey",
 				"isCorrect": false
 			}, {
-				"text": "La razón por la cual el rey estaba loco",
+				"text": "Encontrar la razón por la cual el rey estaba loco",
 				"isCorrect": false
 			}
 
@@ -227,7 +227,7 @@
 	{
 		"tipo": 2,
 		"img": "Cuentos_Tove01.png",
-		"text": "Uno de ellos descubrió al fin un día que a la pequeña Tove, su madre le había dado un anillo encantado con un poderoso hechizo de ligazón para asegurarle el amor del Rey aun después de su muerte. El cortesano guardo este secreto, hasta que fue una noche donde yacía Tove y le quitó el anillo encantado de su dedo.",
+		"text": "Uno de ellos descubrió al fin, un día, que su madre le había regalado a la pequeña Tove un anillo encantado con un poderoso hechizo de ligazón, para asegurarle el amor del rey aún después de su muerte. El cortesano guardó este secreto, hasta que fue una noche donde yacía Tove y le quitó el anillo encantado de su dedo.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -267,7 +267,7 @@
 		"pista": "Aquella misma mañana el Rey notó que uno de los cortesanos le era mucho más simpático que anteriormente",
 		"question" : "¿Por qué tenía un cortesano favorito?",
 		"options": [{
-				"text": "Porque era el qe tenía el anillo",
+				"text": "Porque era el que tenía el anillo",
 				"isCorrect": true
 			}, {
 				"text": "Porque era el más simpático",
@@ -281,7 +281,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "Y concibió por él un amor tan grande, que lo elevó a los cargos más importantes del reino, e hizo que comiese en un sillón de la misma altura y dignidad que el suyo. Nadie entendia como aquel que hasta aquel dia solo habia sido un lacayo, ahora era casi tratado con la dignidad de un príncipe.",
+		"text": "Y concibió por él un amor tan grande, que lo elevó a los cargos más importantes del reino, e hizo que comiese en un sillón de la misma altura y dignidad que el suyo. Nadie entendía como aquél que hasta ese día solo había sido un lacayo, ahora era casi tratado con la dignidad de un príncipe.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -333,7 +333,7 @@
 
 		]
 	},{
-		"tipo": 2,
+		"tipo": 1,
 		"img": "",
 		"text": "Desde entonces el Rey sintió tanto agrado por este lugar, que no quiso habitar en otra parte. Hizo construir en medio de las aguas, un gran salón rodeado de una sólida empalizada que tenía comunicación con tierra por medio de un puente maravilloso de cobre batido. Y allí vivió por años y envejeció maravillado con su hermosura.",
 		"pista": "",
@@ -358,9 +358,9 @@
 	"pages": [{
 		"tipo": 3,
 		"img": "myImage",
-		"text": "Cuando Hiram B. Otis, un ministro estadounidense compró Canterville-Chase, fue advertido sobre la presencia de fantasmas en la residencia por el propio lord Canterville. El señor Otis se demostró indiferente hacia la posible existencia de fantasmas y se trasladó a la finca con su familia.",
-		"pista": "",
-		"question" : "¿Qué opinaba el señor Otis de que podía haber un fantasma en su casa?",
+		"text": "Cuando Hiram B. Otis, un ministro estadounidense compró Canterville-Chase, fue advertido sobre la presencia de fantasmas en la residencia por el propio lord Canterville. El señor Otis se mostró indiferente hacia la posible existencia de fantasmas y se trasladó a la finca con su familia.",
+		"pista": "El señor Otis se mostró indiferente hacia la posible existencia de fantasmas y se trasladó a la finca con su familia.",
+		"question" : "¿Qué opinaba el señor Otis sobre la existencia de un fantasma en su casa?",
 		"options": [{
 				"text": "No le importó",
 				"isCorrect": true
@@ -451,7 +451,7 @@
 		"img": "",
 		"text": "El ministro dejó el frasquito sobre una mesa de mármol y retornó a su cama.\nEl fantasma quedó petrificado de furia, tiró el frasquito, y salió corriendo y gruñendo. Su huida fue interceptada por un almohadazo lanzado desde otro dormitorio por los gemelos.",
 		"pista": "Su huida fue interceptada por un almohadazo lanzado desde otro dormitorio por los gemelos.",
-		"question" : "¿Qué  hicieron los gemelos?",
+		"question" : "¿Qué hicieron los gemelos?",
 		"options": [{
 				"text": "Le tirarón un almohadon al fantasma",
 				"isCorrect": true
@@ -471,7 +471,7 @@
 		"pista": "",
 		"question" : "¿Hace cuánto tiempo que aterroriza a la gente de la mansión?",
 		"options": [{
-				"text": "Desde hace treciendos años",
+				"text": "Desde hace trescientos años",
 				"isCorrect": true
 			}, {
 				"text": "Desde hace doscientos años",
@@ -483,7 +483,7 @@
 
 		]
 	},{
-		"tipo": 2,
+		"tipo": 3,
 		"img": "",
 		"text": "A la mañana siguiente, mientras la familia almorzaba, intercambiaban opiniones sobre la aparición. El padre reconocía que los gemelos habían actuado de manera descortés con el fantasma, pero también admitía la insostenible situación si el fantasma no accedía a engrasar sus cadenas.",
 		"pista": "El padre reconocía que los gemelos habían actuado de manera descortés con el fantasma",
@@ -503,7 +503,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "Recién el domingo por la noche volvió la aparición en medio de un enorme estruendo. Cuando la familia bajó al salón, hallaron una armadura desparramada sobre el suelo y el fantasma sentado en un sillón, restregándose las rodillas con cara de dolor. Los gemelos le lanzaban balines con sus hondas y el señor Otis le apuntaba con su revólver. El fantasma emitió un tremendo grito y desapareció, apagando la vela de Washington a su paso. Reapareció en lo alto de la escalera y cuando se apresta a aterrorizarlos con sus carcajadas, apareció la señora Otis ofreciéndole un frasco de tintura del doctor Dobell. El fantasma tuvo que desvanecerse antes de convertirse, pues los gemelos llegaban a darle alcance.",
+		"text": "Recién el domingo por la noche volvió la aparición en medio de un enorme estruendo. Cuando la familia bajó al salón, hallaron una armadura desparramada sobre el suelo y el fantasma sentado en un sillón, restregándose las rodillas con cara de dolor. Los gemelos le lanzaban balines con sus hondas y el señor Otis le apuntaba con su revólver. El fantasma emitió un tremendo grito y desapareció, apagando la vela de Washington a su paso. Reapareció en lo alto de la escalera y cuando se aprestó a aterrorizarlos con sus carcajadas, apareció la señora Otis ofreciéndole un frasco de tintura del doctor Dobell. El fantasma tuvo que desvanecerse antes de convertirse, pues los gemelos llegaban a darle alcance.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -557,7 +557,8 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "A lo largo de los meses siguientes, el fantasma intentó con todas sus fuerzas asustar a la familia Otis, pero ellos siempre lograban sorprenderlo antes e incluso tenderle trampas y bromas. Debido a esto, renunció a su inútil proyecto de asustar a la familia Otis.\nContinuó entonces deambulando silenciosamente por la casa, y en la noche del 19 de septiembre, cuando se dirigía a la biblioteca, fue atacado por la familia y tuvo que evaporarse en la estufa de hierro.\nDesde entonces no volvió a salir en expedición nocturna, lo que motivó que la familia creyese que se habían deshecho de él. El señor Otis notificó a lord Canterville",		"pista": "",
+		"text": "A lo largo de los meses siguientes, el fantasma intentó con todas sus fuerzas asustar a la familia Otis, pero ellos siempre lograban sorprenderlo antes e incluso tenderle trampas y bromas. Debido a esto, renunció a su inútil proyecto de asustar a la familia Otis.\nContinuó entonces deambulando silenciosamente por la casa, y en la noche del 19 de septiembre, cuando se dirigía a la biblioteca, fue atacado por la familia y tuvo que evaporarse en la estufa de hierro.\nDesde entonces no volvió a salir en expedición nocturna, lo que motivó que la familia creyese que se habían deshecho de él. El señor Otis notificó a lord Canterville.",		
+		"pista": "",
 		"question" : "",
 		"options": [{
 				"text": "",
@@ -592,7 +593,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Regresó a la casa por la puerta trasera para no ser vista. Cuando pasó por el salón de tapices, creyó ver a la doncella de su madre, pero no era ella sino el fantasma, que apesadumbrado miraba por la ventana. Virginia conmovida se acercó para hablarle. Él le contó sus penas y su temor por los gemelos. Ella le pidió que dejara de molestar, de ese modo, los gemelos lo dejarían en paz.",
+		"text": "Regresó a la casa por la puerta trasera para no ser vista. Cuando pasó por el salón de tapices, creyó ver a la doncella de su madre, pero no era ella sino el fantasma, que apesadumbrado miraba por la ventana. Virginia conmovida se acercó para hablarle. Él le contó sus penas y su temor por los gemelos. Ella le pidió, antes de irse, que dejara de molestar, de ese modo, los gemelos lo dejarían en paz.",
 		"pista": "Virginia conmovida se acercó para hablarle.",
 		"question" : "¿Cómo era Virginia?",
 		"options": [{
@@ -646,7 +647,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "Diez minutos luego que Virginia se marchara, sonó la campana para el té. La familia no se inquietó en principio, pero a las seis, ya su madre estaba intranquila. Comenzaron buscándola por la casa, luego por los jardines. Luego comenzaron las hipótesis sobre su paradero. Sospecharon de los gitanos que habían dejado acampar en el parque. Habían desaparecido de prisa.",
+		"text": "Diez minutos luego de que Virginia se marchara, sonó la campana para el té. La familia no se inquietó en principio, pero a las seis, ya su madre estaba intranquila. Comenzaron buscándola por la casa, luego por los jardines. Luego comenzaron las hipótesis sobre su paradero. Sospecharon de los gitanos que habían dejado acampar en el parque. Habían desaparecido de prisa.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -664,14 +665,14 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "La familia buscó por todos lados, incluso fueron a pedir ayuda a la policía, pero a desesperanza se apoderaba de la familia, que resignada decidió irse a dormir, para continuar al día siguiente. Cuando sonaban las doce en el reloj.",
+		"text": "La familia buscó por todos lados, incluso fueron a pedir ayuda a la policía, pero la desesperanza se apoderaba de la familia, que resignada decidió irse a dormir, para continuar al día siguiente. Cuando sonaron las doce en el reloj.",
 		"pista": "",
-		"question" : "¿A qué hora sonó el relij?",
+		"question" : "¿A qué hora sonó el reloj?",
 		"options": [{
-				"text": "Las 12",
+				"text": "A Las 12",
 				"isCorrect": true
 			}, {
-				"text": "Las 11",
+				"text": "A las 11",
 				"isCorrect": false
 			}, {
 				"text": "No sonó el reloj",
@@ -734,7 +735,7 @@
 
 		]
 	},{
-		"tipo": 2,
+		"tipo": 1,
 		"img": "",
 		"text": "A la mañana siguiente, el señor Otis contó sobre las joyas al noble y sugirió devolverlas. Lord Canterville se negó rotundamente argumentando que fueron obsequiadas por su antepasado y que respetaría su voluntad, además que Otis había comprado la residencia con el fantasma incluido. Por tanto, Virginia conservó las joyas.\nPoco después se casó con el duque de Cheshire y pudo lucir las joyas frente a la reina, por lo que fue elogiada. Le esperaba una vida feliz, gracias a que Simón le enseñara los secretos de la muerte y el valor del amor.",
 		"pista": "",
@@ -759,7 +760,7 @@
 	"pages": [{
 		"tipo": 3,
 		"img": "myImage",
-		"text": "Había una vez una bandada de loros que vivía en el monte. De mañana temprano iban a comer choclos a la chacra, y de tarde comían naranjas. Hacían gran barullo con sus gritos, y tenían siempre un loro de centinela en los árboles más altos, para ver si venía alguien. Los loros son tan dañinos como la langosta, porque abren los choclos para picotearlos, los cuales, después se pudren con la lluvia. ",
+		"text": "Había una vez una bandada de loros que vivía en el monte. De mañana temprano iban a comer choclos a la chacra y de tarde comían naranjas. Hacían gran barullo con sus gritos y tenían siempre un loro de centinela en los árboles más altos, para ver si venía alguien. Los loros son tan dañinos como la langosta, porque abren los choclos para picotearlos, los cuales, después se pudren con la lluvia. ",
 		"pista": "Había una vez una bandada de loros que vivía en el monte.",
 		"question" : "¿Cómo se llama a un grupo de pájaros?",
 		"options": [{
@@ -777,7 +778,7 @@
 	},{
 		"tipo": 2,
 		"img": "Cuentos_Loro01.png",
-		"text": "Y como al mismo tiempo los loros son ricos para comerlos guisados, los peones los cazaban a tiros. Un día un hombre bajó de un tiro a un loro  centinela, el que cayó herido y peleó un buen rato antes de dejarse agarrar. El peón lo llevó a la casa, para los hijos del patrón; los chicos lo curaron porque no tenía más que un ala rota. El loro se curó muy bien, y se amansó completamente.",
+		"text": "Y como al mismo tiempo los loros son ricos para comerlos guisados, los peones los cazaban a tiros. Un día un hombre bajó de un tiro a un loro centinela, el que cayó herido y peleó un buen rato antes de dejarse agarrar. El peón lo llevó a la casa, para los hijos del patrón; los chicos lo curaron porque no tenía más que un ala rota. El loro se curó muy bien, y se amansó completamente.",
 		"pista": "Y como al mismo tiempo los loros son ricos para comerlos guisados, los peones los cazaban a tiros",
 		"question" : "¿Para qué cazaban a los loros?",
 		"options": [{
@@ -813,7 +814,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "Era, como se ve, un loro bien feliz, que además de ser libre, como lo desean todos los pájaros, tenía también, como las personas ricas, su five o clock tea (osea la merienda).\nAhora bien: en medio de esta felicidad, sucedió que una tarde de lluvia salió por fin el sol después de cinco días de temporal, y Pedrito se puso a volar gritando: —¡Qué lindo día, lorito!... ¡Rica, papa!... ¡La pata, Pedrito!... y volaba lejos, hasta que vio debajo de él, muy abajo, el río Paraná, que parecía una lejana y ancha cinta blanca. Y siguió, siguió volando, hasta que se asentó por fin en un árbol a descansar. ",
+		"text": "Era, como se ve, un loro bien feliz, que además de ser libre, como lo desean todos los pájaros, tenía también, como las personas ricas, su five o clock tea (o sea la merienda).\nAhora bien: en medio de esta felicidad, sucedió que una tarde de lluvia salió por fin el sol después de cinco días de temporal, y Pedrito se puso a volar gritando: —¡Qué lindo día, lorito!... ¡Rica, papa!... ¡La pata, Pedrito!... y volaba lejos, hasta que vio debajo de él, muy abajo, el río Paraná, que parecía una lejana y ancha cinta blanca. Y siguió, siguió volando, hasta que se asentó por fin en un árbol a descansar. ",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -877,7 +878,7 @@
 				"text": "Porque tenía poca memoria",
 				"isCorrect": false
 			}, {
-				"text": "Porque el no era un bicho",
+				"text": "Porque él no era un bicho",
 				"isCorrect": false
 			}
 
@@ -928,7 +929,7 @@
 				"text": "Atacó al loro",
 				"isCorrect": true
 			}, {
-				"text": "Le dió el té al loro",
+				"text": "Le dio el té al loro",
 				"isCorrect": false
 			}, {
 				"text": "Invitó a Pedrito a tomar el té",

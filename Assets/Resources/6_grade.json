@@ -566,7 +566,10 @@
 			}
 
 		]
-	},{
+	}
+	]
+	}
+	,{
 	"title": "El Ruiseñor y la Rosa",
 	"pages": [{
 		"tipo": 1,
@@ -588,7 +591,7 @@
 		]
 	},{
 		"tipo": 2,
-		"img": "Cuentos_Ruiseñor01.png",
+		"img": "Cuentos_Ruisenor01.png",
 		"text": "—Por fin tenemos aquí a un enamorado auténtico —se dijo el ruiseñor—. He estado cantándole noche tras noche, aunque no lo conozco; y noche tras noche le he contado su historia a las estrellas; y por fin lo veo ahora. \n—El Príncipe da el baile mañana por la noche —seguía quejándose el Estudiante—, y allí estará mi amada. Si le llevo una rosa roja bailará conmigo hasta el amanecer. Si le llevo una rosa roja la estrecharé entre mis brazos, y ella apoyará su cabeza sobre mi hombro, y apoyará su mano en la mía. ",
 		"pista": "",
 		"question" : "",
@@ -750,7 +753,7 @@
 		]
 	},
 	{
-		"tipo": 3,
+		"tipo": 1,
 		"img": "",
 		"text": "La espina se hundía más y más en su carne y la sangre de su vida se derramaba en el rosal. Cantó primero al nacimiento del Amor en el corazón de los adolescentes. Entonces, en la rama más alta del rosal floreció una rosa maravillosa, pétalo tras pétalo como canción tras canción. Al principio era pálida, como la niebla que flota sobre el río; pálida como los pies de la mañana y plateada como las alas de la aurora. El rosal le gritó al Ruiseñor para que apretara más su pecho contra la espina. —¡Aprétate más, pequeño Ruiseñor —gritó el rosal—, o el día llegará antes de haber terminado de fabricar la rosa! ",
 		"pista": "",
@@ -769,7 +772,7 @@
 		]
 	},{
 		"tipo": 5,
-		"img": "Cuentos_Ruiseñor02.png",
+		"img": "Cuentos_Ruisenor02.png",
 		"text": "",
 		"pista": "",
 		"question" : "",
@@ -819,25 +822,6 @@
 				"isCorrect": false
 			}, {
 				"text": "Para que sea una rosa muy roja",
-				"isCorrect": false
-			}
-
-		]
-	},
-	{
-		"tipo": 3,
-		"img": "",
-		"text": "",
-		"pista": "",
-		"question" : "",
-		"options": [{
-				"text": "",
-				"isCorrect": true
-			}, {
-				"text": "",
-				"isCorrect": false
-			}, {
-				"text": "",
 				"isCorrect": false
 			}
 
@@ -902,7 +886,7 @@
 	},
 	{
 		"tipo": 2,
-		"img": "Cuentos_Ruiseñor03.png",
+		"img": "Cuentos_Ruisenor03.png",
 		"text": "—¡Qué cosa más estúpida es el Amor! —se dijo el Estudiante mientras caminaba—. No es ni la mitad de útil que la Lógica, porque no demuestra nada y le habla a uno siempre de cosas que no suceden nunca, y hace creer verdades que no son ciertas. En realidad no es nada práctico, y como en estos tiempos ser práctico es serlo todo, volveré a la Filosofía y al estudio de la Metafísica.\nY al llegar a su casa, abrió un libro lleno de polvo, y se puso a leer.",
 		"pista": "",
 		"question" : "",
@@ -923,5 +907,4 @@
 
 }
 ]
-}]
 }
