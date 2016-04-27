@@ -261,7 +261,7 @@
 
 		]
 	},{
-		"tipo": 2,
+		"tipo": 3,
 		"img": "",
 		"text": "La muerte de su esposa infiel no calmó el fuego que quemaba el corazón del rey Shariar. Su rostro iba perdiendo el color de la vida y casi ni comía. Convocó entonces el rey a su visir y le mandó que cada día hiciera venir a su palacio a una joven doncella del reino. El rey las desposaba pero, con las primeras luces del amanecer, recordaba la infidelidad de su esposa y una nube de tristeza le llenaba la mente. Entonces, hacía decapitar a las doncellas ardiendo de odio hacia todas las mujeres.",
 		"pista": "",
@@ -297,7 +297,7 @@
 
 		]
 	},{
-		"tipo": 2,
+		"tipo": 3,
 		"img": "",
 		"text": "El visir contó a su hija cuanto había ocurrido desde el principio al fin. Entonces le dijo Sherezade: –¡Por Alah, padre, cásame con el rey! ¡Prometo salvar de entre las manos de Shariar a todas las hijas del reino o morir como el resto de mis hermanas!–. El visir contestó: –¡Por Alah, hija! ¡No! -. Pero Sherezade insistió nuevamente en su ruego. Entonces el visir, sin replicar nada, hizo que preparasen el ajuar de su hija y marchó a comunicar la noticia al rey Shariar.",
 		"pista": " –¡Por Alah, padre, cásame con el rey! ¡Prometo salvar de entre las manos de Shariar a todas las hijas del reino o morir como el resto de mis hermanas!–. ",
@@ -465,7 +465,7 @@
 		"pista": "Como la noche anterior, supo interrumpir su narración justo en el momento más interesante, al llegar el amanecer.",
 		"question" : "¿Se daba cuenta el rey de lo que hacía Sherezade?",
 		"options": [{
-				"text": "No, porque ella era muy sutíl al hacerlo",
+				"text": "No, porque ella era muy sutil al hacerlo",
 				"isCorrect": true
 			}, {
 				"text": "No, porque era tonto",

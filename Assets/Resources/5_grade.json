@@ -979,7 +979,7 @@
 		"pista": "Lo buscaron por todas partes, pero el loro no apareció. ",
 		"question" : "¿Por qué creían que Pedrito estaba muerto?",
 		"options": [{
-				"text": "Poeque no pudieron encontrarlo",
+				"text": "Porque no pudieron encontrarlo",
 				"isCorrect": true
 			}, {
 				"text": "Porque lo encontraron después de que lo atacara el tigre",
@@ -1051,7 +1051,7 @@
 		"pista": "",
 		"question" : "¿Por qué iban a Paraguay?",
 		"options": [{
-				"text": "EAllí estaba el tigre",
+				"text": "Allí estaba el tigre",
 				"isCorrect": true
 			}, {
 				"text": "Allí estaba la casa",
@@ -1172,47 +1172,7 @@
 		]
 	}
 ]
-},
-{
-	"title": "",
-	"pages": [{
-		"tipo": 3,
-		"img": "myImage",
-		"text": "",
-		"pista": "",
-		"question" : "",
-		"options": [{
-				"text": "",
-				"isCorrect": true
-			}, {
-				"text": "",
-				"isCorrect": false
-			}, {
-				"text": "",
-				"isCorrect": false
-			}
-
-		]
-	},{
-		"tipo": 2,
-		"img": "",
-		"text": "",
-		"pista": "",
-		"question" : "",
-		"options": [{
-				"text": "",
-				"isCorrect": true
-			}, {
-				"text": "",
-				"isCorrect": false
-			}, {
-				"text": "",
-				"isCorrect": false
-			}
-
-		]
-	}
-]
 }
 ]
 }
+
