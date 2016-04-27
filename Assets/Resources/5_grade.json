@@ -23,25 +23,7 @@
 	},{
 		"tipo": 2,
 		"img": "Cuentos_Pandora01.png",
-		"text": " Cuando Prometeo quiso proveer al hombre de dones especiales para hacerlo superior al resto de los animales, se dio cuenta que Epimeteo ya los había agotado todos en la creación de los animales, así que Prometeo subió al Olimpo y robó las semillas de Helios (el Sol) y se las regaló a los hombres. Con el fuego como regalo, los hombres fueron capaces no sólo de alimentarse, sino también de elaborar armas para cazar animales, de fabricar herramientas para trabajar la tierra, de calentarse y de vivir una mejor vida.",
-		"pista": "",
-		"question" : "¿Por qué se creó a las mujeres?",
-		"options": [{
-				"text": "Como castigo por usar el fuego",
-				"isCorrect": true
-			}, {
-				"text": "Para hacerle compañía a los hombres",
-				"isCorrect": false
-			}, {
-				"text": "Para darle virtudes",
-				"isCorrect": false
-			}
-
-		]
-	},{
-		"tipo": 1,
-		"img": "",
-		"text": "Cuando Zeus se dio cuenta del robo, montó en cólera y decidió castigar a los hermanos por haber regalado el fuego y a los hombres por haber aceptado el regalo.\nDe esta manera ordenó a todos los dioses crear a la primera mujer en la tierra y que cada uno de ellos la llenara de virtudes",
+		"text": "Cuando Prometeo quiso proveer al hombre de dones especiales para hacerlo superior al resto de los animales, se dio cuenta que Epimeteo ya los había agotado todos en la creación de los animales, así que Prometeo subió al Olimpo y robó las semillas de Helios (el Sol) y se las regaló a los hombres. Con el fuego como regalo, los hombres fueron capaces no sólo de alimentarse, sino también de elaborar armas para cazar animales, de fabricar herramientas para trabajar la tierra, de calentarse y de vivir una mejor vida.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -52,6 +34,24 @@
 				"isCorrect": false
 			}, {
 				"text": "",
+				"isCorrect": false
+			}
+
+		]
+	},{
+		"tipo": 3,
+		"img": "",
+		"text": "Cuando Zeus se dio cuenta del robo, montó en cólera y decidió castigar a los hermanos por haber regalado el fuego y a los hombres por haber aceptado el regalo.\nDe esta manera ordenó a todos los dioses crear a la primera mujer en la tierra y que cada uno de ellos la llenara de virtudes",
+		"pista": "decidió castigar a los hermanos por haber regalado el fuego y a los hombres por haber aceptado el regalo.",
+		"question" : "¿Por qué se creó a las mujeres?",
+		"options": [{
+				"text": "Como castigo por usar el fuego",
+				"isCorrect": true
+			}, {
+				"text": "Para hacerle compañía a los hombres",
+				"isCorrect": false
+			}, {
+				"text": "Para darle virtudes",
 				"isCorrect": false
 			}
 
@@ -168,7 +168,7 @@
 		"tipo": 3,
 		"img": "",
 		"text": "Asustada, Pandora cerró la tapa justo cuando el último objeto de la caja iba a salir: la esperanza. Posteriormente, arrepentida y viendo lo que su acción había provocado en la Humanidad, se dedicó a ir ofreciendo a los hombres, uno a uno, la posibilidad de contar con la esperanza, pues ella la tenía -esta vez sí-, bien guardada.",
-		"pista": "",
+		"pista": "Posteriormente, arrepentida y viendo lo que su acción había provocado en la Humanidad, se dedicó a ir ofreciendo a los hombres, uno a uno, la posibilidad de contar con la esperanza, pues ella la tenía -esta vez sí-, bien guardada",
 		"question" : "¿Por qué era tan importante que Pandora repartiera la esperanza?",
 		"options": [{
 				"text": "Para que pudieran vivir con los males que había en la tierra",
@@ -468,7 +468,7 @@
 		"tipo": 3,
 		"img": "myImage",
 		"text": "Una vez guarecido en un cuartito secreto, se puso a reflexionar sobre lo ocurrido. Jamás había sido tratado de tal manera, por el contrario, llevaba trescientos años de exitosa carrera sembrando el terror. Se quedó hasta el amanecer meditando sobre su actuación y planeando una venganza contra los insolentes norteamericanos.",
-		"pista": "",
+		"pista": "llevaba trescientos años de exitosa carrera sembrando el terror",
 		"question" : "¿Hace cuánto tiempo que aterroriza a la gente de la mansión?",
 		"options": [{
 				"text": "Desde hace trescientos años",
@@ -576,7 +576,7 @@
 		"tipo": 3,
 		"img": "",
 		"text": "Pero el fantasma estaba allí todavía y decidido a asustar al joven duque de Cheshire, que vacacionaba en Canterville. Pero el terror que sentía por los gemelos terminó por vencerlo y se quedó en su habitación.\nDías después, Virginia paseaba con el duque cuando su vestido se rasgó.",
-		"pista": "",
+		"pista": "Pero el terror que sentía por los gemelos terminó por vencerlo y se quedó en su habitación",
 		"question" : "¿Por qué el fantasma no asustó al duque?",
 		"options": [{
 				"text": "Tenía miedo",
@@ -666,7 +666,7 @@
 		"tipo": 3,
 		"img": "",
 		"text": "La familia buscó por todos lados, incluso fueron a pedir ayuda a la policía, pero la desesperanza se apoderaba de la familia, que resignada decidió irse a dormir, para continuar al día siguiente. Cuando sonaron las doce en el reloj.",
-		"pista": "",
+		"pista": "Cuando sonaron las doce en el reloj",
 		"question" : "¿A qué hora sonó el reloj?",
 		"options": [{
 				"text": "A Las 12",
@@ -720,7 +720,7 @@
 		"tipo": 3,
 		"img": "",
 		"text": "Evidentemente, el hombre había muerto intentando alcanzar la comida y la bebida. Al revelarse el secreto, pudieron apreciar que el almendro mustio del patio, había florecido. Simón de Canterville fue sepultado cuatro días después de los sucesos, durante la noche. El cortejo fue acompañado por lord Canterville, quien llegara especialmente para acompañar a su antepasado.",
-		"pista": "",
+		"pista": "Simón de Canterville fue sepultado cuatro días después de los sucesos, durante la noche. El cortejo fue acompañado por lord Canterville, quien llegara especialmente para acompañar a su antepasado.",
 		"question" : "¿Cómo se llamaba el fantasma de Canterville?",
 		"options": [{
 				"text": "Simón",
@@ -797,7 +797,7 @@
 		"tipo": 3,
 		"img": "",
 		"text": "Tenía locura por el té con leche. Tanto se daba Pedrito con los chicos, y tantas cosas le decían las criaturas, que el loro aprendió a hablar.\nDecía: '¡Buen día, lorito! ¡Rica la papa!¡Papa para Pedrito!...' Decía otras cosas más que no se pueden decir, porque los loros, como los chicos, aprenden con gran facilidad malas palabras. ",
-		"pista": "",
+		"pista": "Tanto se daba Pedrito con los chicos, y tantas cosas le decían las criaturas, que el loro aprendió a hablar",
 		"question" : "¿Por qué aprendió a hablar y a decir malas palabras?",
 		"options": [{
 				"text": "Porque los chicos le hablaban todo el tiempo",
@@ -851,7 +851,7 @@
 		"tipo": 3,
 		"img": "",
 		"text": "Pero Pedrito estaba tan contento con el lindo día, que no tuvo ningún miedo.\n—¡Buen día, tigre! —le dijo— “¡La pata, Pedrito!”...\nY el tigre, con esa voz terriblemente ronca que tiene, le respondió: \n—¡Bu-en día!\n—¡Buen día, tigre! —repitió el loro—. ¡Rica, papa!... ¡rica, papa!... ¡rica papa!... ",
-		"pista": "",
+		"pista": "—¡Buen día, tigre! —le dijo— “¡La pata, Pedrito!”...",
 		"question" : "¿Con quién hablaba el loro?",
 		"options": [{
 				"text": "Con un tigre",
@@ -923,7 +923,7 @@
 		"tipo": 3,
 		"img": "",
 		"text": "—¡Más cer-ca toda-vía! —repitió el tigre. El pobre loro se acercó aún más, y en ese momento el tigre dio un terrible salto, tan alto como una casa, y alcanzó con la punta de las uñas a Pedrito. No alcanzó a matarlo, pero le arrancó todas las plumas del lomo y la cola entera. No le quedó una sola pluma en la cola. —¡Tomá!—rugió el tigre—. Andá a tomar té con leche…",
-		"pista": "",
+		"pista": "y en ese momento el tigre dio un terrible salto, tan alto como una casa, y alcanzó con la punta de las uñas a Pedrito",
 		"question" : "¿Qué hizo el tigre?",
 		"options": [{
 				"text": "Atacó al loro",
@@ -1013,7 +1013,7 @@
 		"tipo": 3,
 		"img": "",
 		"text": "Hasta que por fin un día, o una tarde, la familia sentada a la mesa a la hora del té vio entrar a Pedrito muy tranquilo, balanceándose como si nada hubiera pasado. Todos se querían morir, morir de gusto cuando lo vieron bien vivo y con lindísimas plumas. \n—¡Pedrito, lorito! —le decían—. ¡Qué te pasó, Pedrito! ¡Qué plumas brillantes que tiene el lorito!",
-		"pista": "",
+		"pista": "Todos se querían morir, morir de gusto cuando lo vieron bien vivo y con lindísimas plumas.",
 		"question" : "¿Por qué tenía plumas tan brillantes?",
 		"options": [{
 				"text": "Porque eran nuevas",
@@ -1049,7 +1049,7 @@
 		"tipo": 3,
 		"img": "",
 		"text": "Y lo invitó a ir a cazar al tigre entre los dos. El dueño de casa, que precisamente iba en ese momento a comprar una piel de tigre que le hacía falta para la estufa, quedó muy contento de poderla tener gratis. Y volviendo a entrar en la casa para tomar la escopeta, emprendió junto con Pedrito el viaje al Paraguay.",
-		"pista": "",
+		"pista": "Y lo invitó a ir a cazar al tigre entre los dos",
 		"question" : "¿Por qué iban a Paraguay?",
 		"options": [{
 				"text": "Allí estaba el tigre",
