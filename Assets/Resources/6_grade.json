@@ -6,7 +6,7 @@
 	"pages": [{
 		"tipo": 1,
 		"img": "myImage",
-		"text": "Cuentan que cuando Orfeo tocaba no sólo los hombres, animales y dioses se quedaban embelesados escuchándole, sino que incluso la Madre Naturaleza  detenía su fluir para disfrutar de sus notas, y que así, los ríos, plantas y hasta las rocas escuchaban a Orfeo y sentían la música en su interior, animando su esencia.\nAdemás de músico y poeta, Orfeo fue un viajero ansioso por conocer y por aprender. Estuvo en Egipto y aprendió de sus sacerdotes los cultos a Isis y Osiris, y se empapó de distintas creencias y tradiciones. Fue un sabio de su tiempo.",
+		"text": "Cuentan que cuando Orfeo tocaba no sólo los hombres, animales y dioses se quedaban embelesados escuchándole, sino que incluso la Madre Naturaleza detenía su fluir para disfrutar de sus notas, y que así, los ríos, plantas y hasta las rocas escuchaban a Orfeo y sentían la música en su interior, animando su esencia.\nAdemás de músico y poeta, Orfeo fue un viajero ansioso por conocer y por aprender. Estuvo en Egipto y aprendió de sus sacerdotes los cultos a Isis y Osiris, y se empapó de distintas creencias y tradiciones. Fue un sabio de su tiempo.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -42,11 +42,11 @@
 	},{
 		"tipo": 2,
 		"img": "Cuentos_Orfeo01.png",
-		"text": "",
+		"text": "Pero sólo una de ellas llamó la atención de nuestro héroe, y no fue otra que Eurídice, quien seguramente no era tan atrevida como otras y puede que tampoco tan hermosa. Pero el amor es así, caprichoso e inesperado, y desde que la vio, la imagen de su tierna sonrisa, de su mirada brillante y transparente, se repetían en la mente de Orfeo, que no dudó en casarse con ella. Zeus, reconociendo el valor que había demostrado en muchas de sus aventuras, le otorgó la mano de su ninfa, y vivieron juntos muy felices, disfrutando de un amor que se dice que fue único, tierno y apasionado como ninguno.",
 		"pista": "",
 		"question" : "",
 		"options": [{
-				"text": "Pero sólo una de ellas llamó la atención de nuestro héroe, y no fue otra que Eurídice, quien seguramente no era tan atrevida como otras y puede que tampoco tan hermosa. Pero el amor es así, caprichoso e inesperado, y desde que la vio, la imagen de su tierna sonrisa, de su mirada brillante y transparente, se repetían en la mente de Orfeo, que no dudó en casarse con ella. Zeus, reconociendo el valor que había demostrado en muchas de sus aventuras, le otorgó la mano de su ninfa, y vivieron juntos muy felices, disfrutando de un amor que se dice que fue único, tierno y apasionado como ninguno.",
+				"text": "",
 				"isCorrect": true
 			}, {
 				"text": "",
@@ -61,7 +61,7 @@
 		"tipo": 3,
 		"img": "",
 		"text": "Pero quiso el destino que el pastor Aristeo quedara también prendado de Eurídice, y que un día en que ésta paseaba por sus campos, el pastor olvidó todo respeto y la atacó. Nuestra ninfa corrió para escaparse, con tan mala fortuna que en la carrera una serpiente venenosa mordió su pie, haciendo que cayera muerta sobre la hierba.",
-		"pista": "",
+		"pista": "Nuestra ninfa corrió para escaparse, con tan mala fortuna que en la carrera una serpiente venenosa mordió su pie, haciendo que cayera muerta sobre la hierba",
 		"question" : "¿Cómo murió Eurídice?",
 		"options": [{
 				"text": "Mordida por una serpiente",
@@ -154,7 +154,7 @@
 		"pista": "con la condición de que ésta caminase detrás de Orfeo en el viaje de vuelta al mundo de los vivos, y que éste no mirase atrás ni una sola vez hasta que no estuvieran en la superficie.",
 		"question" : "¿Con qué condición le devolvieron a Eurídice?",
 		"options": [{
-				"text": "Sólo si ella caminaba trás de él y él no la miraba",
+				"text": "Sólo si ella caminaba detrás de él y él no la miraba",
 				"isCorrect": true
 			}, {
 				"text": "Si les cantaba una canción más",
@@ -169,7 +169,7 @@
 		"tipo": 3,
 		"img": "",
 		"text": "El viaje fue difícil, lleno de penurias. Si la bajada al Hades había costado, el ascenso fue aún peor. Eurídice seguía herida y débil, y las sombras se cernían sobre ellos amenazadoras, el frío se colaba en sus huesos, los tropiezos eran cada vez más frecuentes. A punto ya de llegar a la salida, cuando los primeros rayos de luz traspasaron las sombras, Eurídice dejó escapar un suspiro aliviada, y Orfeo olvidó la orden de Hades y miró hacia atrás  por un instante.",
-		"pista": "",
+		"pista": "A punto ya de llegar a la salida, cuando los primeros rayos de luz traspasaron las sombras, Eurídice dejó escapar un suspiro aliviada",
 		"question" : "¿Por qué miró Orfeo?",
 		"options": [{
 				"text": "Porque la escuchó a Eurídice",
@@ -247,7 +247,7 @@
 		"img": "myImage",
 		"text": "Hace muchísimos años, en las lejanas tierras de Oriente, hubo un rey llamado Shariar, amado por todos los habitantes de su reino. Sucedió, sin embargo, que un día descubrió que su esposa estaba perdidamente enamorada de uno de los esclavos. –¡Ay! –sollozó el rey–. ¡Siento en mi corazón un fuego que quema!–. E inmediatamente ordenó que su esposa y el esclavo fueran degollados.",
 		"pista": "Sucedió, sin embargo, que un día descubrió que su esposa estaba perdidamente enamorada de uno de los esclavos.",
-		"question" : "¿Por qué mató a su esposa y al esclabo?",
+		"question" : "¿Por qué mató a su esposa y al esclavo?",
 		"options": [{
 				"text": "Porque estaban enamorados",
 				"isCorrect": true
@@ -319,7 +319,7 @@
 		"img": "",
 		"text": "Mientras su padre estaba ausente, Sherezade le dijo a su hermana Doniazada: –Te mandaré llamar cuando esté en el palacio y en cuanto llegues y veas que el rey ha terminado de hablar conmigo, me dirás: “Hermana, cuenta alguna historia maravillosa que nos haga pasar la noche.” Entonces yo narraré cuentos que, si Alah quiere, serán la causa de la salvación de las hijas de este reino.",
 		"pista": "Entonces yo narraré cuentos que, si Alah quiere, serán la causa de la salvación de las hijas de este reino.",
-		"question" : "¿Cuálera el plan de Sherezade?",
+		"question" : "¿Cuál era el plan de Sherezade?",
 		"options": [{
 				"text": "Contar una historia maravillosa",
 				"isCorrect": true
@@ -628,8 +628,8 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Sólo el Ruiseñor comprendía el secreto de la pena del Estudiante y, posado silenciosamente en la encina, meditaba sobre el misterio del amor. Por último, desplegó sus alas oscuras y se elevó en el aire. Cruzó como una sombra a través de la avenida, y como una sombra se deslizó por el jardín. En medio del prado había un magnífico rosal, y el Ruiseñor voló hasta posársele en una de sus ramas. —Necesito una rosa roja —le dijo. Dámela y yo te cantaré mi canción más dulce. Pero el rosal negó sacudiendo su ramaje.",
-		"pista": "Dámela y yo te cantaré mi canción más dulce. Pero el rosal negó sacudiendo su ramaje.",
+		"text": "Sólo el Ruiseñor comprendía el secreto de la pena del Estudiante y, posado silenciosamente en la encina, meditaba sobre el misterio del amor. Por último, desplegó sus alas oscuras y se elevó en el aire. Cruzó como una sombra a través de la avenida, y como una sombra se deslizó por el jardín. En medio del prado había un magnífico rosal, y el Ruiseñor voló hasta posársele en una de sus ramas. —Necesito una rosa roja —le dijo. -Dámela y yo te cantaré mi canción más dulce. Pero el rosal negó sacudiendo su ramaje.",
+		"pista": "-Dámela y yo te cantaré mi canción más dulce. Pero el rosal negó sacudiendo su ramaje.",
 		"question" : "¿Cómo iba a pagar el Ruiseñor la rosa?",
 		"options": [{
 				"text": "Con una canción",
@@ -647,7 +647,7 @@
 		"tipo": 3,
 		"img": "",
 		"text": "—Mis rosas son blancas —le contestó—, como la espuma del mar y más blancas que la nieve de la montaña. Pero anda a ver a mi hermano, que crece al pie de la ventana del Estudiante, y quizás él pueda darte la flor que necesitas. El Ruiseñor voló entonces hasta el viejo rosal que crecía al pie de la ventana del Estudiante. —Dame una rosa roja —le dijo—, y yo te cantaré mi canción más dulce.",
-		"pista": "",
+		"pista": "Mis rosas son blancas —le contestó—",
 		"question" : "¿Por qué se negó el rosal a darle la rosa roja?",
 		"options": [{
 				"text": "Porque sólo podía hacer rosas blancas",
@@ -682,7 +682,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "—Hay una manera —contestó el rosal—, pero es tan terrible que no me atrevo a decírtela. —Dímela —repuso el Ruiseñor—. Yo no me asustaré. —Si quieres una rosa roja —dijo el rosal—, tienes que construirla con tu música, a la luz de la luna, y teñirla con la sangre de tu corazón. Debes cantar con tu pecho apoyado sobre una de mis espinas. Debes cantar toda la noche, hasta que la espina atraviese tu corazón y la sangre de tu vida fluirá en mis venas y se hará mía... —La propia muerte es un precio muy alto por una rosa roja —murmuró el Ruiseñor—, y la vida es dulce para todos. Sin embargo, el Amor es mejor que la vida, y, por último, ¿qué es el corazón de un ruiseñor comparado con el corazón de un hombre enamorado? Y, desplegando sus alas oscuras, el ruiseñor se elevó en el aire, cruzó por el jardín como una sombra, y como una sombra se deslizó a través de la avenida.",
+		"text": "—Hay una manera —contestó el rosal—, pero es tan terrible que no me atrevo a decírtela. —Dímela —repuso el Ruiseñor—. Yo no me asustaré.\n—Si quieres una rosa roja —dijo el rosal—, tienes que construirla con tu música, a la luz de la luna, y teñirla con la sangre de tu corazón. Debes cantar con tu pecho apoyado sobre una de mis espinas. Debes cantar toda la noche, hasta que la espina atraviese tu corazón y la sangre de tu vida fluirá en mis venas y se hará mía...\n —La propia muerte es un precio muy alto por una rosa roja —murmuró el Ruiseñor—, y la vida es dulce para todos. Sin embargo, el Amor es mejor que la vida, y, por último, ¿qué es el corazón de un ruiseñor comparado con el corazón de un hombre enamorado? Y, desplegando sus alas oscuras, el ruiseñor se elevó en el aire, cruzó por el jardín como una sombra, y como una sombra se deslizó a través de la avenida.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -700,7 +700,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "El Estudiante seguía echado en la hierba, como lo había dejado; y las lágrimas no se secaban en sus anchos ojos. —¡Alégrate! —le gritó el Ruiseñor—. ¡Siéntete dichoso, porque tendrás tu rosa roja! Yo la construiré con mi música, a la luz de la luna, y la teñiré con la sangre de mi corazón. Lo único que pido en cambio, es que seas un verdadero amante, porque el Amor es más sabio que la Filosofía, por muy sabia que ésta sea, y es más poderoso que la Fuerza, por muy fuerte que ella sea.",
+		"text": "El Estudiante seguía echado en la hierba, como lo había dejado; y las lágrimas no se secaban en sus anchos ojos. —¡Alégrate! —le gritó el Ruiseñor—. ¡Siéntete dichoso, porque tendrás tu rosa roja! Yo la construiré con mi música, a la luz de la luna, y la teñiré con la sangre de mi corazón. Lo único que pido a cambio, es que seas un verdadero amante, porque el Amor es más sabio que la Filosofía, por muy sabia que ésta sea, y es más poderoso que la Fuerza, por muy fuerte que ella sea.",
 		"pista": "Lo único que pido en cambio, es que seas un verdadero amante, porque el Amor es más sabio que la Filosofía, por muy sabia que ésta sea, y es más poderoso que la Fuerza, por muy fuerte que ella sea.",
 		"question" : "¿Qué le pidió al Estudiante a cambio de la rosa?",
 		"options": [{
@@ -740,7 +740,7 @@
 		"pista": "Cuando la luna alumbró en los cielos, el Ruiseñor voló hacia el rosal, y apoyó su pecho sobre la mayor de las espinas.",
 		"question" : "¿Por qué esperó a la noche el Ruiseñor?",
 		"options": [{
-				"text": "Porque el rosal de dijo que debía cantar de noche",
+				"text": "Porque el rosal le dijo que debía cantar de noche",
 				"isCorrect": true
 			}, {
 				"text": "Para que la luna lo escuche",
@@ -868,7 +868,7 @@
 	{
 		"tipo": 1,
 		"img": "",
-		"text": "—Dijiste que bailarías conmigo si te traía una rosa roja —exclamó el Estudiante—. Aquí tienes la rosa más roja de todo el mundo. Esta noche la prenderás sobre tu corazón y como bailaremos juntos podré decirte cuánto te amo. Pero la jovencita frunció el ceño. —Me temo que no va a hacer juego con mi vestido nuevo —repuso—, Y, además el sobrino del Chambelán me envió unas joyas de verdad, y todo el mundo sabe que las joyas son más caras que las flores.\n—Eres una ingrata incorregible —dijo agriamente el Estudiante, y tiró con ira la rosa al arroyo donde un carro la aplastó al pasar.",
+		"text": "—Dijiste que bailarías conmigo si te traía una rosa roja —exclamó el Estudiante—. Aquí tienes la rosa más roja de todo el mundo. Esta noche la prenderás sobre tu corazón y como bailaremos juntos podré decirte cuánto te amo.\nPero la jovencita frunció el ceño. —Me temo que no va a hacer juego con mi vestido nuevo —repuso—. Y, además el sobrino del Chambelán me envió unas joyas de verdad, y todo el mundo sabe que las joyas son más caras que las flores.\n—Eres una ingrata incorregible —dijo agriamente el Estudiante, y tiró con ira la rosa al arroyo donde un carro la aplastó al pasar.",
 		"pista": "",
 		"question" : "",
 		"options": [{
