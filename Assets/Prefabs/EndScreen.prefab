@@ -113,6 +113,7 @@ GameObject:
   - 224: {fileID: 22485672}
   - 222: {fileID: 22291066}
   - 114: {fileID: 11440390}
+  - 114: {fileID: 11494358}
   m_Layer: 5
   m_Name: EndScreen
   m_TagString: Untagged
@@ -298,9 +299,9 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: 0a7a49f4f540e004cae9b3e80f9c5130, type: 3}
     m_FontSize: 55
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 10
-    m_MaxSize: 58
+    m_MaxSize: 55
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -532,9 +533,33 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 11497830}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 11494358}
+        m_MethodName: OnClickAnotherBook
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
+--- !u!114 &11494358
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 160698}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f53f76cdfdf28244a6d2e20e18ad746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  correctAsnwersText: {fileID: 11482296}
+  wrongAsnwersText: {fileID: 11476370}
 --- !u!114 &11497830
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -659,8 +684,8 @@ RectTransform:
   m_RootOrder: 0
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.0019003379, y: 90.99991}
-  m_SizeDelta: {x: 1377, y: 443}
+  m_AnchoredPosition: {x: 0.0018920898, y: 90.99991}
+  m_SizeDelta: {x: 1377, y: 445}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &22438666
 RectTransform:
@@ -674,10 +699,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 22440216}
   m_RootOrder: 0
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 644, y: 210}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &22440216
 RectTransform:
@@ -762,10 +787,10 @@ RectTransform:
   - {fileID: 22454826}
   m_Father: {fileID: 22485672}
   m_RootOrder: 0
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0019018, y: 371}
-  m_SizeDelta: {x: 1920.4, y: 697}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -0.0018920898, y: 371}
+  m_SizeDelta: {x: -1.5999756, y: -743}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &22472492
 RectTransform:
@@ -800,10 +825,10 @@ RectTransform:
   - {fileID: 22403176}
   m_Father: {fileID: 22485672}
   m_RootOrder: 2
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: -198.25}
-  m_SizeDelta: {x: 0, y: -998.18}
+  m_SizeDelta: {x: 1920, y: 441.82}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &22485672
 RectTransform:

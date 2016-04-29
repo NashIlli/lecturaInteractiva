@@ -10,7 +10,7 @@ namespace Assets.Scripts.Instructions
 		public Text instructionText;
 
         void Start(){
-            instructionText.text = "ads";
+            instructionText.text = "Lee los textos, observa las imágenes y responde las preguntas";
 
         }
 

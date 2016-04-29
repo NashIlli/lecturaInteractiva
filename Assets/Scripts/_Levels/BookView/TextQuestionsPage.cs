@@ -111,7 +111,7 @@ namespace Assets.Scripts._Levels.BookView
             string middle = text.text.Substring(hintIndex, hintLength);
             string end = text.text.Substring(hintIndex + hintLength, text.text.Length - (hintIndex + hintLength));
 
-            text.text = start + "<color=white>" + middle + "</color>" + end;
+            text.text = start + "<color=red>" + middle + "</color>" + end;
 
         }
 

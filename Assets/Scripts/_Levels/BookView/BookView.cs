@@ -28,6 +28,9 @@ namespace Assets.Scripts._Levels.BookView
         private bool[] pagesResolved;
         private bool[] hintShowed;
 
+        private int wrongAnswers;
+        private int correctAnswers;
+
 
 
         void Awake()
@@ -108,7 +111,16 @@ namespace Assets.Scripts._Levels.BookView
 
         internal bool CheckAnswer(string optionSelected)
         {
-            return book.pages[currentPage].GetCorrectAnswer() == optionSelected;
+            if (book.pages[currentPage].GetCorrectAnswer() == optionSelected)
+            {
+                correctAnswers++;
+                return true;
+            }
+            else
+            {
+                wrongAnswers++;
+                return false;
+            }
         }
 
         internal bool IsCurrentPageResolved()
@@ -126,7 +138,7 @@ namespace Assets.Scripts._Levels.BookView
         {
             SoundController.GetController().PlayClickSound();
             if (book.pages.Length - 1 > currentPage) ShowPage(currentPage+1);
-            else Debug.Log("book finished");
+            else ViewController.GetController().LoadLevelCompleted(correctAnswers, wrongAnswers);
         }
 
         public void OnClickTicButton()

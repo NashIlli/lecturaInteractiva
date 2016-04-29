@@ -237,12 +237,7 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
---- !u!224 &1280672445 stripped
-RectTransform:
-  m_PrefabParentObject: {fileID: 22430612, guid: cc182db072ff85e49ac73f497d50127b,
-    type: 2}
-  m_PrefabInternal: {fileID: 1917347327}
---- !u!1001 &1917347327
+--- !u!1001 &815511880
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -324,6 +319,11 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: cc182db072ff85e49ac73f497d50127b, type: 2}
   m_IsPrefabParent: 0
+--- !u!224 &1280672445 stripped
+RectTransform:
+  m_PrefabParentObject: {fileID: 22430612, guid: cc182db072ff85e49ac73f497d50127b,
+    type: 2}
+  m_PrefabInternal: {fileID: 815511880}
 --- !u!1 &2043263578
 GameObject:
   m_ObjectHideFlags: 0

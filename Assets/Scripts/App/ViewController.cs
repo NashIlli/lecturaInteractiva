@@ -4,6 +4,7 @@ using Assets.Scripts.Sound;
 using Assets.Scripts._Levels;
 using Assets.Scripts._Levels.BookView;
 using System;
+using Assets.Scripts.LevelCompleted;
 
 namespace Assets.Scripts.App
 {
@@ -114,6 +115,12 @@ namespace Assets.Scripts.App
         public static ViewController GetController()
         {
             return viewController;
+        }
+
+        internal void LoadLevelCompleted(int correctAnswers, int wrongAnswers)
+        {
+            LoadLevelCompleted();
+            currentGameObject.GetComponent<LevelCompletedView>().SetAnswers(correctAnswers, wrongAnswers);
         }
     }
 }
