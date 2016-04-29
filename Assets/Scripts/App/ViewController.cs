@@ -5,6 +5,7 @@ using Assets.Scripts._Levels;
 using Assets.Scripts._Levels.BookView;
 using System;
 using Assets.Scripts.LevelCompleted;
+using UnityEngine.UI;
 
 namespace Assets.Scripts.App
 {
@@ -35,7 +36,14 @@ namespace Assets.Scripts.App
             DontDestroyOnLoad(this);
         }  
 
-		void Start(){
+		void Start()
+		{
+		    double ratio = (Screen.width + 0d) / (Screen.height + 0d);
+		    if (ratio > 1.4) gameObject.GetComponent<CanvasScaler>().matchWidthOrHeight = 1f;
+		    else if (ratio > 1.2) gameObject.GetComponent<CanvasScaler>().matchWidthOrHeight = 0.5f;
+		    else gameObject.GetComponent<CanvasScaler>().matchWidthOrHeight = 0f;
+            
+		    
 			LoadCover ();
 		}
 

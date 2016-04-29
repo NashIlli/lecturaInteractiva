@@ -4,7 +4,7 @@
 		"pages": [{
 			"tipo": 1,
 			"img": "myImage",
-			"text": "Había una vez un pastor muy bromista y mentiroso. Todos los días, cuando regresaba a su casa, después de haber llevado a pastar a su rebaño, entraba corriendo en el pueblo gritando:\n\n- ¡Viene el lobo! ¡Viene el lobo!\n\nAl oír los gritos, todos los habitantes se metían en sus casas muertos de miedo. Y allí encerrados se quedaban hasta que oían de nuevo al pastor:\n\n- ¡Ja, ja, ja! ¡No es verdad! ¡Sólo era una broma! ¡Tontos!",
+			"text": "\tHabía una vez un pastor muy bromista y mentiroso. Todos los días, cuando regresaba a su casa, después de haber llevado a pastar a su rebaño, entraba corriendo en el pueblo gritando:\n\t\n\t- ¡Viene el lobo! ¡Viene el lobo!\n\t\n\tAl oír los gritos, todos los habitantes se metían en sus casas muertos de miedo. Y allí encerrados se quedaban hasta que oían de nuevo al pastor:\n\t\n\t- ¡Ja, ja, ja! ¡No es verdad! ¡Sólo era una broma! ¡Tontos!",
 			"pista": "",
 			"question": "",
 			"options": [{
@@ -58,7 +58,7 @@
 		}, {
 			"tipo": 1,
 			"img": "myImage",
-			"text": "Y todos los días los habitantes del pueblo miraban malhumorados al pastor que siempre se alejaba riéndose.\n\nTodos los días. Hasta que... ¿Sabes qué pasó?\n\nUn día, como tantos otros, el pastor volvió corriendo al pueblo. Gritaba tanto o más que en otras ocasiones:",
+			"text": "\tY todos los días los habitantes del pueblo miraban malhumorados al pastor que siempre se alejaba riéndose.\n\t\n\tTodos los días. Hasta que... ¿Sabes qué pasó?\n\t\n\tUn día, como tantos otros, el pastor volvió corriendo al pueblo. Gritaba tanto o más que en otras ocasiones:",
 			"pista": "",
 			"question": "",
 			"options": [{
@@ -76,7 +76,7 @@
 		}, {
 			"tipo": 3,
 			"img": "myImage",
-			"text": "- ¡Viene el lobo! ¡Viene el lobo!\nPero esta vez corría más deprisa de lo normal y gritaba también más fuerte de lo normal. Sin embargo, los vecinos del pueblo no le hicieron ni caso, hartos ya de que el pastor les hubiera engañado tantas veces.",
+			"text": "- ¡Viene el lobo! ¡Viene el lobo!\n\tPero esta vez corría más deprisa de lo normal y gritaba también más fuerte de lo normal. Sin embargo, los vecinos del pueblo no le hicieron ni caso, hartos ya de que el pastor les hubiera engañado tantas veces.",
 			"pista": "los vecinos del pueblo no le hicieron ni caso, hartos ya de que el pastor les hubiera engañado tantas veces",
 			"question": "¿Por qué no le hicieron caso los vecinos?",
 			"options": [{
@@ -94,7 +94,7 @@
 		}, {
 			"tipo": 2,
 			"img": "Cuentos_Pastor03.png",
-			"text": "Y ¿Sabes cómo terminó todo? ¡Claro! Esta vez sí que fue verdad que venía el lobo. Y como nadie del pueblo le hizo caso, el pastor se quedó sin ovejas, pues el lobo se las comió todas.",
+			"text": "\tY ¿Sabes cómo terminó todo? ¡Claro! Esta vez sí que fue verdad que venía el lobo. Y como nadie del pueblo le hizo caso, el pastor se quedó sin ovejas, pues el lobo se las comió todas.",
 			"pista": "",
 			"question": "",
 			"options": [{
@@ -115,7 +115,7 @@
 		"pages": [{
 			"tipo": 2,
 			"img": "Cuentos_Persefone01.png",
-			"text": "Hubo un tiempo en el que reinaba la eterna primavera. La hierba siempre era verde y las flores nunca marchitaban. No existía el invierno. La responsable de esta maravilla era Démeter. Madre de Perséfone. Se trataba de una hermosa joven adorada por su madre, que solía acercarse a un campo repleto de flores a jugar.",
+			"text": "\tHubo un tiempo en el que reinaba la eterna primavera. La hierba siempre era verde y las flores nunca marchitaban. No existía el invierno. La responsable de esta maravilla era Démeter. Madre de Perséfone. Se trataba de una hermosa joven adorada por su madre, que solía acercarse a un campo repleto de flores a jugar.",
 			"pista": "",
 			"question": "",
 			"options": [{
@@ -133,7 +133,7 @@
 		}, {
 			"tipo": 3,
 			"img": "myImage",
-			"text": "Un día, pasó por allí el terrible Hades, el dios de los infiernos. Se enamoró de Perséfone y la raptó para llevarla con él.\nTriste y enojada, Démeter decidió abandonar sus funciones. La tierra se quedó desolada y sin ningún fruto ya que, sin la diosa para cuidar de ella, la tierra se seca y las plantas no crecen.",
+			"text": "\tUn día, pasó por allí el terrible Hades, el dios de los infiernos. Se enamoró de Perséfone y la raptó para llevarla con él.\n\tTriste y enojada, Démeter decidió abandonar sus funciones. La tierra se quedó desolada y sin ningún fruto ya que, sin la diosa para cuidar de ella, la tierra se seca y las plantas no crecen.",
 			"pista": "Triste y enojada, Démeter decidió abandonar sus funciones. La tierra se quedó desolada y sin ningún fruto ya que, sin la diosa para cuidar de ella, la tierra se seca y las plantas no crecen.",
 			"question": "¿Por qué no floreció la tierra?",
 			"options": [{
@@ -169,7 +169,7 @@
 		}, {
 			"tipo": 3,
 			"img": "myImage",
-			"text": "Ante este desastre Zeus, el dios de los dioses, se vio obligado a intervenir para devolverle la hija a su madre. Bajó al infierno a hablar con Hades y le ordenó devolver a Perséfone. Pero Hades no era ningún tonto y antes de que Perséfone volviera con su madre, le dio de comer el fruto de los infiernos.",
+			"text": "\tAnte este desastre Zeus, el dios de los dioses, se vio obligado a intervenir para devolverle la hija a su madre. Bajó al infierno a hablar con Hades y le ordenó devolver a Perséfone. Pero Hades no era ningún tonto y antes de que Perséfone volviera con su madre, le dio de comer el fruto de los infiernos.",
 			"pista": "Bajó al infierno a hablar con Hades",
 			"question": "¿Dónde estaban Hades y Perséfone?",
 			"options": [{
@@ -187,7 +187,7 @@
 		}, {
 			"tipo": 2,
 			"img": "Cuentos_Persefone03.png",
-			"text": "Este fruto obligaba a todo el que lo comiera a vivir por siempre en el inframundo. Por suerte, Perséfone comió sólo la mitad del fruto. De esta forma, Perséfone debía vivir seis meses al año en el infierno. Pero la otra mitad del año, podía subir a vivir con su madre.",
+			"text": "\tEste fruto obligaba a todo el que lo comiera a vivir por siempre en el inframundo. Por suerte, Perséfone comió sólo la mitad del fruto. De esta forma, Perséfone debía vivir seis meses al año en el infierno. Pero la otra mitad del año, podía subir a vivir con su madre.",
 			"pista": "",
 			"question": "",
 			"options": [{
@@ -205,7 +205,7 @@
 		}, {
 			"tipo": 3,
 			"img": "myImage",
-			"text": "Seis meses al año, cuando Deméter está separada de su hija, la tierra entristece. Pero cuando su hija vuelve la tierra florece y se llena de frutos y alegría. ¿Puedes adivinar cuándo es eso?",
+			"text": "\tSeis meses al año, cuando Deméter está separada de su hija, la tierra entristece. Pero cuando su hija vuelve la tierra florece y se llena de frutos y alegría. ¿Puedes adivinar cuándo es eso?",
 			"pista": "Pero cuando su hija vuelve la tierra florece y se llena de frutos y alegría.",
 			"question": "¿Cuándo está Demeter con su hija?",
 			"options": [{
@@ -226,7 +226,7 @@
 		"pages": [{
 			"tipo": 1,
 			"img": "myImage",
-			"text": "Había una vez una niña muy bonita. Siempre usaba una capa roja y todo el mundo la llamaba Caperucita Roja.\n\nUn día Caperucita decidió llevarle pastelitos a su abuela. Ella vive al otro lado del bosque. Su mamá le dijo que tenga mucho cuidado porque ahí vivía un lobo.",
+			"text": "\tHabía una vez una niña muy bonita. Siempre usaba una capa roja y todo el mundo la llamaba Caperucita Roja.\n\t\n\tUn día Caperucita decidió llevarle pastelitos a su abuela. Ella vive al otro lado del bosque. Su mamá le dijo que tenga mucho cuidado porque ahí vivía un lobo.",
 			"pista": "",
 			"question": "",
 			"options": [{
@@ -244,7 +244,7 @@
 		}, {
 			"tipo": 3,
 			"img": "myImage",
-			"text": "En el bosque caperucita se encontró con un lobo enorme.\n\n-¿A dónde vas?- le preguntó el lobo.\n\n-A la casa de mi abuelita- le dijo Caperucita\n\n-No está lejos- pensó el lobo y se fue.",
+			"text": "\tEn el bosque caperucita se encontró con un lobo enorme.\n\t\n\t-¿A dónde vas?- le preguntó el lobo.\n\t\n\t-A la casa de mi abuelita- le dijo Caperucita\n\t\n\t-No está lejos- pensó el lobo y se fue.",
 			"pista": "En el bosque caperucita se encontró con un lobo enorme.",
 			"question": "¿Quiénes están hablando?",
 			"options": [{
@@ -262,7 +262,7 @@
 		}, {
 			"tipo": 2,
 			"img": "Cuentos_Caperucita01.png",
-			"text": "Caperucita vio al costado del camino unas hermosas flores. Decidió juntarlas para armar un ramo para su abuela.\n\nEl lobo fue a la casa de la abuelita y tocó la puerta. La abuela abrió la puerta y zas el lobo se la comió de un bocado.",
+			"text": "\tCaperucita vio al costado del camino unas hermosas flores. Decidió juntarlas para armar un ramo para su abuela.\n\t\n\tEl lobo fue a la casa de la abuelita y tocó la puerta. La abuela abrió la puerta y zas el lobo se la comió de un bocado.",
 			"pista": "",
 			"question": "",
 			"options": [{
@@ -280,7 +280,7 @@
 		}, {
 			"tipo": 3,
 			"img": "myImage",
-			"text": "El lobo se puso el camisón de la abuela y su gorro. Cuando llegó caperucita, se acercó a la cama y vio a su abuela.\n\n-Abuelita, abuelita, ¡qué ojos más grandes tienes!\n\n-Son para verte mejor- dijo el lobo",
+			"text": "\tEl lobo se puso el camisón de la abuela y su gorro. Cuando llegó caperucita, se acercó a la cama y vio a su abuela.\n\t\n\t-Abuelita, abuelita, ¡qué ojos más grandes tienes!\n\t\n\t-Son para verte mejor- dijo el lobo",
 			"pista": "El lobo se puso el camisón de la abuela y su gorro",
 			"question": "¿Quién estaba en la cama de la abuela?",
 			"options": [{
@@ -316,8 +316,8 @@
 		}, {
 			"tipo": 3,
 			"img": "",
-			"text": "-Abuelita, abuelita, ¡qué orejas tan grandes tienes!\n\n-Son para oirte mejor- dijo el lobo\n\n-Abuelita, abuelita, ¡qué dientes más grandes que tienes!\n\n-¡Son para comerte mejor!- dijo el lobo.\n\nY de un bocado se la comió",
-			"pista": "-¡Son para comerte mejor!- dijo el lobo.\n\nY de un bocado se la comió",
+			"text": "-Abuelita, abuelita, ¡qué orejas tan grandes tienes!\n\t\n\t-Son para oirte mejor- dijo el lobo\n\t\n\t-Abuelita, abuelita, ¡qué dientes más grandes que tienes!\n\t\n\t-¡Son para comerte mejor!- dijo el lobo.\n\t\n\tY de un bocado se la comió",
+			"pista": "-¡Son para comerte mejor!- dijo el lobo.\n\t\n\tY de un bocado se la comió",
 			"question": "¿Con quién estaba hablando en verdad Caperucita?",
 			"options": [{
 					"text": "Con el lobo",
@@ -334,7 +334,7 @@
 		}, {
 			"tipo": 3,
 			"img": "",
-			"text": "Un leñador que pasaba por allí vio al lobo en la cama. Estaba durmiendo con su panza llena. El leñador agarró su hacha y le cortó la panza al lobo. ¡La abuelita y Caperucita estaban allí!",
+			"text": "\tUn leñador que pasaba por allí vio al lobo en la cama. Estaba durmiendo con su panza llena. El leñador agarró su hacha y le cortó la panza al lobo. ¡La abuelita y Caperucita estaban allí!",
 			"pista": "",
 			"question": "¿Qué hizo el leñador?",
 			"options": [{
@@ -352,7 +352,7 @@
 		}, {
 			"tipo": 2,
 			"img": "Cuentos_Caperucita03.png",
-			"text": "Caperucita estaba muy asustada. Pero aprendió la lección. Prometió a su abuela y al leñador no hablar con desconocido.",
+			"text": "\tCaperucita estaba muy asustada. Pero aprendió la lección. Prometió a su abuela y al leñador no hablar con desconocido.",
 			"pista": "",
 			"question": "",
 			"options": [{
@@ -373,7 +373,7 @@
 		"pages": [{
 			"tipo": 3,
 			"img": "myImage",
-			"text": "Junto a sus papás, tres cerditos habían crecido alegremente en una cabaña del bosque. Sus papás decidieron que era hora de que hicieran, cada uno, su propia casa. Los tres cerditos se despidieron de sus papás. El primer cerdito era muy perezoso. Él decidió hacer una casa de paja. En un minuto la choza estaba hecha. Y entonces se echó a dormir",
+			"text": "\tJunto a sus papás, tres cerditos habían crecido alegremente en una cabaña del bosque. Sus papás decidieron que era hora de que hicieran, cada uno, su propia casa. Los tres cerditos se despidieron de sus papás. El primer cerdito era muy perezoso. Él decidió hacer una casa de paja. En un minuto la choza estaba hecha. Y entonces se echó a dormir",
 			"pista": "El primer cerdito era muy perezoso. Él decidió hacer una casa de paja.",
 			"question": "¿Por qué decidió hacer una casa de paja el primer cerdito?",
 			"options": [{
@@ -391,7 +391,7 @@
 		}, {
 			"tipo": 1,
 			"img": "myImage",
-			"text": "El segundo cerdito era glotón. Él prefirió hacer una cabaña de madera. No tardó mucho en construirla. Y luego se echó a comer manzanas. El tercer cerdito era muy trabajador. Él construyó una casa de ladrillos y cemento. Tardó más en construirla pero se sintió más protegido.",
+			"text": "\tEl segundo cerdito era glotón. Él prefirió hacer una cabaña de madera. No tardó mucho en construirla. Y luego se echó a comer manzanas. El tercer cerdito era muy trabajador. Él construyó una casa de ladrillos y cemento. Tardó más en construirla pero se sintió más protegido.",
 			"pista": "",
 			"question": "",
 			"options": [{
@@ -409,7 +409,7 @@
 		}, {
 			"tipo": 1,
 			"img": "myImage",
-			"text": "Después de un día de mucho trabajo, la casa quedó preciosa. Pero ya se empezaba a oír los aullidos del lobo en el bosque. No tardó mucho para que el lobo se acercara a las casas de los tres cerditos. Hambriento, el lobo se dirigió a la primera casa y dijo:\n\n- ¡Ábreme la puerta! ¡Ábreme la puerta o soplaré y tu casa tiraré!.",
+			"text": "\tDespués de un día de mucho trabajo, la casa quedó preciosa. Pero ya se empezaba a oír los aullidos del lobo en el bosque. No tardó mucho para que el lobo se acercara a las casas de los tres cerditos. Hambriento, el lobo se dirigió a la primera casa y dijo:\n\t\n\t- ¡Ábreme la puerta! ¡Ábreme la puerta o soplaré y tu casa tiraré!.",
 			"pista": "",
 			"question": "",
 			"options": [{
@@ -427,7 +427,7 @@
 		}, {
 			"tipo": 2,
 			"img": "Cuentos_Cerditos01.png",
-			"text": "Cómo el cerdito no la abrió, el lobo sopló y sopló y derrumbó la casa de paja. El cerdito, temblando de miedo, salió corriendo. Él fue a la casa de madera de su hermano. El lobo le siguió.",
+			"text": "\tCómo el cerdito no la abrió, el lobo sopló y sopló y derrumbó la casa de paja. El cerdito, temblando de miedo, salió corriendo. Él fue a la casa de madera de su hermano. El lobo le siguió.",
 			"pista": "",
 			"question": "",
 			"options": [{
@@ -445,7 +445,7 @@
 		}, {
 			"tipo": 3,
 			"img": "myImage",
-			"text": "Y delante de la segunda casa, llamó a la puerta, y dijo:\n\n- ¡Ábreme la puerta! ¡Ábreme la puerta o soplaré y tu casa tiraré!\n\nPero el segundo cerdito no la abrió y el lobo sopló y sopló, y la cabaña se fue por los aires. Asustados, los dos cerditos corrieron y entraron en la casa de ladrillos de su hermano.",
+			"text": "\tY delante de la segunda casa, llamó a la puerta, y dijo:\n\t\n\t- ¡Ábreme la puerta! ¡Ábreme la puerta o soplaré y tu casa tiraré!\n\t\n\tPero el segundo cerdito no la abrió y el lobo sopló y sopló, y la cabaña se fue por los aires. Asustados, los dos cerditos corrieron y entraron en la casa de ladrillos de su hermano.",
 			"pista": "el lobo sopló y sopló, y la cabaña se fue por los aires",
 			"question": "¿Qué hizo el lobo?",
 			"options": [{
@@ -463,7 +463,7 @@
 		}, {
 			"tipo": 1,
 			"img": "myImage",
-			"text": "Pero, como el lobo estaba decidido a comérselos, llamó a la puerta y gritó:\n\n- ¡Ábreme la puerta! ¡Ábreme la puerta o soplaré y tu casa tiraré!\n\n- ¡Sopla lo que quieras, pero no la abriré!- dijo el cerdito trabajador.\n\nEntonces el lobo sopló y sopló. Sopló con todas sus fuerzas, pero la casa no se movió.\n\nLa casa era muy fuerte y resistente. El lobo se quedó casi sin aire. Pero aunque el lobo estaba muy cansado, trajo una escalera, subió al tejado de la casa y se deslizó por el pasaje de la chimenea.",
+			"text": "\tPero, como el lobo estaba decidido a comérselos, llamó a la puerta y gritó:\n\t\n\t- ¡Ábreme la puerta! ¡Ábreme la puerta o soplaré y tu casa tiraré!\n\t\n\t- ¡Sopla lo que quieras, pero no la abriré!- dijo el cerdito trabajador.\n\t\n\tEntonces el lobo sopló y sopló. Sopló con todas sus fuerzas, pero la casa no se movió.\n\t\n\tLa casa era muy fuerte y resistente. El lobo se quedó casi sin aire. Pero aunque el lobo estaba muy cansado, trajo una escalera, subió al tejado de la casa y se deslizó por el pasaje de la chimenea.",
 			"pista": "el lobo sopló y sopló, y la cabaña se fue por los aires",
 			"question": "¿Qué hizo el lobo?",
 			"options": [{
@@ -499,7 +499,7 @@
 		}, {
 			"tipo": 1,
 			"img": "myImage",
-			"text": "Estaba empeñado en entrar en la casa y comer a los tres cerditos como fuera. Pero lo que él no sabía es que los cerditos pusieron al final de la chimenea, un caldero con agua hirviendo.\n\nY el lobo, al caerse por la chimenea acabó quemándose con el agua caliente. Dio un enorme grito y salió corriendo para nunca mas volver.",
+			"text": "Estaba empeñado en entrar en la casa y comer a los tres cerditos como fuera. Pero lo que él no sabía es que los cerditos pusieron al final de la chimenea, un caldero con agua hirviendo.\n\t\n\tY el lobo, al caerse por la chimenea acabó quemándose con el agua caliente. Dio un enorme grito y salió corriendo para nunca mas volver.",
 			"pista": "",
 			"question": "",
 			"options": [{
@@ -517,7 +517,7 @@
 		}, {
 			"tipo": 2,
 			"img": "Cuentos_Cerditos03.png",
-			"text": "Y así, los cerditos pudieron vivir tranquilamente. Y tanto el perezoso como el glotón aprendieron que sólo con el trabajo se consigue las cosas.",
+			"text": "\tY así, los cerditos pudieron vivir tranquilamente. Y tanto el perezoso como el glotón aprendieron que sólo con el trabajo se consigue las cosas.",
 			"pista": "",
 			"question": "",
 			"options": [{
@@ -538,7 +538,7 @@
 		"pages": [{
 			"tipo": 3,
 			"img": "myImage",
-			"text": "La madre de Pablo había hecho sopa de letras para cenar. Puso los dos platos de sopa sobre la mesa del comedor y volvió a la cocina para freír unos huevos.\n\nPablo se llevó a la boca la primera cucharada, mirándola distraídamente, y dio un salto. ",
+			"text": "\tLa madre de Pablo había hecho sopa de letras para cenar. Puso los dos platos de sopa sobre la mesa del comedor y volvió a la cocina para freír unos huevos.\n\t\n\tPablo se llevó a la boca la primera cucharada, mirándola distraídamente, y dio un salto. ",
 			"pista": "La madre de Pablo había hecho sopa de letras para cenar.",
 			"question": "¿Qué estaba cenando Pablo?",
 			"options": [{
@@ -556,7 +556,7 @@
 		}, {
 			"tipo": 2,
 			"img": "Cuentos_Cena01.png",
-			"text": "En la superficie de la sopa que había en la cuchara, cuatro letras de pasta habían formado la palabra: “HOLA”. Tras la sorpresa inicial, pensó:\n\n-¡Qué casualidad! Mira que ir a caer precisamente así esas letras. \n\nY sonriendo, divertido, se tragó la cucharada.",
+			"text": "\tEn la superficie de la sopa que había en la cuchara, cuatro letras de pasta habían formado la palabra: “HOLA”. Tras la sorpresa inicial, pensó:\n\t\n\t-¡Qué casualidad! Mira que irán a caer precisamente así esas letras. \n\t\n\tY sonriendo, divertido, se tragó la cucharada.",
 			"pista": "",
 			"question": "",
 			"options": [{
@@ -574,7 +574,7 @@
 		}, {
 			"tipo": 3,
 			"img": "myImage",
-			"text": "Al ir a tomarse la segunda, descubrió con asombro que las letras decían: “TONTO EL QUE LO LEA”.\n\nAquello era demasiado. Con la boca abierta, Pablo miró al plato. Entre la multitud de letras del plato había mucho lío. Todas nadaban de aquí para allá. Se daban empujones y codazos. Parecían pelearse para los mejores sitios.",
+			"text": "\tAl ir a tomarse la segunda, descubrió con asombro que las letras decían: “TONTO EL QUE LO LEA”.\n\t\n\tAquello era demasiado. Con la boca abierta, Pablo miró al plato. Entre la multitud de letras del plato había mucho lío. Todas nadaban de aquí para allá. Se daban empujones y codazos. Parecían pelearse para los mejores sitios.",
 			"pista": "Todas nadaban de aquí para allá. Se daban empujones y codazos. Parecían pelearse para los mejores sitios",
 			"question": "¿Qué estaban haciendo las letras?",
 			"options": [{
@@ -592,7 +592,7 @@
 		}, {
 			"tipo": 1,
 			"img": "myImage",
-			"text": "Después todas se quedaron quietas. Y en el centro del círculo de sopa quedó escrita una advertencia:\n\n”OJO, NO ME COMAS. SI TE ATREVES A COMERME ME DEDICARÉ A ESCRIBIR TACOS DENTRO DE TU BARRIGA”. \n\nPablo, muy alarmado, agarró el plato, fue al cuarto de baño, vertió la sopa por el inodoro y tiró de la cadena. Lanzó un suspiro de alivio.",
+			"text": "\tDespués todas se quedaron quietas. Y en el centro del círculo de sopa quedó escrita una advertencia:\n\t\n\t”OJO, NO ME COMAS. SI TE ATREVES A COMERME ME DEDICARÉ A ESCRIBIR TACOS DENTRO DE TU BARRIGA”. \n\t\n\tPablo, muy alarmado, agarró el plato, fue al cuarto de baño, vertió la sopa por el inodoro y tiró de la cadena. Lanzó un suspiro de alivio.",
 			"pista": "",
 			"question": "",
 			"options": [{
@@ -628,7 +628,7 @@
 		}, {
 			"tipo": 3,
 			"img": "",
-			"text": "Volvió a la mesa. Su madre le trajo un huevo frito con papas y se fue a la cocina a freír el suyo. En cuanto ella volvió de espaldas, el huevo frito realizó un espectacular despegue en vertical. Frenó un milímetro antes de estrellarse contra la lámpara y comenzó a dar vueltas por toda la habitación.",
+			"text": "\tVolvió a la mesa. Su madre le trajo un huevo frito con papas y se fue a la cocina a freír el suyo. En cuanto ella volvió de espaldas, el huevo frito realizó un espectacular despegue en vertical. Frenó un milímetro antes de estrellarse contra la lámpara y comenzó a dar vueltas por toda la habitación.",
 			"pista": "En cuanto ella volvió de espaldas, el huevo frito realizó un espectacular despegue en vertical.",
 			"question": "¿Qué hizo el huevo frito?",
 			"options": [{
