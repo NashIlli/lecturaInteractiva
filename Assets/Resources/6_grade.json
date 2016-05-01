@@ -6,7 +6,7 @@
 	"pages": [{
 		"tipo": 1,
 		"img": "myImage",
-		"text": "Cuentan que cuando Orfeo tocaba no sólo los hombres, animales y dioses se quedaban embelesados escuchándole, sino que incluso la Madre Naturaleza detenía su fluir para disfrutar de sus notas, y que así, los ríos, plantas y hasta las rocas escuchaban a Orfeo y sentían la música en su interior, animando su esencia.\nAdemás de músico y poeta, Orfeo fue un viajero ansioso por conocer y por aprender. Estuvo en Egipto y aprendió de sus sacerdotes los cultos a Isis y Osiris, y se empapó de distintas creencias y tradiciones. Fue un sabio de su tiempo.",
+		"text": "\tCuentan que cuando Orfeo tocaba no sólo los hombres, animales y dioses se quedaban embelesados escuchándole, sino que incluso la Madre Naturaleza detenía su fluir para disfrutar de sus notas, y que así, los ríos, plantas y hasta las rocas escuchaban a Orfeo y sentían la música en su interior, animando su esencia.\n\tAdemás de músico y poeta, Orfeo fue un viajero ansioso por conocer y por aprender. Estuvo en Egipto y aprendió de sus sacerdotes los cultos a Isis y Osiris, y se empapó de distintas creencias y tradiciones. Fue un sabio de su tiempo.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -24,7 +24,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Con tantas cualidades, no era de extrañar que las mujeres le admiraran y que tuviera no pocas pretendientes. Eran muchas las que soñaban con casarse con él y ser despertadas con una dulce melodía de su lira al amanecer. Muchas que querían compartir su sabiduría, su curiosidad, su vitalidad.",
+		"text": "\tCon tantas cualidades, no era de extrañar que las mujeres le admiraran y que tuviera no pocas pretendientes. Eran muchas las que soñaban con casarse con él y ser despertadas con una dulce melodía de su lira al amanecer. Muchas que querían compartir su sabiduría, su curiosidad, su vitalidad.",
 		"pista": "Con tantas cualidades, no era de extrañar que las mujeres le admiraran y que tuviera no pocas pretendientes",
 		"question" : "¿Por qué tantas mujeres querían casarse con Orfeo?",
 		"options": [{
@@ -42,7 +42,7 @@
 	},{
 		"tipo": 2,
 		"img": "Cuentos_Orfeo01.png",
-		"text": "Pero sólo una de ellas llamó la atención de nuestro héroe, y no fue otra que Eurídice, quien seguramente no era tan atrevida como otras y puede que tampoco tan hermosa. Pero el amor es así, caprichoso e inesperado, y desde que la vio, la imagen de su tierna sonrisa, de su mirada brillante y transparente, se repetían en la mente de Orfeo, que no dudó en casarse con ella. Zeus, reconociendo el valor que había demostrado en muchas de sus aventuras, le otorgó la mano de su ninfa, y vivieron juntos muy felices, disfrutando de un amor que se dice que fue único, tierno y apasionado como ninguno.",
+		"text": "\tPero sólo una de ellas llamó la atención de nuestro héroe, y no fue otra que Eurídice, quien seguramente no era tan atrevida como otras y puede que tampoco tan hermosa. Pero el amor es así, caprichoso e inesperado, y desde que la vio, la imagen de su tierna sonrisa, de su mirada brillante y transparente, se repetían en la mente de Orfeo, que no dudó en casarse con ella. Zeus, reconociendo el valor que había demostrado en muchas de sus aventuras, le otorgó la mano de su ninfa, y vivieron juntos muy felices, disfrutando de un amor que se dice que fue único, tierno y apasionado como ninguno.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -60,7 +60,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Pero quiso el destino que el pastor Aristeo quedara también prendado de Eurídice, y que un día en que ésta paseaba por sus campos, el pastor olvidó todo respeto y la atacó. Nuestra ninfa corrió para escaparse, con tan mala fortuna que en la carrera una serpiente venenosa mordió su pie, haciendo que cayera muerta sobre la hierba.",
+		"text": "\tPero quiso el destino que el pastor Aristeo quedara también prendado de Eurídice, y que un día en que ésta paseaba por sus campos, el pastor olvidó todo respeto y la atacó. Nuestra ninfa corrió para escaparse, con tan mala fortuna que en la carrera una serpiente venenosa mordió su pie, haciendo que cayera muerta sobre la hierba.",
 		"pista": "Nuestra ninfa corrió para escaparse, con tan mala fortuna que en la carrera una serpiente venenosa mordió su pie, haciendo que cayera muerta sobre la hierba",
 		"question" : "¿Cómo murió Eurídice?",
 		"options": [{
@@ -78,7 +78,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "No hubo lágrimas suficientes para consolar el dolor de Orfeo, y una noche de las muchas que pasó en vela llorando a su amada, decidió que si hacía falta, descendería él mismo a los infiernos de Hades para reclamar a Eurídice.",
+		"text": "\tNo hubo lágrimas suficientes para consolar el dolor de Orfeo, y una noche de las muchas que pasó en vela llorando a su amada, decidió que si hacía falta, descendería él mismo a los infiernos de Hades para reclamar a Eurídice.",
 		"pista": "decidió que si hacía falta, descendería él mismo a los infiernos de Hades para reclamar a Eurídice.",
 		"question" : "¿Qué decidió hacer Orfeo?",
 		"options": [{
@@ -96,7 +96,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "Aunque el camino a los infiernos era largo y estaba lleno de dificultades, Orfeo consiguió llegar hasta el borde de la laguna Estigia, cuyas aguas separan el reino de la luz del reino de las tinieblas. Allí entonó un canto tan triste y tan melodioso que conmovió al mismísimo Caronte, el barquero encargado de transportar las almas de los difuntos hasta la otra orilla de la laguna. Orfeo atravesó en la barca de Caronte las aguas que ningún ser vivo puede cruzar. Y una vez en el reino de las tinieblas, tuvo que enfrentarse al guardián de las puertas de los Infiernos, Kancerbero. Un perro feroz de tres cabezas que cuida quien entra al Hades. Orfeo empezó a tocar la lira y el perro se detuvo a escuchar. Así fue como nuestro músico se internó en el submundo, sin cesar de tocar y de cantar su tristeza.",
+		"text": "\tAunque el camino a los infiernos era largo y estaba lleno de dificultades, Orfeo consiguió llegar hasta el borde de la laguna Estigia, cuyas aguas separan el reino de la luz del reino de las tinieblas. Allí entonó un canto tan triste y tan melodioso que conmovió al mismísimo Caronte, el barquero encargado de transportar las almas de los difuntos hasta la otra orilla de la laguna. Orfeo atravesó en la barca de Caronte las aguas que ningún ser vivo puede cruzar. Y una vez en el reino de las tinieblas, tuvo que enfrentarse al guardián de las puertas de los Infiernos, Kancerbero. Un perro feroz de tres cabezas que cuida quien entra al Hades. Orfeo empezó a tocar la lira y el perro se detuvo a escuchar. Así fue como nuestro músico se internó en el submundo, sin cesar de tocar y de cantar su tristeza.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -132,7 +132,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Cuentan que el mismo Hades se detuvo a escucharle y que todos encontraron un momento de paz en la visita de Orfeo. Y los Señores del Infierno, Hades y Perséfone, quedaron conmovidos por la belleza del canto de Orfeo.",
+		"text": "\tCuentan que el mismo Hades se detuvo a escucharle y que todos encontraron un momento de paz en la visita de Orfeo. Y los Señores del Infierno, Hades y Perséfone, quedaron conmovidos por la belleza del canto de Orfeo.",
 		"pista": "Y los Señores del Infierno, Hades y Perséfone, quedaron conmovidos por la belleza del canto de Orfeo",
 		"question" : "¿Quiénes eran los dioses del infierno?",
 		"options": [{
@@ -150,7 +150,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Así, decidieron devolver a la vida terrenal a Eurídice, con la condición de que ésta caminase detrás de Orfeo en el viaje de vuelta al mundo de los vivos, y que éste no mirase atrás ni una sola vez hasta que no estuvieran en la superficie. Y ambos emprendieron la marcha.",
+		"text": "\tAsí, decidieron devolver a la vida terrenal a Eurídice, con la condición de que ésta caminase detrás de Orfeo en el viaje de vuelta al mundo de los vivos, y que éste no mirase atrás ni una sola vez hasta que no estuvieran en la superficie. Y ambos emprendieron la marcha.",
 		"pista": "con la condición de que ésta caminase detrás de Orfeo en el viaje de vuelta al mundo de los vivos, y que éste no mirase atrás ni una sola vez hasta que no estuvieran en la superficie.",
 		"question" : "¿Con qué condición le devolvieron a Eurídice?",
 		"options": [{
@@ -168,7 +168,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "El viaje fue difícil, lleno de penurias. Si la bajada al Hades había costado, el ascenso fue aún peor. Eurídice seguía herida y débil, y las sombras se cernían sobre ellos amenazadoras, el frío se colaba en sus huesos, los tropiezos eran cada vez más frecuentes. A punto ya de llegar a la salida, cuando los primeros rayos de luz traspasaron las sombras, Eurídice dejó escapar un suspiro aliviada, y Orfeo olvidó la orden de Hades y miró hacia atrás  por un instante.",
+		"text": "\tEl viaje fue difícil, lleno de penurias. Si la bajada al Hades había costado, el ascenso fue aún peor. Eurídice seguía herida y débil, y las sombras se cernían sobre ellos amenazadoras, el frío se colaba en sus huesos, los tropiezos eran cada vez más frecuentes. A punto ya de llegar a la salida, cuando los primeros rayos de luz traspasaron las sombras, Eurídice dejó escapar un suspiro aliviada, y Orfeo olvidó la orden de Hades y miró hacia atrás  por un instante.",
 		"pista": "A punto ya de llegar a la salida, cuando los primeros rayos de luz traspasaron las sombras, Eurídice dejó escapar un suspiro aliviada",
 		"question" : "¿Por qué miró Orfeo?",
 		"options": [{
@@ -186,7 +186,7 @@
 	},{
 		"tipo": 2,
 		"img": "Cuentos_Orfeo03.png",
-		"text": "Entonces su amada empezó a desvanecerse, pues la condición impuesta había sido violada, y aunque Orfeo se lanzó sobre ella en un abrazo que la retuviera, no fue más que aire lo que estrechó entre sus brazos.",
+		"text": "\tEntonces su amada empezó a desvanecerse, pues la condición impuesta había sido violada, y aunque Orfeo se lanzó sobre ella en un abrazo que la retuviera, no fue más que aire lo que estrechó entre sus brazos.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -204,7 +204,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Orfeo intentó entonces descender de nuevo al Hades, pero Caronte, el barquero de la laguna Estigia, le negó la entrada, y ambos apenas pudieron despedirse con una mirada a través de las aguas.",
+		"text": "\tOrfeo intentó entonces descender de nuevo al Hades, pero Caronte, el barquero de la laguna Estigia, le negó la entrada, y ambos apenas pudieron despedirse con una mirada a través de las aguas.",
 		"pista": "y ambos apenas pudieron despedirse con una mirada a través de las aguas.",
 		"question" : "¿A quién pudo despedir con la mirada?",
 		"options": [{
@@ -222,7 +222,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "Y aunque esperó Orfeo siete días con sus siete noches en el margen del lago, acabó viendo que era demasiado tarde para enmendar su error, y marchó a vagabundear por los desiertos, sin apenas probar bocado, acompañado sólo por su lira y su música.\nMuchos años después, cuando Orfeo murió y fue a reunirse con su amada al Hades, Zeus convirtió su maravillosa lira en una constelación para inmortalizar su historia.",
+		"text": "\tY aunque esperó Orfeo siete días con sus siete noches en el margen del lago, acabó viendo que era demasiado tarde para enmendar su error, y marchó a vagabundear por los desiertos, sin apenas probar bocado, acompañado sólo por su lira y su música.\n\tMuchos años después, cuando Orfeo murió y fue a reunirse con su amada al Hades, Zeus convirtió su maravillosa lira en una constelación para inmortalizar su historia.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -245,7 +245,7 @@
 	"pages": [{
 		"tipo": 3,
 		"img": "myImage",
-		"text": "Hace muchísimos años, en las lejanas tierras de Oriente, hubo un rey llamado Shariar, amado por todos los habitantes de su reino. Sucedió, sin embargo, que un día descubrió que su esposa estaba perdidamente enamorada de uno de los esclavos. –¡Ay! –sollozó el rey–. ¡Siento en mi corazón un fuego que quema!–. E inmediatamente ordenó que su esposa y el esclavo fueran degollados.",
+		"text": "\tHace muchísimos años, en las lejanas tierras de Oriente, hubo un rey llamado Shariar, amado por todos los habitantes de su reino. Sucedió, sin embargo, que un día descubrió que su esposa estaba perdidamente enamorada de uno de los esclavos. –¡Ay! –sollozó el rey–. ¡Siento en mi corazón un fuego que quema!–. E inmediatamente ordenó que su esposa y el esclavo fueran degollados.",
 		"pista": "Sucedió, sin embargo, que un día descubrió que su esposa estaba perdidamente enamorada de uno de los esclavos.",
 		"question" : "¿Por qué mató a su esposa y al esclavo?",
 		"options": [{
@@ -263,7 +263,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "La muerte de su esposa infiel no calmó el fuego que quemaba el corazón del rey Shariar. Su rostro iba perdiendo el color de la vida y casi ni comía. Convocó entonces el rey a su visir y le mandó que cada día hiciera venir a su palacio a una joven doncella del reino. El rey las desposaba pero, con las primeras luces del amanecer, recordaba la infidelidad de su esposa y una nube de tristeza le llenaba la mente. Entonces, hacía decapitar a las doncellas ardiendo de odio hacia todas las mujeres.",
+		"text": "\tLa muerte de su esposa infiel no calmó el fuego que quemaba el corazón del rey Shariar. Su rostro iba perdiendo el color de la vida y casi ni comía. Convocó entonces el rey a su visir y le mandó que cada día hiciera venir a su palacio a una joven doncella del reino. El rey las desposaba pero, con las primeras luces del amanecer, recordaba la infidelidad de su esposa y una nube de tristeza le llenaba la mente. Entonces, hacía decapitar a las doncellas ardiendo de odio hacia todas las mujeres.",
 		"pista": "",
 		"question" : "¿Por qué mataba a las doncellas luego de casarse?",
 		"options": [{
@@ -281,7 +281,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "Transcurrieron así los años sin que Shariar encontrara paz ni reposo mientras, en el reino, todas las familias vivían sumidas en el horror, huyendo para evitar la muerte de sus hijas. Un día, el rey mandó al visir que, como de costumbre, le trajese a una joven. El visir, por más que buscó, no pudo encontrar a ninguna y regresó muy triste a su casa, con el alma llena de miedo por el furor del rey. Pero el visir tenía dos hermosas hijas, la mayor llamada Sherezade y la menor de nombre Doniazada.\nSherezade era una joven de delicadeza exquisita. Ella había leído innumerables libros y conocía las crónicas y las leyendas de los reyes antiguos y las historias de épocas remotas. Sherezade era inteligente, prudente y astuta. Era muy elocuente y daba gusto oírla.",
+		"text": "\tTranscurrieron así los años sin que Shariar encontrara paz ni reposo mientras, en el reino, todas las familias vivían sumidas en el horror, huyendo para evitar la muerte de sus hijas. Un día, el rey mandó al visir que, como de costumbre, le trajese a una joven. El visir, por más que buscó, no pudo encontrar a ninguna y regresó muy triste a su casa, con el alma llena de miedo por el furor del rey. Pero el visir tenía dos hermosas hijas, la mayor llamada Sherezade y la menor de nombre Doniazada.\n\tSherezade era una joven de delicadeza exquisita. Ella había leído innumerables libros y conocía las crónicas y las leyendas de los reyes antiguos y las historias de épocas remotas. Sherezade era inteligente, prudente y astuta. Era muy elocuente y daba gusto oírla.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -299,7 +299,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "El visir contó a su hija cuanto había ocurrido desde el principio al fin. Entonces le dijo Sherezade: –¡Por Alah, padre, cásame con el rey! ¡Prometo salvar de entre las manos de Shariar a todas las hijas del reino o morir como el resto de mis hermanas!–. El visir contestó: –¡Por Alah, hija! ¡No! -. Pero Sherezade insistió nuevamente en su ruego. Entonces el visir, sin replicar nada, hizo que preparasen el ajuar de su hija y marchó a comunicar la noticia al rey Shariar.",
+		"text": "\tEl visir contó a su hija cuanto había ocurrido desde el principio al fin. Entonces le dijo Sherezade: –¡Por Alah, padre, cásame con el rey! ¡Prometo salvar de entre las manos de Shariar a todas las hijas del reino o morir como el resto de mis hermanas!–. El visir contestó: –¡Por Alah, hija! ¡No! -. Pero Sherezade insistió nuevamente en su ruego. Entonces el visir, sin replicar nada, hizo que preparasen el ajuar de su hija y marchó a comunicar la noticia al rey Shariar.",
 		"pista": " –¡Por Alah, padre, cásame con el rey! ¡Prometo salvar de entre las manos de Shariar a todas las hijas del reino o morir como el resto de mis hermanas!–. ",
 		"question" : "¿Qué prometió Sherezade?",
 		"options": [{
@@ -317,7 +317,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Mientras su padre estaba ausente, Sherezade le dijo a su hermana Doniazada: –Te mandaré llamar cuando esté en el palacio y en cuanto llegues y veas que el rey ha terminado de hablar conmigo, me dirás: “Hermana, cuenta alguna historia maravillosa que nos haga pasar la noche.” Entonces yo narraré cuentos que, si Alah quiere, serán la causa de la salvación de las hijas de este reino.",
+		"text": "\tMientras su padre estaba ausente, Sherezade le dijo a su hermana Doniazada: –Te mandaré llamar cuando esté en el palacio y en cuanto llegues y veas que el rey ha terminado de hablar conmigo, me dirás: “Hermana, cuenta alguna historia maravillosa que nos haga pasar la noche.” Entonces yo narraré cuentos que, si Alah quiere, serán la causa de la salvación de las hijas de este reino.",
 		"pista": "Entonces yo narraré cuentos que, si Alah quiere, serán la causa de la salvación de las hijas de este reino.",
 		"question" : "¿Cuál era el plan de Sherezade?",
 		"options": [{
@@ -335,7 +335,7 @@
 	},{
 		"tipo": 2,
 		"img": "Cuentos_Mil01.png",
-		"text": "Regresó poco después el visir y se dirigió con su hija mayor hacia la morada del rey. El rey se alegró muchísimo al ver la belleza de Sherezade y preguntó a su padre: –¿Es esta la doncella con quien me desposaré esta noche?–. Y el visir respondió respetuosamente: –Sí, lo es.",
+		"text": "\tRegresó poco después el visir y se dirigió con su hija mayor hacia la morada del rey. El rey se alegró muchísimo al ver la belleza de Sherezade y preguntó a su padre: –¿Es esta la doncella con quien me desposaré esta noche?–. Y el visir respondió respetuosamente: –Sí, lo es.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -353,7 +353,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "Pero acabada la ceremonia nupcial, cuando el rey quiso acercarse a la joven, Sherezade se echó a llorar. El rey le dijo: –¿Qué te pasa?–. Y ella exclamó: –¡Oh rey poderoso, tengo una pequeña hermana, de la cual quisiera despedirme!–. El rey mandó buscar a la hermana que llegó rápidamente, se acomodó a los pies del lecho y dijo: –Hermana, cuéntanos una historia que nos haga pasar la noche–. Sherezade contestó: –De buena gana y con todo respeto, si es que me lo permite este rey tan generoso, dotado de tan buenas maneras–. El rey, al oír estas palabras, como no tenía ningún sueño, se prestó de buen grado a escuchar el relato de Sherezade.",
+		"text": "\tPero acabada la ceremonia nupcial, cuando el rey quiso acercarse a la joven, Sherezade se echó a llorar. El rey le dijo: –¿Qué te pasa?–. Y ella exclamó: –¡Oh rey poderoso, tengo una pequeña hermana, de la cual quisiera despedirme!–. El rey mandó buscar a la hermana que llegó rápidamente, se acomodó a los pies del lecho y dijo: –Hermana, cuéntanos una historia que nos haga pasar la noche–. Sherezade contestó: –De buena gana y con todo respeto, si es que me lo permite este rey tan generoso, dotado de tan buenas maneras–. El rey, al oír estas palabras, como no tenía ningún sueño, se prestó de buen grado a escuchar el relato de Sherezade.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -371,7 +371,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Aquella primera noche, Sherezade empezó a contar la historia del mercader que, en uno de sus viajes por el desierto, cayó en manos de un efrit que quería cortarle la cabeza. El mercader, en su afán por salvar su vida, le contaba al genio maligno tantos relatos maravillosos que llegó el amanecer sin que Sherezade hubiese concluido la historia. Entonces, la joven se calló discretamente, sin aprovecharse más del permiso que le había concedido Shariar.",
+		"text": "\tAquella primera noche, Sherezade empezó a contar la historia del mercader que, en uno de sus viajes por el desierto, cayó en manos de un efrit que quería cortarle la cabeza. El mercader, en su afán por salvar su vida, le contaba al genio maligno tantos relatos maravillosos que llegó el amanecer sin que Sherezade hubiese concluido la historia. Entonces, la joven se calló discretamente, sin aprovecharse más del permiso que le había concedido Shariar.",
 		"pista": "El mercader, en su afán por salvar su vida, le contaba al genio maligno tantos relatos maravillosos que llegó el amanecer sin que Sherezade hubiese concluido la historia.",
 		"question" : "¿Qué pasó con la historia de Sherezade?",
 		"options": [{
@@ -407,7 +407,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Su hermana Doniazada dijo: –¡Oh hermana mía! ¡Cuán dulces y sabrosos son tus relatos!–. Sherezade contestó: –Pues nada son comparados con los que os podría contar la noche próxima, si el rey quiere conservar mi vida–. El rey dijo para sí: –¡Por Alah! No la mataré hasta que haya oído el final de su historia–. Y por primera vez en muchos años durmió un sueño tranquilo.",
+		"text": "\tSu hermana Doniazada dijo: –¡Oh hermana mía! ¡Cuán dulces y sabrosos son tus relatos!–. Sherezade contestó: –Pues nada son comparados con los que os podría contar la noche próxima, si el rey quiere conservar mi vida–. El rey dijo para sí: –¡Por Alah! No la mataré hasta que haya oído el final de su historia–. Y por primera vez en muchos años durmió un sueño tranquilo.",
 		"pista": " –Pues nada son comparados con los que os podría contar la noche próxima, si el rey quiere conservar mi vida–",
 		"question" : "¿Cuál era el plan de Sherezade?",
 		"options": [{
@@ -425,7 +425,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Cuando terminó sus tareas, el rey volvió a su palacio. Al llegar por fin la segunda noche, Doniazada pidió a su hermana que concluyera la historia del mercader y el efrit. Sherezade dijo: –De todo corazón, siempre que este rey tan generoso me lo permita–. Y el rey, que sentía gran curiosidad acerca del destino del mercader, ordenó: –Puedes hablar.",
+		"text": "\tCuando terminó sus tareas, el rey volvió a su palacio. Al llegar por fin la segunda noche, Doniazada pidió a su hermana que concluyera la historia del mercader y el efrit. Sherezade dijo: –De todo corazón, siempre que este rey tan generoso me lo permita–. Y el rey, que sentía gran curiosidad acerca del destino del mercader, ordenó: –Puedes hablar.",
 		"pista": "",
 		"question" : "¿Por qué estaba Doniazada en la habitación?",
 		"options": [{
@@ -443,7 +443,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "Sherezade prosiguió su relato y lo hizo con tanta astucia que, al llegar la mañana, Doniazada y el rey ya estaban escuchando un nuevo cuento. En el momento en que vio aparecer la luz del día, Sherezade discretamente dejó de hablar. Entonces su hermana Doniazada dijo: –¡Ah, hermana mía! ¡Cuán deliciosas son las historias que cuentas!–. Sherezade contestó: –Nada es comparable con lo que te contaré la noche próxima, si este rey tan generoso decide que viva aún–. Y el rey se dijo: –¡Por Alah! no la mataré hasta que le haya oído la continuación de su relato, que es asombroso.",
+		"text": "\tSherezade prosiguió su relato y lo hizo con tanta astucia que, al llegar la mañana, Doniazada y el rey ya estaban escuchando un nuevo cuento. En el momento en que vio aparecer la luz del día, Sherezade discretamente dejó de hablar. Entonces su hermana Doniazada dijo: –¡Ah, hermana mía! ¡Cuán deliciosas son las historias que cuentas!–. Sherezade contestó: –Nada es comparable con lo que te contaré la noche próxima, si este rey tan generoso decide que viva aún–. Y el rey se dijo: –¡Por Alah! no la mataré hasta que le haya oído la continuación de su relato, que es asombroso.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -461,7 +461,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Entonces esa noche Doniazada dijo: –Hermana mía, te suplico que termines tu relato–. Y Sherezade contestó: –Con toda la alegría de mi corazón. Como la noche anterior, supo interrumpir su narración justo en el momento más interesante, al llegar el amanecer. El rey, para conocer el desenlace del cuento, decidió postergar nuevamente la muerte de su esposa.",
+		"text": "\tEntonces esa noche Doniazada dijo: –Hermana mía, te suplico que termines tu relato–. Y Sherezade contestó: –Con toda la alegría de mi corazón. Como la noche anterior, supo interrumpir su narración justo en el momento más interesante, al llegar el amanecer. El rey, para conocer el desenlace del cuento, decidió postergar nuevamente la muerte de su esposa.",
 		"pista": "Como la noche anterior, supo interrumpir su narración justo en el momento más interesante, al llegar el amanecer.",
 		"question" : "¿Se daba cuenta el rey de lo que hacía Sherezade?",
 		"options": [{
@@ -479,7 +479,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "Al llegar el alba de la noche siguiente, cuando Doniazada manifestó cuán interesante había resultado el nuevo relato, respondió Sherezade: –Pero es más maravillosa la historia del pescador.\nY el rey preguntó con curiosidad: –¿Qué historia del pescador es esa?–. –La que os contaré la noche próxima, –señaló Sherezade–, si vivo todavía–. Entonces el rey dijo para sí: –¡Por Alah! No la mataré sin haber oído la historia del pescador,que debe ser verdaderamente maravillosa.",
+		"text": "\tAl llegar el alba de la noche siguiente, cuando Doniazada manifestó cuán interesante había resultado el nuevo relato, respondió Sherezade: –Pero es más maravillosa la historia del pescador.\n\tY el rey preguntó con curiosidad: –¿Qué historia del pescador es esa?–. –La que os contaré la noche próxima, –señaló Sherezade–, si vivo todavía–. Entonces el rey dijo para sí: –¡Por Alah! No la mataré sin haber oído la historia del pescador,que debe ser verdaderamente maravillosa.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -497,7 +497,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "La misma decisión tomó el rey Shariar al día siguiente y en los sucesivos días. Sherezade anunciaba nuevas historias, las interrumpía sabiamente o las entrelazaba de tal modo que el personaje de un cuento contaba un cuento en el que un personaje contaba un cuento... Así, una historia llevaba a la otra en una narración sin fin que iba dejando a la joven un día más de vida, una semana más, un mes, un año tras otro año.",
+		"text": "\tLa misma decisión tomó el rey Shariar al día siguiente y en los sucesivos días. Sherezade anunciaba nuevas historias, las interrumpía sabiamente o las entrelazaba de tal modo que el personaje de un cuento contaba un cuento en el que un personaje contaba un cuento... Así, una historia llevaba a la otra en una narración sin fin que iba dejando a la joven un día más de vida, una semana más, un mes, un año tras otro año.",
 		"pista": "",
 		"question" : "¿Cómo hacía para hacer historias tan largas?",
 		"options": [{
@@ -515,7 +515,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "A lo largo de tres años, noche a noche, Sherezade contó al rey historias tan maravillosas como las que acabáis de leer. Entre tanto, la joven había dado al rey tres hermosos hijos varones.\nEn la noche mil uno, Sherezade despidió a su hermana Doniazada, se presentó ante el rey Shariar, se inclinó ante él para besar el suelo en señal de respeto y dijo: –¡Oh, rey Shariar, esposo mío! Tu esposa lleva ya mil y una noches contándote historias de tiempos muy remotos. ¡Solicito ahora tu permiso para expresar un deseo!",
+		"text": "\tA lo largo de tres años, noche a noche, Sherezade contó al rey historias tan maravillosas como las que acabáis de leer. Entre tanto, la joven había dado al rey tres hermosos hijos varones.\n\tEn la noche mil uno, Sherezade despidió a su hermana Doniazada, se presentó ante el rey Shariar, se inclinó ante él para besar el suelo en señal de respeto y dijo: –¡Oh, rey Shariar, esposo mío! Tu esposa lleva ya mil y una noches contándote historias de tiempos muy remotos. ¡Solicito ahora tu permiso para expresar un deseo!",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -533,7 +533,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "–Pide, Sherezade, –dijo el rey– y lo que pidas te será concedido. Sherezade puso a sus hijos delante del rey y dijo: –¡Oh, rey Shariar, esposo mío! Contempla a tus hijos. Te ruego que me permitas vivir para atenderles. Si me matas, estos niños se quedarán sin madre.",
+		"text": "\t–Pide, Sherezade, –dijo el rey– y lo que pidas te será concedido. Sherezade puso a sus hijos delante del rey y dijo: –¡Oh, rey Shariar, esposo mío! Contempla a tus hijos. Te ruego que me permitas vivir para atenderles. Si me matas, estos niños se quedarán sin madre.",
 		"pista": "",
 		"question" : "¿Qué le pidió Sherezade al rey?",
 		"options": [{
@@ -551,7 +551,7 @@
 	},{
 		"tipo": 2,
 		"img": "Cuentos_Mil03.png",
-		"text": "El rey Shariar sintió que su vista se nublaba a causa de las lágrimas. –¡Sherezade! –exclamó entonces el rey–. Tus historias han hecho desvanecer el odio que ardía en mi corazón. Eres noble y digna madre de mis hijos. Yo te liberaré de cualquier mal.\nLa alegría se propagó por el palacio y se difundió por todo el reino y Sherezade y el rey Shariar vivieron una vida feliz y en paz.",
+		"text": "\tEl rey Shariar sintió que su vista se nublaba a causa de las lágrimas. –¡Sherezade! –exclamó entonces el rey–. Tus historias han hecho desvanecer el odio que ardía en mi corazón. Eres noble y digna madre de mis hijos. Yo te liberaré de cualquier mal.\n\tLa alegría se propagó por el palacio y se difundió por todo el reino y Sherezade y el rey Shariar vivieron una vida feliz y en paz.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -574,7 +574,7 @@
 	"pages": [{
 		"tipo": 1,
 		"img": "myImage",
-		"text": "—Ella me prometió que bailaría conmigo si le llevaba rosas rojas —murmuró el Estudiante—; pero en todo el jardín no queda ni una sola rosa roja.\nEl Ruiseñor le estaba escuchando desde su nido, y lo miraba a través de las hojas; al oír esto último, se sintió asombrado.\n—¡Ni una sola rosa roja en todo el jardín! —repitió el Estudiante con sus ojos llenos de lágrimas—. ¡Ay, es que la felicidad depende hasta de cosas tan pequeñas! Ya he estudiado todo lo que los sabios han escrito, conozco los secretos de la filosofía y sin embargo, soy desdichado por no tener una rosa roja. ",
+		"text": "\t—Ella me prometió que bailaría conmigo si le llevaba rosas rojas —murmuró el Estudiante—; pero en todo el jardín no queda ni una sola rosa roja.\n\tEl Ruiseñor le estaba escuchando desde su nido, y lo miraba a través de las hojas; al oír esto último, se sintió asombrado.\n\t—¡Ni una sola rosa roja en todo el jardín! —repitió el Estudiante con sus ojos llenos de lágrimas—. ¡Ay, es que la felicidad depende hasta de cosas tan pequeñas! Ya he estudiado todo lo que los sabios han escrito, conozco los secretos de la filosofía y sin embargo, soy desdichado por no tener una rosa roja. ",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -592,7 +592,7 @@
 	},{
 		"tipo": 2,
 		"img": "Cuentos_Ruisenor01.png",
-		"text": "—Por fin tenemos aquí a un enamorado auténtico —se dijo el ruiseñor—. He estado cantándole noche tras noche, aunque no lo conozco; y noche tras noche le he contado su historia a las estrellas; y por fin lo veo ahora. \n—El Príncipe da el baile mañana por la noche —seguía quejándose el Estudiante—, y allí estará mi amada. Si le llevo una rosa roja bailará conmigo hasta el amanecer. Si le llevo una rosa roja la estrecharé entre mis brazos, y ella apoyará su cabeza sobre mi hombro, y apoyará su mano en la mía. ",
+		"text": "\t—Por fin tenemos aquí a un enamorado auténtico —se dijo el ruiseñor—. He estado cantándole noche tras noche, aunque no lo conozco; y noche tras noche le he contado su historia a las estrellas; y por fin lo veo ahora. \n\t—El Príncipe da el baile mañana por la noche —seguía quejándose el Estudiante—, y allí estará mi amada. Si le llevo una rosa roja bailará conmigo hasta el amanecer. Si le llevo una rosa roja la estrecharé entre mis brazos, y ella apoyará su cabeza sobre mi hombro, y apoyará su mano en la mía. ",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -610,7 +610,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "—Este sí que es un auténtico enamorado verdadero —seguía pensando el Ruiseñor—. Yo canto y él sufre; lo que para mí es alegría, para él es dolor. No cabe duda que el amor es una cosa admirable, más preciosa que las esmeraldas y más rara que los ópalos blancos. No se vende en los mercados, no se puede adquirir en el comercio ni pesar en las balanzas del oro. ",
+		"text": "\t—Este sí que es un auténtico enamorado verdadero —seguía pensando el Ruiseñor—. Yo canto y él sufre; lo que para mí es alegría, para él es dolor. No cabe duda que el amor es una cosa admirable, más preciosa que las esmeraldas y más rara que los ópalos blancos. No se vende en los mercados, no se puede adquirir en el comercio ni pesar en las balanzas del oro. ",
 		"pista": "No cabe duda que el amor es una cosa admirable, más preciosa que las esmeraldas y más rara que los ópalos blancos.",
 		"question" : "¿De qué está hablando el Ruiseñor?",
 		"options": [{
@@ -628,7 +628,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Sólo el Ruiseñor comprendía el secreto de la pena del Estudiante y, posado silenciosamente en la encina, meditaba sobre el misterio del amor. Por último, desplegó sus alas oscuras y se elevó en el aire. Cruzó como una sombra a través de la avenida, y como una sombra se deslizó por el jardín. En medio del prado había un magnífico rosal, y el Ruiseñor voló hasta posársele en una de sus ramas. —Necesito una rosa roja —le dijo. -Dámela y yo te cantaré mi canción más dulce. Pero el rosal negó sacudiendo su ramaje.",
+		"text": "\tSólo el Ruiseñor comprendía el secreto de la pena del Estudiante y, posado silenciosamente en la encina, meditaba sobre el misterio del amor. Por último, desplegó sus alas oscuras y se elevó en el aire. Cruzó como una sombra a través de la avenida, y como una sombra se deslizó por el jardín. En medio del prado había un magnífico rosal, y el Ruiseñor voló hasta posársele en una de sus ramas. —Necesito una rosa roja —le dijo. -Dámela y yo te cantaré mi canción más dulce. Pero el rosal negó sacudiendo su ramaje.",
 		"pista": "-Dámela y yo te cantaré mi canción más dulce. Pero el rosal negó sacudiendo su ramaje.",
 		"question" : "¿Cómo iba a pagar el Ruiseñor la rosa?",
 		"options": [{
@@ -646,7 +646,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "—Mis rosas son blancas —le contestó—, como la espuma del mar y más blancas que la nieve de la montaña. Pero anda a ver a mi hermano, que crece al pie de la ventana del Estudiante, y quizás él pueda darte la flor que necesitas. El Ruiseñor voló entonces hasta el viejo rosal que crecía al pie de la ventana del Estudiante. —Dame una rosa roja —le dijo—, y yo te cantaré mi canción más dulce.",
+		"text": "\t—Mis rosas son blancas —le contestó—, como la espuma del mar y más blancas que la nieve de la montaña. Pero anda a ver a mi hermano, que crece al pie de la ventana del Estudiante, y quizás él pueda darte la flor que necesitas. El Ruiseñor voló entonces hasta el viejo rosal que crecía al pie de la ventana del Estudiante. —Dame una rosa roja —le dijo—, y yo te cantaré mi canción más dulce.",
 		"pista": "Mis rosas son blancas —le contestó—",
 		"question" : "¿Por qué se negó el rosal a darle la rosa roja?",
 		"options": [{
@@ -664,7 +664,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Pero el rosal negó sacudiendo su follaje. —Rojas son, en efecto, mis rosas —contestó—; tan rojas como las patas de las palomas, y más rojas que los abanicos de coral que relumbran en las cavernas del océano. Pero el invierno heló mis venas, y la escarcha marchitó mis capullos, y la tormenta rompió mis ramas y durante todo este año no tendré rosas rojas. —Una rosa roja es todo lo que necesito —exclamó el Ruiseñor—; ¡sólo una rosa roja! ¿No hay manera alguna de que la pueda obtener?",
+		"text": "\tPero el rosal negó sacudiendo su follaje. —Rojas son, en efecto, mis rosas —contestó—; tan rojas como las patas de las palomas, y más rojas que los abanicos de coral que relumbran en las cavernas del océano. Pero el invierno heló mis venas, y la escarcha marchitó mis capullos, y la tormenta rompió mis ramas y durante todo este año no tendré rosas rojas. —Una rosa roja es todo lo que necesito —exclamó el Ruiseñor—; ¡sólo una rosa roja! ¿No hay manera alguna de que la pueda obtener?",
 		"pista": "Pero el invierno heló mis venas, y la escarcha marchitó mis capullos, y la tormenta rompió mis ramas y durante todo este año no tendré rosas rojas.",
 		"question" : "¿Por qué se negó el rosal a darle una rosa roja?",
 		"options": [{
@@ -682,7 +682,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "—Hay una manera —contestó el rosal—, pero es tan terrible que no me atrevo a decírtela. —Dímela —repuso el Ruiseñor—. Yo no me asustaré.\n—Si quieres una rosa roja —dijo el rosal—, tienes que construirla con tu música, a la luz de la luna, y teñirla con la sangre de tu corazón. Debes cantar con tu pecho apoyado sobre una de mis espinas. Debes cantar toda la noche, hasta que la espina atraviese tu corazón y la sangre de tu vida fluirá en mis venas y se hará mía...\n —La propia muerte es un precio muy alto por una rosa roja —murmuró el Ruiseñor—, y la vida es dulce para todos. Sin embargo, el Amor es mejor que la vida, y, por último, ¿qué es el corazón de un ruiseñor comparado con el corazón de un hombre enamorado? Y, desplegando sus alas oscuras, el ruiseñor se elevó en el aire, cruzó por el jardín como una sombra, y como una sombra se deslizó a través de la avenida.",
+		"text": "\t—Hay una manera —contestó el rosal—, pero es tan terrible que no me atrevo a decírtela. —Dímela —repuso el Ruiseñor—. Yo no me asustaré.\n\t—Si quieres una rosa roja —dijo el rosal—, tienes que construirla con tu música, a la luz de la luna, y teñirla con la sangre de tu corazón. Debes cantar con tu pecho apoyado sobre una de mis espinas. Debes cantar toda la noche, hasta que la espina atraviese tu corazón y la sangre de tu vida fluirá en mis venas y se hará mía...\n\t —La propia muerte es un precio muy alto por una rosa roja —murmuró el Ruiseñor—, y la vida es dulce para todos. Sin embargo, el Amor es mejor que la vida, y, por último, ¿qué es el corazón de un ruiseñor comparado con el corazón de un hombre enamorado? Y, desplegando sus alas oscuras, el ruiseñor se elevó en el aire, cruzó por el jardín como una sombra, y como una sombra se deslizó a través de la avenida.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -700,7 +700,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "El Estudiante seguía echado en la hierba, como lo había dejado; y las lágrimas no se secaban en sus anchos ojos. —¡Alégrate! —le gritó el Ruiseñor—. ¡Siéntete dichoso, porque tendrás tu rosa roja! Yo la construiré con mi música, a la luz de la luna, y la teñiré con la sangre de mi corazón. Lo único que pido a cambio, es que seas un verdadero amante, porque el Amor es más sabio que la Filosofía, por muy sabia que ésta sea, y es más poderoso que la Fuerza, por muy fuerte que ella sea.",
+		"text": "\tEl Estudiante seguía echado en la hierba, como lo había dejado; y las lágrimas no se secaban en sus anchos ojos. —¡Alégrate! —le gritó el Ruiseñor—. ¡Siéntete dichoso, porque tendrás tu rosa roja! Yo la construiré con mi música, a la luz de la luna, y la teñiré con la sangre de mi corazón. Lo único que pido a cambio, es que seas un verdadero amante, porque el Amor es más sabio que la Filosofía, por muy sabia que ésta sea, y es más poderoso que la Fuerza, por muy fuerte que ella sea.",
 		"pista": "Lo único que pido en cambio, es que seas un verdadero amante, porque el Amor es más sabio que la Filosofía, por muy sabia que ésta sea, y es más poderoso que la Fuerza, por muy fuerte que ella sea.",
 		"question" : "¿Qué le pidió al Estudiante a cambio de la rosa?",
 		"options": [{
@@ -718,7 +718,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "El Estudiante levantó la vista de la hierba y escuchó, pero no comprendió lo que decía el Ruiseñor, porque él sólo podía entender lo que estaba escrito en los libros. Pero, al oírlo cantar, levantó el Estudiante y sacó del bolsillo un cuadernito y un lápiz.  —He de admitir que ese pájaro tiene estilo —se dijo a sí mismo caminando por la alameda—, eso no puede negarse; pero ¿acaso siente lo que canta? Temo que no, debe ser como tantos artistas, puro estilo y nada de sinceridad. Jamás se sacrificaría por alguien, piensa solamente en música y ya se sabe que el arte es egoísta. Sin embargo, debo reconocer que su voz da notas muy bellas. ¡Lástima que no signifiquen nada, o que no signifiquen nada importante para nadie!",
+		"text": "\tEl Estudiante levantó la vista de la hierba y escuchó, pero no comprendió lo que decía el Ruiseñor, porque él sólo podía entender lo que estaba escrito en los libros. Pero, al oírlo cantar, levantó el Estudiante y sacó del bolsillo un cuadernito y un lápiz.  —He de admitir que ese pájaro tiene estilo —se dijo a sí mismo caminando por la alameda—, eso no puede negarse; pero ¿acaso siente lo que canta? Temo que no, debe ser como tantos artistas, puro estilo y nada de sinceridad. Jamás se sacrificaría por alguien, piensa solamente en música y ya se sabe que el arte es egoísta. Sin embargo, debo reconocer que su voz da notas muy bellas. ¡Lástima que no signifiquen nada, o que no signifiquen nada importante para nadie!",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -736,7 +736,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Luego entró en su alcoba, y, echándose sobre su cama, comenzó de nuevo a pensar en su amor. Después de unos momentos se quedó dormido. Cuando la luna alumbró en los cielos, el Ruiseñor voló hacia el rosal, y apoyó su pecho sobre la mayor de las espinas. Toda la noche estuvo cantando con el pecho contra la espina, y la luna fría y cristalina se inclinó para escuchar.",
+		"text": "\tLuego entró en su alcoba, y, echándose sobre su cama, comenzó de nuevo a pensar en su amor. Después de unos momentos se quedó dormido. Cuando la luna alumbró en los cielos, el Ruiseñor voló hacia el rosal, y apoyó su pecho sobre la mayor de las espinas. Toda la noche estuvo cantando con el pecho contra la espina, y la luna fría y cristalina se inclinó para escuchar.",
 		"pista": "Cuando la luna alumbró en los cielos, el Ruiseñor voló hacia el rosal, y apoyó su pecho sobre la mayor de las espinas.",
 		"question" : "¿Por qué esperó a la noche el Ruiseñor?",
 		"options": [{
@@ -755,7 +755,7 @@
 	{
 		"tipo": 1,
 		"img": "",
-		"text": "La espina se hundía más y más en su carne y la sangre de su vida se derramaba en el rosal. Cantó primero al nacimiento del Amor en el corazón de los adolescentes. Entonces, en la rama más alta del rosal floreció una rosa maravillosa, pétalo tras pétalo como canción tras canción. Al principio era pálida, como la niebla que flota sobre el río; pálida como los pies de la mañana y plateada como las alas de la aurora. El rosal le gritó al Ruiseñor para que apretara más su pecho contra la espina. —¡Aprétate más, pequeño Ruiseñor —gritó el rosal—, o el día llegará antes de haber terminado de fabricar la rosa! ",
+		"text": "\tLa espina se hundía más y más en su carne y la sangre de su vida se derramaba en el rosal. Cantó primero al nacimiento del Amor en el corazón de los adolescentes. Entonces, en la rama más alta del rosal floreció una rosa maravillosa, pétalo tras pétalo como canción tras canción. Al principio era pálida, como la niebla que flota sobre el río; pálida como los pies de la mañana y plateada como las alas de la aurora. El rosal le gritó al Ruiseñor para que apretara más su pecho contra la espina. —¡Aprétate más, pequeño Ruiseñor —gritó el rosal—, o el día llegará antes de haber terminado de fabricar la rosa! ",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -792,7 +792,7 @@
 	{
 		"tipo": 3,
 		"img": "",
-		"text": "Y el Ruiseñor se apretó más contra la espina, y más y más creció su canto porque ahora cantaba el nacimiento de la pasión en el alma de un joven y de una mujer. Y un delicado rubor comenzó a cubrir las hojas de la rosa, como el rubor que cubre las mejillas del novio cuando besa los labios de su prometida.",
+		"text": "\tY el Ruiseñor se apretó más contra la espina, y más y más creció su canto porque ahora cantaba el nacimiento de la pasión en el alma de un joven y de una mujer. Y un delicado rubor comenzó a cubrir las hojas de la rosa, como el rubor que cubre las mejillas del novio cuando besa los labios de su prometida.",
 		"pista": "Y el Ruiseñor se apretó más contra la espina, y más y más creció su canto porque ahora cantaba el nacimiento de la pasión en el alma de un joven y de una mujer.",
 		"question" : "¿Por qué cantaba el Ruiseñor?",
 		"options": [{
@@ -811,7 +811,7 @@
 	{
 		"tipo": 3,
 		"img": "",
-		"text": "Pero la espina no llegaba todavía al corazón del corazón, y el corazón de la rosa permanecía blanco, porque sólo la sangre de un ruiseñor puede enrojecer el corazón de una rosa. Y el rosal le gritó al Ruiseñor para que se apretara más aún contra la espina. —¡Aprétate más, pequeño Ruiseñor —gritó el rosal—, o llegará el día antes de haber terminado de fabricar la rosa! ",
+		"text": "\tPero la espina no llegaba todavía al corazón del corazón, y el corazón de la rosa permanecía blanco, porque sólo la sangre de un ruiseñor puede enrojecer el corazón de una rosa. Y el rosal le gritó al Ruiseñor para que se apretara más aún contra la espina. —¡Aprétate más, pequeño Ruiseñor —gritó el rosal—, o llegará el día antes de haber terminado de fabricar la rosa! ",
 		"pista": "—¡Aprétate más, pequeño Ruiseñor —gritó el rosal—, o llegará el día antes de haber terminado de fabricar la rosa! ",
 		"question" : "¿Por qué debía apretarse más?",
 		"options": [{
@@ -830,7 +830,7 @@
 	{
 		"tipo": 3,
 		"img": "",
-		"text": "—¡Mira, mira —gritó el rosal—, la rosa ya está terminada! Pero el Ruiseñor no contestó, porque estaba muerto con la espina clavada en su corazón. Ya era eso del mediodía cuando despertó el Estudiante; abrió la ventana y miró hacia afuera. —¡Caramba, qué maravillosa visión! —exclamó—. ¡Una rosa roja! En mi vida he visto una rosa semejante.",
+		"text": "\t—¡Mira, mira —gritó el rosal—, la rosa ya está terminada! Pero el Ruiseñor no contestó, porque estaba muerto con la espina clavada en su corazón. Ya era eso del mediodía cuando despertó el Estudiante; abrió la ventana y miró hacia afuera. —¡Caramba, qué maravillosa visión! —exclamó—. ¡Una rosa roja! En mi vida he visto una rosa semejante.",
 		"pista": "¡Una rosa roja! En mi vida he visto una rosa semejante.",
 		"question" : "¿Qué encontró el Estudiante al despertar?",
 		"options": [{
@@ -849,7 +849,7 @@
 	{
 		"tipo": 3,
 		"img": "",
-		"text": "Se inclinó por el balcón y la cortó. En seguida se caló el sombrero, y con la rosa en la mano, corrió a la casa del profesor. La hija del profesor estaba sentada cerca de la puerta, devanando una madeja de seda azul, con su perrito a los pies.",
+		"text": "\tSe inclinó por el balcón y la cortó. En seguida se caló el sombrero, y con la rosa en la mano, corrió a la casa del profesor. La hija del profesor estaba sentada cerca de la puerta, devanando una madeja de seda azul, con su perrito a los pies.",
 		"pista": " La hija del profesor estaba sentada cerca de la puerta, devanando una madeja de seda azul, con su perrito a los pies.",
 		"question" : "¿De quién estaba enamorado el Estudiante?",
 		"options": [{
@@ -868,7 +868,7 @@
 	{
 		"tipo": 1,
 		"img": "",
-		"text": "—Dijiste que bailarías conmigo si te traía una rosa roja —exclamó el Estudiante—. Aquí tienes la rosa más roja de todo el mundo. Esta noche la prenderás sobre tu corazón y como bailaremos juntos podré decirte cuánto te amo.\nPero la jovencita frunció el ceño. —Me temo que no va a hacer juego con mi vestido nuevo —repuso—. Y, además el sobrino del Chambelán me envió unas joyas de verdad, y todo el mundo sabe que las joyas son más caras que las flores.\n—Eres una ingrata incorregible —dijo agriamente el Estudiante, y tiró con ira la rosa al arroyo donde un carro la aplastó al pasar.",
+		"text": "\t—Dijiste que bailarías conmigo si te traía una rosa roja —exclamó el Estudiante—. Aquí tienes la rosa más roja de todo el mundo. Esta noche la prenderás sobre tu corazón y como bailaremos juntos podré decirte cuánto te amo.\n\tPero la jovencita frunció el ceño. —Me temo que no va a hacer juego con mi vestido nuevo —repuso—. Y, además el sobrino del Chambelán me envió unas joyas de verdad, y todo el mundo sabe que las joyas son más caras que las flores.\n\t—Eres una ingrata incorregible —dijo agriamente el Estudiante, y tiró con ira la rosa al arroyo donde un carro la aplastó al pasar.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -887,7 +887,7 @@
 	{
 		"tipo": 2,
 		"img": "Cuentos_Ruisenor03.png",
-		"text": "—¡Qué cosa más estúpida es el Amor! —se dijo el Estudiante mientras caminaba—. No es ni la mitad de útil que la Lógica, porque no demuestra nada y le habla a uno siempre de cosas que no suceden nunca, y hace creer verdades que no son ciertas. En realidad no es nada práctico, y como en estos tiempos ser práctico es serlo todo, volveré a la Filosofía y al estudio de la Metafísica.\nY al llegar a su casa, abrió un libro lleno de polvo, y se puso a leer.",
+		"text": "\t—¡Qué cosa más estúpida es el Amor! —se dijo el Estudiante mientras caminaba—. No es ni la mitad de útil que la Lógica, porque no demuestra nada y le habla a uno siempre de cosas que no suceden nunca, y hace creer verdades que no son ciertas. En realidad no es nada práctico, y como en estos tiempos ser práctico es serlo todo, volveré a la Filosofía y al estudio de la Metafísica.\n\tY al llegar a su casa, abrió un libro lleno de polvo, y se puso a leer.",
 		"pista": "",
 		"question" : "",
 		"options": [{

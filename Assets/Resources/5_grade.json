@@ -5,7 +5,7 @@
 	"pages": [{
 		"tipo": 3,
 		"img": "myImage",
-		"text": "En un principio todo era Caos, hasta que los dioses decidieron dar a cada cosa existente su lugar en la tierra, también decidieron crear a los animales y entre ellos a uno que fuera superior: el hombre; esta tarea fue encomendada a Prometeo y su hermano Epimeteo. Para ello, Prometeo tomó agua y barro para moldear al hombre a imagen y semejanza de los dioses.",
+		"text": "\tEn un principio todo era Caos, hasta que los dioses decidieron dar a cada cosa existente su lugar en la tierra, también decidieron crear a los animales y entre ellos a uno que fuera superior: el hombre; esta tarea fue encomendada a Prometeo y su hermano Epimeteo. Para ello, Prometeo tomó agua y barro para moldear al hombre a imagen y semejanza de los dioses.",
 		"pista": "Para ello, Prometeo tomó agua y barro para moldear al hombre a imagen y semejanza de los dioses.",
 		"question" : "¿De qué están hechos los hombres?",
 		"options": [{
@@ -23,7 +23,7 @@
 	},{
 		"tipo": 2,
 		"img": "Cuentos_Pandora01.png",
-		"text": "Cuando Prometeo quiso proveer al hombre de dones especiales para hacerlo superior al resto de los animales, se dio cuenta que Epimeteo ya los había agotado todos en la creación de los animales, así que Prometeo subió al Olimpo y robó las semillas de Helios (el Sol) y se las regaló a los hombres. Con el fuego como regalo, los hombres fueron capaces no sólo de alimentarse, sino también de elaborar armas para cazar animales, de fabricar herramientas para trabajar la tierra, de calentarse y de vivir una mejor vida.",
+		"text": "\tCuando Prometeo quiso proveer al hombre de dones especiales para hacerlo superior al resto de los animales, se dio cuenta que Epimeteo ya los había agotado todos en la creación de los animales, así que Prometeo subió al Olimpo y robó las semillas de Helios (el Sol) y se las regaló a los hombres. Con el fuego como regalo, los hombres fueron capaces no sólo de alimentarse, sino también de elaborar armas para cazar animales, de fabricar herramientas para trabajar la tierra, de calentarse y de vivir una mejor vida.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -41,7 +41,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Cuando Zeus se dio cuenta del robo, montó en cólera y decidió castigar a los hermanos por haber regalado el fuego y a los hombres por haber aceptado el regalo.\nDe esta manera ordenó a todos los dioses crear a la primera mujer en la tierra y que cada uno de ellos la llenara de virtudes",
+		"text": "\tCuando Zeus se dio cuenta del robo, montó en cólera y decidió castigar a los hermanos por haber regalado el fuego y a los hombres por haber aceptado el regalo.\n\tDe esta manera ordenó a todos los dioses crear a la primera mujer en la tierra y que cada uno de ellos la llenara de virtudes",
 		"pista": "decidió castigar a los hermanos por haber regalado el fuego y a los hombres por haber aceptado el regalo.",
 		"question" : "¿Por qué se creó a las mujeres?",
 		"options": [{
@@ -59,7 +59,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "Hefesto, dios del fuego, la moldeó; Atenea, diosa de la sabiduría, le regaló un cinturón de perlas, un vestido hermoso color púrpura y otras piedras preciosas; Afrodita, le dio la belleza; Apolo, dios de la luz y la verdad, le dio la música; Hermes, dios de las fronteras y los viajeros, le dio el don de la seducción, un carácter voluble y la manipulación; los collares le fueron entregados por Las Gracias y la Persuasión, y coronaron su cabeza con flores.",
+		"text": "\tHefesto, dios del fuego, la moldeó; Atenea, diosa de la sabiduría, le regaló un cinturón de perlas, un vestido hermoso color púrpura y otras piedras preciosas; Afrodita, le dio la belleza; Apolo, dios de la luz y la verdad, le dio la música; Hermes, dios de las fronteras y los viajeros, le dio el don de la seducción, un carácter voluble y la manipulación; los collares le fueron entregados por Las Gracias y la Persuasión, y coronaron su cabeza con flores.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -95,7 +95,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Pero la primera mujer, Pandora, fue también un arma contra el hombre, pues Zeus quería acabar con él a causa de la desobediencia de Prometeo. Así, esta mujer será la encargada de llevar la perdición al hombre, y así se lo hace saber Zeus a Hefesto, el más habilidoso del Olimpo.",
+		"text": "\tPero la primera mujer, Pandora, fue también un arma contra el hombre, pues Zeus quería acabar con él a causa de la desobediencia de Prometeo. Así, esta mujer será la encargada de llevar la perdición al hombre, y así se lo hace saber Zeus a Hefesto, el más habilidoso del Olimpo.",
 		"pista": "Así, esta mujer será la encargada de llevar la perdición al hombre, y así se lo hace saber Zeus a Hefesto, el más habilidoso del Olimpo.",
 		"question" : "¿Qué le dijo Zeus a Hefesto?",
 		"options": [{
@@ -113,7 +113,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "La mujer, fue hecha bella, perfecta y muy similar al hombre, pero también tenía la capacidad de retrasar al hombre en su trabajo y hacerle olvidar lo que pensaba. Como último regalo, Zeus le entrega a Pandora una caja que no deberá abrir bajo ningún concepto. En ella, sin la mujer saberlo, estaban encerrados todos los males que destruyen a la raza humana: la enfermedad, la venganza, la ira, el mal del mundo.",
+		"text": "\tLa mujer, fue hecha bella, perfecta y muy similar al hombre, pero también tenía la capacidad de retrasar al hombre en su trabajo y hacerle olvidar lo que pensaba. Como último regalo, Zeus le entrega a Pandora una caja que no deberá abrir bajo ningún concepto. En ella, sin la mujer saberlo, estaban encerrados todos los males que destruyen a la raza humana: la enfermedad, la venganza, la ira, el mal del mundo.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -131,7 +131,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Y le entrega a Pandora a Epimeteo, hermano de Prometeo, como su esposa; este, deslumbrado por la belleza de la mujer, acepta sin dudar el regalo, desoyendo los sabios consejos de su hermano: no aceptar ningún presente que venga de Zeus.",
+		"text": "\tY le entrega a Pandora a Epimeteo, hermano de Prometeo, como su esposa; este, deslumbrado por la belleza de la mujer, acepta sin dudar el regalo, desoyendo los sabios consejos de su hermano: no aceptar ningún presente que venga de Zeus.",
 		"pista": "desoyendo los sabios consejos de su hermano: no aceptar ningún presente que venga de Zeus",
 		"question" : "¿Qué le dijo Prometeo a Epimeteo?",
 		"options": [{
@@ -149,7 +149,7 @@
 	},{
 		"tipo": 2,
 		"img": "Cuentos_Pandora03.png",
-		"text": "Movida por la curiosidad, con el tiempo Pandora no pudo resistirlo y abrió la caja que Zeus le había regalado. Y en un momento todos los males se repartieron por el mundo, sin poder ser contenidos por las sensuales manos de la mujer. ",
+		"text": "\tMovida por la curiosidad, con el tiempo Pandora no pudo resistirlo y abrió la caja que Zeus le había regalado. Y en un momento todos los males se repartieron por el mundo, sin poder ser contenidos por las sensuales manos de la mujer. ",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -167,7 +167,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Asustada, Pandora cerró la tapa justo cuando el último objeto de la caja iba a salir: la esperanza. Posteriormente, arrepentida y viendo lo que su acción había provocado en la Humanidad, se dedicó a ir ofreciendo a los hombres, uno a uno, la posibilidad de contar con la esperanza, pues ella la tenía -esta vez sí-, bien guardada.",
+		"text": "\tAsustada, Pandora cerró la tapa justo cuando el último objeto de la caja iba a salir: la esperanza. Posteriormente, arrepentida y viendo lo que su acción había provocado en la Humanidad, se dedicó a ir ofreciendo a los hombres, uno a uno, la posibilidad de contar con la esperanza, pues ella la tenía -esta vez sí-, bien guardada.",
 		"pista": "Posteriormente, arrepentida y viendo lo que su acción había provocado en la Humanidad, se dedicó a ir ofreciendo a los hombres, uno a uno, la posibilidad de contar con la esperanza, pues ella la tenía -esta vez sí-, bien guardada",
 		"question" : "¿Por qué era tan importante que Pandora repartiera la esperanza?",
 		"options": [{
@@ -190,7 +190,7 @@
 	"pages": [{
 		"tipo": 1,
 		"img": "myImage",
-		"text": "Nunca se conoció un amor tan grande como el que sentía el rey Valdemar por la pequeña Tove. Se dice que nunca hubo sobre la faz de las tierras del norte un soberano que amase tanto a su hija. Tan grande era este cariño, que cuando murió, el soberano no quiso que enterrasen el cadáver, sino que lo hizo embalsamar y lo mandó a guardar en una sala del gran Hoff próxima a su habitación y se dice que todas las noches visitaba a la niña antes de conciliar el sueño.",
+		"text": "\tNunca se conoció un amor tan grande como el que sentía el rey Valdemar por la pequeña Tove. Se dice que nunca hubo sobre la faz de las tierras del norte un soberano que amase tanto a su hija. Tan grande era este cariño, que cuando murió, el soberano no quiso que enterrasen el cadáver, sino que lo hizo embalsamar y lo mandó a guardar en una sala del gran Hoff próxima a su habitación y se dice que todas las noches visitaba a la niña antes de conciliar el sueño.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -208,7 +208,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Y cuando salía de viaje por el reino hacía que condujesen el cadáver en su compañía, por lejos que fuese y tortuoso que fuese el camino. Los cortesanos estaban cansados del capricho del Rey y se esforzaban en adivinar la causa de tan gran amor. Muchos empezaron a creer que el monarca había perdido la razón, pero nadie se atrevía a contrariar al soberano.",
+		"text": "\tY cuando salía de viaje por el reino hacía que condujesen el cadáver en su compañía, por lejos que fuese y tortuoso que fuese el camino. Los cortesanos estaban cansados del capricho del Rey y se esforzaban en adivinar la causa de tan gran amor. Muchos empezaron a creer que el monarca había perdido la razón, pero nadie se atrevía a contrariar al soberano.",
 		"pista": "Los cortesanos estaban cansados del capricho del Rey y se esforzaban en adivinar la causa de tan gran amor.",
 		"question" : "¿Qué buscaban hacer los cortesanos?",
 		"options": [{
@@ -227,7 +227,7 @@
 	{
 		"tipo": 2,
 		"img": "Cuentos_Tove01.png",
-		"text": "Uno de ellos descubrió al fin, un día, que su madre le había regalado a la pequeña Tove un anillo encantado con un poderoso hechizo de ligazón, para asegurarle el amor del rey aún después de su muerte. El cortesano guardó este secreto, hasta que fue una noche donde yacía Tove y le quitó el anillo encantado de su dedo.",
+		"text": "\tUno de ellos descubrió al fin, un día, que su madre le había regalado a la pequeña Tove un anillo encantado con un poderoso hechizo de ligazón, para asegurarle el amor del rey aún después de su muerte. El cortesano guardó este secreto, hasta que fue una noche donde yacía Tove y le quitó el anillo encantado de su dedo.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -245,7 +245,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "A la mañana siguiente el Rey preguntó:\n- ¿Por qué no se ha dado aún sepultura a la pequeña Tove? No podemos tener en nuestra compañía un cadáver. Hay que dar a la tierra lo que es de la tierra. Aunque mi corazón se desgarre al verla partir a un lugar donde jamás volveré a contemplar su bello rostro.",
+		"text": "\tA la mañana siguiente el Rey preguntó:\n\t- ¿Por qué no se ha dado aún sepultura a la pequeña Tove? No podemos tener en nuestra compañía un cadáver. Hay que dar a la tierra lo que es de la tierra. Aunque mi corazón se desgarre al verla partir a un lugar donde jamás volveré a contemplar su bello rostro.",
 		"pista": "¿Por qué no se ha dado aún sepultura a la pequeña Tove? No podemos tener en nuestra compañía un cadáver.",
 		"question" : "¿Qué pasó con el rey?",
 		"options": [{
@@ -263,7 +263,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Y dio orden a sus cortesanos de que enterrasen el cadáver antes tan amado y del que no se quería separar.  Y grande fue el dolor y la pompa de aquel entierro en el túmulo de los reyes.\nAquella misma mañana el Rey notó que uno de los cortesanos le era mucho más simpático que anteriormente. Y empezó a tenerle como favorito entre todo el resto de la corte.",
+		"text": "\tY dio orden a sus cortesanos de que enterrasen el cadáver antes tan amado y del que no se quería separar.  Y grande fue el dolor y la pompa de aquel entierro en el túmulo de los reyes.\n\tAquella misma mañana el Rey notó que uno de los cortesanos le era mucho más simpático que anteriormente. Y empezó a tenerle como favorito entre todo el resto de la corte.",
 		"pista": "Aquella misma mañana el Rey notó que uno de los cortesanos le era mucho más simpático que anteriormente",
 		"question" : "¿Por qué tenía un cortesano favorito?",
 		"options": [{
@@ -281,7 +281,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "Y concibió por él un amor tan grande, que lo elevó a los cargos más importantes del reino, e hizo que comiese en un sillón de la misma altura y dignidad que el suyo. Nadie entendía como aquél que hasta ese día solo había sido un lacayo, ahora era casi tratado con la dignidad de un príncipe.",
+		"text": "\tY concibió por él un amor tan grande, que lo elevó a los cargos más importantes del reino, e hizo que comiese en un sillón de la misma altura y dignidad que el suyo. Nadie entendía como aquél que hasta ese día solo había sido un lacayo, ahora era casi tratado con la dignidad de un príncipe.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -317,7 +317,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Pero este cortesano se sentía atormentado por los remordimientos, pues sabía que su elevación a cargos de tanta importancia no se debía a sus méritos, sino a la virtud del anillo encantado. Al fin, el cortesano salió una noche del Palacio y arrojó el anillo en medio de un lago que estaba en el bosque.",
+		"text": "\tPero este cortesano se sentía atormentado por los remordimientos, pues sabía que su elevación a cargos de tanta importancia no se debía a sus méritos, sino a la virtud del anillo encantado. Al fin, el cortesano salió una noche del Palacio y arrojó el anillo en medio de un lago que estaba en el bosque.",
 		"pista": "Pero este cortesano se sentía atormentado por los remordimientos, pues sabía que su elevación a cargos de tanta importancia no se debía a sus méritos, sino a la virtud del anillo encantado",
 		"question" : "¿Por qué tiró el cortesano el anillo?",
 		"options": [{
@@ -335,7 +335,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "Desde entonces el Rey sintió tanto agrado por este lugar, que no quiso habitar en otra parte. Hizo construir en medio de las aguas, un gran salón rodeado de una sólida empalizada que tenía comunicación con tierra por medio de un puente maravilloso de cobre batido. Y allí vivió por años y envejeció maravillado con su hermosura.",
+		"text": "\tDesde entonces el Rey sintió tanto agrado por este lugar, que no quiso habitar en otra parte. Hizo construir en medio de las aguas, un gran salón rodeado de una sólida empalizada que tenía comunicación con tierra por medio de un puente maravilloso de cobre batido. Y allí vivió por años y envejeció maravillado con su hermosura.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -358,7 +358,7 @@
 	"pages": [{
 		"tipo": 3,
 		"img": "myImage",
-		"text": "Cuando Hiram B. Otis, un ministro estadounidense compró Canterville-Chase, fue advertido sobre la presencia de fantasmas en la residencia por el propio lord Canterville. El señor Otis se mostró indiferente hacia la posible existencia de fantasmas y se trasladó a la finca con su familia.",
+		"text": "\tCuando Hiram B. Otis, un ministro estadounidense compró Canterville-Chase, fue advertido sobre la presencia de fantasmas en la residencia por el propio lord Canterville. El señor Otis se mostró indiferente hacia la posible existencia de fantasmas y se trasladó a la finca con su familia.",
 		"pista": "El señor Otis se mostró indiferente hacia la posible existencia de fantasmas y se trasladó a la finca con su familia.",
 		"question" : "¿Qué opinaba el señor Otis sobre la existencia de un fantasma en su casa?",
 		"options": [{
@@ -376,7 +376,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "La familia Otis estaba compuesta por la pareja y sus cuatro hijos. La enérgica señora Otis, Washington, el hijo mayor, la hermosa quinceañera, Virginia y los gemelos, que eran los más pequeños.\nDurante el viaje hacia la casa, el tiempo era bueno y el paisaje pintoresco, pero al aproximarse a la villa, todo se ensombreció.\nEn la casa los esperaba el ama de llaves de la casa, la señora Umney.\nLa señora Umney les enseñó la casa y sirvió el té en el salón de la biblioteca, donde la señora Otis pudo observar una mancha de sangre junto a la chimenea. En dicho sitio fue asesinada Leonor de Canterville, por su marido Simón de Canterville.",
+		"text": "\tLa familia Otis estaba compuesta por la pareja y sus cuatro hijos. La enérgica señora Otis, Washington, el hijo mayor, la hermosa quinceañera, Virginia y los gemelos, que eran los más pequeños.\n\tDurante el viaje hacia la casa, el tiempo era bueno y el paisaje pintoresco, pero al aproximarse a la villa, todo se ensombreció.\n\tEn la casa los esperaba el ama de llaves de la casa, la señora Umney.\n\tLa señora Umney les enseñó la casa y sirvió el té en el salón de la biblioteca, donde la señora Otis pudo observar una mancha de sangre junto a la chimenea. En dicho sitio fue asesinada Leonor de Canterville, por su marido Simón de Canterville.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -395,7 +395,7 @@
 	{
 		"tipo": 3,
 		"img": "myImage",
-		"text": "La señora Otis en persona se encargó de desaparecer la mancha, para sorpresa de la señora Umney. Un rayo misterioso iluminó la habitación en ese momento, provocando el desmayo del ama de llaves, que les advirtió sobre la posible ocurrencia de una desgracia en la familia.",
+		"text": "\tLa señora Otis en persona se encargó de desaparecer la mancha, para sorpresa de la señora Umney. Un rayo misterioso iluminó la habitación en ese momento, provocando el desmayo del ama de llaves, que les advirtió sobre la posible ocurrencia de una desgracia en la familia.",
 		"pista": "Un rayo misterioso iluminó la habitación en ese momento, provocando el desmayo del ama de llaves, que les advirtió sobre la posible ocurrencia de una desgracia en la familia",
 		"question" : "¿Por qué se desmayó la señora Umney?",
 		"options": [{
@@ -413,7 +413,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "Al día siguiente, la mancha había retornado al suelo. El hijo mayor se encargó de limpiarla nuevamente, pero volvió a aparecer a la mañana siguiente, a pesar de que la biblioteca permaneciera cerrada.\nEsa tarde, la familia salió a pasear en coche, regresando a las nueve para la cena y se acostaron a las once. A las doce, todas las luces de la casa estaban apagadas",
+		"text": "\tAl día siguiente, la mancha había retornado al suelo. El hijo mayor se encargó de limpiarla nuevamente, pero volvió a aparecer a la mañana siguiente, a pesar de que la biblioteca permaneciera cerrada.\n\tEsa tarde, la familia salió a pasear en coche, regresando a las nueve para la cena y se acostaron a las once. A las doce, todas las luces de la casa estaban apagadas",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -431,7 +431,7 @@
 	},{
 		"tipo": 2,
 		"img": "Cuentos_Canterville01.png",
-		"text": "Fue a la una de la madrugada, cuando un ruido extraño y el sonido de pasos que se acercaban, despertaron al señor Otis, quien se levantó y salió de la habitación para averiguar qué ocurría. Frente a la puerta, un anciano de ropajes antiguos y andrajosos, los cabellos largos desgreñados. Lucía sus tobillos y muñecas con grilletes y cadenas.\n– Mi señor, engrase esas cadenas, por favor.- dijo Hiram- Le traje el engrasador Tammany-Sol-Levante.",
+		"text": "\tFue a la una de la madrugada, cuando un ruido extraño y el sonido de pasos que se acercaban, despertaron al señor Otis, quien se levantó y salió de la habitación para averiguar qué ocurría. Frente a la puerta, un anciano de ropajes antiguos y andrajosos, los cabellos largos desgreñados. Lucía sus tobillos y muñecas con grilletes y cadenas.\n\t– Mi señor, engrase esas cadenas, por favor.- dijo Hiram- Le traje el engrasador Tammany-Sol-Levante.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -449,7 +449,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "El ministro dejó el frasquito sobre una mesa de mármol y retornó a su cama.\nEl fantasma quedó petrificado de furia, tiró el frasquito, y salió corriendo y gruñendo. Su huida fue interceptada por un almohadazo lanzado desde otro dormitorio por los gemelos.",
+		"text": "\tEl ministro dejó el frasquito sobre una mesa de mármol y retornó a su cama.\n\tEl fantasma quedó petrificado de furia, tiró el frasquito, y salió corriendo y gruñendo. Su huida fue interceptada por un almohadazo lanzado desde otro dormitorio por los gemelos.",
 		"pista": "Su huida fue interceptada por un almohadazo lanzado desde otro dormitorio por los gemelos.",
 		"question" : "¿Qué hicieron los gemelos?",
 		"options": [{
@@ -467,7 +467,7 @@
 	},{
 		"tipo": 3,
 		"img": "myImage",
-		"text": "Una vez guarecido en un cuartito secreto, se puso a reflexionar sobre lo ocurrido. Jamás había sido tratado de tal manera, por el contrario, llevaba trescientos años de exitosa carrera sembrando el terror. Se quedó hasta el amanecer meditando sobre su actuación y planeando una venganza contra los insolentes norteamericanos.",
+		"text": "\tUna vez guarecido en un cuartito secreto, se puso a reflexionar sobre lo ocurrido. Jamás había sido tratado de tal manera, por el contrario, llevaba trescientos años de exitosa carrera sembrando el terror. Se quedó hasta el amanecer meditando sobre su actuación y planeando una venganza contra los insolentes norteamericanos.",
 		"pista": "llevaba trescientos años de exitosa carrera sembrando el terror",
 		"question" : "¿Hace cuánto tiempo que aterroriza a la gente de la mansión?",
 		"options": [{
@@ -485,7 +485,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "A la mañana siguiente, mientras la familia almorzaba, intercambiaban opiniones sobre la aparición. El padre reconocía que los gemelos habían actuado de manera descortés con el fantasma, pero también admitía la insostenible situación si el fantasma no accedía a engrasar sus cadenas.",
+		"text": "\tA la mañana siguiente, mientras la familia almorzaba, intercambiaban opiniones sobre la aparición. El padre reconocía que los gemelos habían actuado de manera descortés con el fantasma, pero también admitía la insostenible situación si el fantasma no accedía a engrasar sus cadenas.",
 		"pista": "El padre reconocía que los gemelos habían actuado de manera descortés con el fantasma",
 		"question" : "¿Estaba asustado el Señor Otis luego de la aparición del fantasma?",
 		"options": [{
@@ -503,7 +503,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "Recién el domingo por la noche volvió la aparición en medio de un enorme estruendo. Cuando la familia bajó al salón, hallaron una armadura desparramada sobre el suelo y el fantasma sentado en un sillón, restregándose las rodillas con cara de dolor. Los gemelos le lanzaban balines con sus hondas y el señor Otis le apuntaba con su revólver. El fantasma emitió un tremendo grito y desapareció, apagando la vela de Washington a su paso. Reapareció en lo alto de la escalera y cuando se aprestó a aterrorizarlos con sus carcajadas, apareció la señora Otis ofreciéndole un frasco de tintura del doctor Dobell. El fantasma tuvo que desvanecerse antes de convertirse, pues los gemelos llegaban a darle alcance.",
+		"text": "\tRecién el domingo por la noche volvió la aparición en medio de un enorme estruendo. Cuando la familia bajó al salón, hallaron una armadura desparramada sobre el suelo y el fantasma sentado en un sillón, restregándose las rodillas con cara de dolor. Los gemelos le lanzaban balines con sus hondas y el señor Otis le apuntaba con su revólver. El fantasma emitió un tremendo grito y desapareció, apagando la vela de Washington a su paso. Reapareció en lo alto de la escalera y cuando se aprestó a aterrorizarlos con sus carcajadas, apareció la señora Otis ofreciéndole un frasco de tintura del doctor Dobell. El fantasma tuvo que desvanecerse antes de convertirse, pues los gemelos llegaban a darle alcance.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -539,7 +539,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Ya en su habitación, se sintió miserable por la ordinariez de los norteamericanos, y por su condición física. Ya no era capaz de levantar su propia armadura, y se había contusionado la muñeca en la caída, lo cual le mantuvo en su morada durante varios días, saliendo sólo para mantener la mancha de sangre.",
+		"text": "\tYa en su habitación, se sintió miserable por la ordinariez de los norteamericanos, y por su condición física. Ya no era capaz de levantar su propia armadura, y se había contusionado la muñeca en la caída, lo cual le mantuvo en su morada durante varios días, saliendo sólo para mantener la mancha de sangre.",
 		"pista": "saliendo sólo para mantener la mancha de sangre.",
 		"question" : "¿Por qué volvía la mancha cada vez?",
 		"options": [{
@@ -557,7 +557,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "A lo largo de los meses siguientes, el fantasma intentó con todas sus fuerzas asustar a la familia Otis, pero ellos siempre lograban sorprenderlo antes e incluso tenderle trampas y bromas. Debido a esto, renunció a su inútil proyecto de asustar a la familia Otis.\nContinuó entonces deambulando silenciosamente por la casa, y en la noche del 19 de septiembre, cuando se dirigía a la biblioteca, fue atacado por la familia y tuvo que evaporarse en la estufa de hierro.\nDesde entonces no volvió a salir en expedición nocturna, lo que motivó que la familia creyese que se habían deshecho de él. El señor Otis notificó a lord Canterville.",		
+		"text": "\tA lo largo de los meses siguientes, el fantasma intentó con todas sus fuerzas asustar a la familia Otis, pero ellos siempre lograban sorprenderlo antes e incluso tenderle trampas y bromas. Debido a esto, renunció a su inútil proyecto de asustar a la familia Otis.\n\tContinuó entonces deambulando silenciosamente por la casa, y en la noche del 19 de septiembre, cuando se dirigía a la biblioteca, fue atacado por la familia y tuvo que evaporarse en la estufa de hierro.\n\tDesde entonces no volvió a salir en expedición nocturna, lo que motivó que la familia creyese que se habían deshecho de él. El señor Otis notificó a lord Canterville.",		
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -575,7 +575,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Pero el fantasma estaba allí todavía y decidido a asustar al joven duque de Cheshire, que vacacionaba en Canterville. Pero el terror que sentía por los gemelos terminó por vencerlo y se quedó en su habitación.\nDías después, Virginia paseaba con el duque cuando su vestido se rasgó.",
+		"text": "\tPero el fantasma estaba allí todavía y decidido a asustar al joven duque de Cheshire, que vacacionaba en Canterville. Pero el terror que sentía por los gemelos terminó por vencerlo y se quedó en su habitación.\n\tDías después, Virginia paseaba con el duque cuando su vestido se rasgó.",
 		"pista": "Pero el terror que sentía por los gemelos terminó por vencerlo y se quedó en su habitación",
 		"question" : "¿Por qué el fantasma no asustó al duque?",
 		"options": [{
@@ -593,7 +593,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Regresó a la casa por la puerta trasera para no ser vista. Cuando pasó por el salón de tapices, creyó ver a la doncella de su madre, pero no era ella sino el fantasma, que apesadumbrado miraba por la ventana. Virginia conmovida se acercó para hablarle. Él le contó sus penas y su temor por los gemelos. Ella le pidió, antes de irse, que dejara de molestar, de ese modo, los gemelos lo dejarían en paz.",
+		"text": "\tRegresó a la casa por la puerta trasera para no ser vista. Cuando pasó por el salón de tapices, creyó ver a la doncella de su madre, pero no era ella sino el fantasma, que apesadumbrado miraba por la ventana. Virginia conmovida se acercó para hablarle. Él le contó sus penas y su temor por los gemelos. Ella le pidió, antes de irse, que dejara de molestar, de ese modo, los gemelos lo dejarían en paz.",
 		"pista": "Virginia conmovida se acercó para hablarle.",
 		"question" : "¿Cómo era Virginia?",
 		"options": [{
@@ -611,7 +611,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "– Buenas noches\n– No se vaya, señorita Virginia, por favor. Estoy tan cansado. Quisiera dormir y no puedo.\n– ¿No hay algún sitio donde pueda dormir?\n– En el jardín de la muerte. Si me ayuda a llegar allá. Necesito que llore por mis pecados y que rece por mi alma. Como ha sido siempre un alma buena, la muerte me recibirá entonces.",
+		"text": "\t– Buenas noches\n\t– No se vaya, señorita Virginia, por favor. Estoy tan cansado. Quisiera dormir y no puedo.\n\t– ¿No hay algún sitio donde pueda dormir?\n\t– En el jardín de la muerte. Si me ayuda a llegar allá. Necesito que llore por mis pecados y que rece por mi alma. Como ha sido siempre un alma buena, la muerte me recibirá entonces.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -629,7 +629,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Virginia debería sortear toda clase de figuras temibles que se interpondrían entre el fantasma y ella para evitar que lo salvara. Virginia aceptó ayudarlo y el fantasma la condujo a través del muro hacia sus aposentos.",
+		"text": "\tVirginia debería sortear toda clase de figuras temibles que se interpondrían entre el fantasma y ella para evitar que lo salvara. Virginia aceptó ayudarlo y el fantasma la condujo a través del muro hacia sus aposentos.",
 		"pista": "Virginia debería sortear toda clase de figuras temibles que se interpondrían entre el fantasma y ella para evitar que lo salvara.",
 		"question" : "¿Qué fue a hacer Virginia con el fantasma?",
 		"options": [{
@@ -647,7 +647,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "Diez minutos luego de que Virginia se marchara, sonó la campana para el té. La familia no se inquietó en principio, pero a las seis, ya su madre estaba intranquila. Comenzaron buscándola por la casa, luego por los jardines. Luego comenzaron las hipótesis sobre su paradero. Sospecharon de los gitanos que habían dejado acampar en el parque. Habían desaparecido de prisa.",
+		"text": "\tDiez minutos luego de que Virginia se marchara, sonó la campana para el té. La familia no se inquietó en principio, pero a las seis, ya su madre estaba intranquila. Comenzaron buscándola por la casa, luego por los jardines. Luego comenzaron las hipótesis sobre su paradero. Sospecharon de los gitanos que habían dejado acampar en el parque. Habían desaparecido de prisa.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -665,7 +665,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "La familia buscó por todos lados, incluso fueron a pedir ayuda a la policía, pero la desesperanza se apoderaba de la familia, que resignada decidió irse a dormir, para continuar al día siguiente. Cuando sonaron las doce en el reloj.",
+		"text": "\tLa familia buscó por todos lados, incluso fueron a pedir ayuda a la policía, pero la desesperanza se apoderaba de la familia, que resignada decidió irse a dormir, para continuar al día siguiente. Cuando sonaron las doce en el reloj.",
 		"pista": "Cuando sonaron las doce en el reloj",
 		"question" : "¿A qué hora sonó el reloj?",
 		"options": [{
@@ -683,7 +683,7 @@
 	},{
 		"tipo": 2,
 		"img": "Cuentos_Canterville03.png",
-		"text": "Fue entonces que surgió detrás de un tapiz Virginia con un cofrecito con joyas en las manos. La familia se abalanzó sobre ella para abrazarla. El duque la besaba apasionadamente. Finalmente Virginia contó que el fantasma había muerto y que deberían ir a verlo.",
+		"text": "\tFue entonces que surgió detrás de un tapiz Virginia con un cofrecito con joyas en las manos. La familia se abalanzó sobre ella para abrazarla. El duque la besaba apasionadamente. Finalmente Virginia contó que el fantasma había muerto y que deberían ir a verlo.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -701,7 +701,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Virginia condujo a la familia hasta la habitación secreta del fantasma, donde encontraron su esqueleto encadenado a la pared, tendido sobre el piso, en gesto de haber luchado por alcanzar el plato y el jarro que estaban depositados sobre el suelo muy cerca de él.",
+		"text": "\tVirginia condujo a la familia hasta la habitación secreta del fantasma, donde encontraron su esqueleto encadenado a la pared, tendido sobre el piso, en gesto de haber luchado por alcanzar el plato y el jarro que estaban depositados sobre el suelo muy cerca de él.",
 		"pista": "en gesto de haber luchado por alcanzar el plato y el jarro que estaban depositados sobre el suelo muy cerca de él.",
 		"question" : "¿Cómo murió el hombre?",
 		"options": [{
@@ -719,7 +719,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Evidentemente, el hombre había muerto intentando alcanzar la comida y la bebida. Al revelarse el secreto, pudieron apreciar que el almendro mustio del patio, había florecido. Simón de Canterville fue sepultado cuatro días después de los sucesos, durante la noche. El cortejo fue acompañado por lord Canterville, quien llegara especialmente para acompañar a su antepasado.",
+		"text": "\tEvidentemente, el hombre había muerto intentando alcanzar la comida y la bebida. Al revelarse el secreto, pudieron apreciar que el almendro mustio del patio, había florecido. Simón de Canterville fue sepultado cuatro días después de los sucesos, durante la noche. El cortejo fue acompañado por lord Canterville, quien llegara especialmente para acompañar a su antepasado.",
 		"pista": "Simón de Canterville fue sepultado cuatro días después de los sucesos, durante la noche. El cortejo fue acompañado por lord Canterville, quien llegara especialmente para acompañar a su antepasado.",
 		"question" : "¿Cómo se llamaba el fantasma de Canterville?",
 		"options": [{
@@ -737,7 +737,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "A la mañana siguiente, el señor Otis contó sobre las joyas al noble y sugirió devolverlas. Lord Canterville se negó rotundamente argumentando que fueron obsequiadas por su antepasado y que respetaría su voluntad, además que Otis había comprado la residencia con el fantasma incluido. Por tanto, Virginia conservó las joyas.\nPoco después se casó con el duque de Cheshire y pudo lucir las joyas frente a la reina, por lo que fue elogiada. Le esperaba una vida feliz, gracias a que Simón le enseñara los secretos de la muerte y el valor del amor.",
+		"text": "\tA la mañana siguiente, el señor Otis contó sobre las joyas al noble y sugirió devolverlas. Lord Canterville se negó rotundamente argumentando que fueron obsequiadas por su antepasado y que respetaría su voluntad, además que Otis había comprado la residencia con el fantasma incluido. Por tanto, Virginia conservó las joyas.\n\tPoco después se casó con el duque de Cheshire y pudo lucir las joyas frente a la reina, por lo que fue elogiada. Le esperaba una vida feliz, gracias a que Simón le enseñara los secretos de la muerte y el valor del amor.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -760,7 +760,7 @@
 	"pages": [{
 		"tipo": 3,
 		"img": "myImage",
-		"text": "Había una vez una bandada de loros que vivía en el monte. De mañana temprano iban a comer choclos a la chacra y de tarde comían naranjas. Hacían gran barullo con sus gritos y tenían siempre un loro de centinela en los árboles más altos, para ver si venía alguien. Los loros son tan dañinos como la langosta, porque abren los choclos para picotearlos, los cuales, después se pudren con la lluvia. ",
+		"text": "\tHabía una vez una bandada de loros que vivía en el monte. De mañana temprano iban a comer choclos a la chacra y de tarde comían naranjas. Hacían gran barullo con sus gritos y tenían siempre un loro de centinela en los árboles más altos, para ver si venía alguien. Los loros son tan dañinos como la langosta, porque abren los choclos para picotearlos, los cuales, después se pudren con la lluvia. ",
 		"pista": "Había una vez una bandada de loros que vivía en el monte.",
 		"question" : "¿Cómo se llama a un grupo de pájaros?",
 		"options": [{
@@ -778,7 +778,7 @@
 	},{
 		"tipo": 2,
 		"img": "Cuentos_Loro01.png",
-		"text": "Y como al mismo tiempo los loros son ricos para comerlos guisados, los peones los cazaban a tiros. Un día un hombre bajó de un tiro a un loro centinela, el que cayó herido y peleó un buen rato antes de dejarse agarrar. El peón lo llevó a la casa, para los hijos del patrón; los chicos lo curaron porque no tenía más que un ala rota. El loro se curó muy bien, y se amansó completamente.",
+		"text": "\tY como al mismo tiempo los loros son ricos para comerlos guisados, los peones los cazaban a tiros. Un día un hombre bajó de un tiro a un loro centinela, el que cayó herido y peleó un buen rato antes de dejarse agarrar. El peón lo llevó a la casa, para los hijos del patrón; los chicos lo curaron porque no tenía más que un ala rota. El loro se curó muy bien, y se amansó completamente.",
 		"pista": "Y como al mismo tiempo los loros son ricos para comerlos guisados, los peones los cazaban a tiros",
 		"question" : "¿Para qué cazaban a los loros?",
 		"options": [{
@@ -796,7 +796,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Tenía locura por el té con leche. Tanto se daba Pedrito con los chicos, y tantas cosas le decían las criaturas, que el loro aprendió a hablar.\nDecía: '¡Buen día, lorito! ¡Rica la papa!¡Papa para Pedrito!...' Decía otras cosas más que no se pueden decir, porque los loros, como los chicos, aprenden con gran facilidad malas palabras. ",
+		"text": "\tTenía locura por el té con leche. Tanto se daba Pedrito con los chicos, y tantas cosas le decían las criaturas, que el loro aprendió a hablar.\n\tDecía: '¡Buen día, lorito! ¡Rica la papa!¡Papa para Pedrito!...' Decía otras cosas más que no se pueden decir, porque los loros, como los chicos, aprenden con gran facilidad malas palabras. ",
 		"pista": "Tanto se daba Pedrito con los chicos, y tantas cosas le decían las criaturas, que el loro aprendió a hablar",
 		"question" : "¿Por qué aprendió a hablar y a decir malas palabras?",
 		"options": [{
@@ -814,7 +814,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "Era, como se ve, un loro bien feliz, que además de ser libre, como lo desean todos los pájaros, tenía también, como las personas ricas, su five o clock tea (o sea la merienda).\nAhora bien: en medio de esta felicidad, sucedió que una tarde de lluvia salió por fin el sol después de cinco días de temporal, y Pedrito se puso a volar gritando: —¡Qué lindo día, lorito!... ¡Rica, papa!... ¡La pata, Pedrito!... y volaba lejos, hasta que vio debajo de él, muy abajo, el río Paraná, que parecía una lejana y ancha cinta blanca. Y siguió, siguió volando, hasta que se asentó por fin en un árbol a descansar. ",
+		"text": "\tEra, como se ve, un loro bien feliz, que además de ser libre, como lo desean todos los pájaros, tenía también, como las personas ricas, su five o clock tea (o sea la merienda).\n\tAhora bien: en medio de esta felicidad, sucedió que una tarde de lluvia salió por fin el sol después de cinco días de temporal, y Pedrito se puso a volar gritando: —¡Qué lindo día, lorito!... ¡Rica, papa!... ¡La pata, Pedrito!... y volaba lejos, hasta que vio debajo de él, muy abajo, el río Paraná, que parecía una lejana y ancha cinta blanca. Y siguió, siguió volando, hasta que se asentó por fin en un árbol a descansar. ",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -832,7 +832,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "Y he aquí que de pronto vio brillar en el suelo, a través de las ramas, dos luces verdes, como enormes bichos de luz.\n—¿Qué será? —se dijo el loro— “¡Rica, papa!”... “¿Qué será eso?”... “¡Buen día, Pedrito!”... \nEl loro hablaba siempre así, como todos los loros, mezclando las palabras sin ton ni son, y a veces costaba entenderlo. Y como era muy curioso, fue bajando de rama en rama, hasta acercarse. Entonces vio que aquellas dos luces verdes eran los ojos de un tigre que estaba agachado, mirándolo fijamente.",
+		"text": "\tY he aquí que de pronto vio brillar en el suelo, a través de las ramas, dos luces verdes, como enormes bichos de luz.\n\t—¿Qué será? —se dijo el loro— “¡Rica, papa!”... “¿Qué será eso?”... “¡Buen día, Pedrito!”... \n\tEl loro hablaba siempre así, como todos los loros, mezclando las palabras sin ton ni son, y a veces costaba entenderlo. Y como era muy curioso, fue bajando de rama en rama, hasta acercarse. Entonces vio que aquellas dos luces verdes eran los ojos de un tigre que estaba agachado, mirándolo fijamente.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -850,7 +850,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Pero Pedrito estaba tan contento con el lindo día, que no tuvo ningún miedo.\n—¡Buen día, tigre! —le dijo— “¡La pata, Pedrito!”...\nY el tigre, con esa voz terriblemente ronca que tiene, le respondió: \n—¡Bu-en día!\n—¡Buen día, tigre! —repitió el loro—. ¡Rica, papa!... ¡rica, papa!... ¡rica papa!... ",
+		"text": "\tPero Pedrito estaba tan contento con el lindo día, que no tuvo ningún miedo.\n\t—¡Buen día, tigre! —le dijo— “¡La pata, Pedrito!”...\n\tY el tigre, con esa voz terriblemente ronca que tiene, le respondió: \n\t—¡Bu-en día!\n\t—¡Buen día, tigre! —repitió el loro—. ¡Rica, papa!... ¡rica, papa!... ¡rica papa!... ",
 		"pista": "—¡Buen día, tigre! —le dijo— “¡La pata, Pedrito!”...",
 		"question" : "¿Con quién hablaba el loro?",
 		"options": [{
@@ -868,7 +868,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Y decía tantas veces '¡rica papa!' porque ya eran las cuatro de la tarde, y tenía muchas ganas de tomar té con leche. El loro se había olvidado de que los bichos del monte no toman té con leche, y por esto lo convidó al tigre.\n—¡Rico té con leche! —le dijo—. “¡Buen día, Pedrito!”... ¿Quieres tomar té con leche conmigo, amigo tigre?",
+		"text": "\tY decía tantas veces '¡rica papa!' porque ya eran las cuatro de la tarde, y tenía muchas ganas de tomar té con leche. El loro se había olvidado de que los bichos del monte no toman té con leche, y por esto lo convidó al tigre.\n\t—¡Rico té con leche! —le dijo—. “¡Buen día, Pedrito!”... ¿Quieres tomar té con leche conmigo, amigo tigre?",
 		"pista": "El loro se había olvidado de que los bichos del monte no toman té con leche",
 		"question" : "¿Por qué se había olvidado de que los bichos de monte no toman la leche?",
 		"options": [{
@@ -886,7 +886,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Pero el tigre se puso furioso porque creyó que el loro se reía de él, y además, como tenía a su vez hambre, se quiso comer al pájaro hablador. Así que le contestó:\n—¡Bue-no! ¡Acérca-te un po-co que soy sor-do! ",
+		"text": "\tPero el tigre se puso furioso porque creyó que el loro se reía de él, y además, como tenía a su vez hambre, se quiso comer al pájaro hablador. Así que le contestó:\n\t—¡Bue-no! ¡Acérca-te un po-co que soy sor-do! ",
 		"pista": "Pero el tigre se puso furioso porque creyó que el loro se reía de él, y además, como tenía a su vez hambre, se quiso comer al pájaro hablador.",
 		"question" : "¿Qué tenían los dos animales en ese momento?",
 		"options": [{
@@ -904,7 +904,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "El tigre no era sordo; lo que quería era que Pedrito se acercara mucho para agarrarlo de un zarpazo. Pero el loro no pensaba sino en el gusto que tendrían en la casa cuando él se presentara a tomar té con leche con aquel magnífico amigo. Y voló hasta otra rama más cerca del suelo.\n—¡Rica, papa, en casa! —repitió gritando cuanto podía.\n—¡Más cer-ca! ¡No oi-go! —respondió el tigre con su voz ronca.\nEl loro se acercó un poco más y dijo:\n—¡Rico, té con leche!",
+		"text": "\tEl tigre no era sordo; lo que quería era que Pedrito se acercara mucho para agarrarlo de un zarpazo. Pero el loro no pensaba sino en el gusto que tendrían en la casa cuando él se presentara a tomar té con leche con aquel magnífico amigo. Y voló hasta otra rama más cerca del suelo.\n\t—¡Rica, papa, en casa! —repitió gritando cuanto podía.\n\t—¡Más cer-ca! ¡No oi-go! —respondió el tigre con su voz ronca.\n\tEl loro se acercó un poco más y dijo:\n\t—¡Rico, té con leche!",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -922,7 +922,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "—¡Más cer-ca toda-vía! —repitió el tigre. El pobre loro se acercó aún más, y en ese momento el tigre dio un terrible salto, tan alto como una casa, y alcanzó con la punta de las uñas a Pedrito. No alcanzó a matarlo, pero le arrancó todas las plumas del lomo y la cola entera. No le quedó una sola pluma en la cola. —¡Tomá!—rugió el tigre—. Andá a tomar té con leche…",
+		"text": "\t—¡Más cer-ca toda-vía! —repitió el tigre. El pobre loro se acercó aún más, y en ese momento el tigre dio un terrible salto, tan alto como una casa, y alcanzó con la punta de las uñas a Pedrito. No alcanzó a matarlo, pero le arrancó todas las plumas del lomo y la cola entera. No le quedó una sola pluma en la cola. —¡Tomá!—rugió el tigre—. Andá a tomar té con leche…",
 		"pista": "y en ese momento el tigre dio un terrible salto, tan alto como una casa, y alcanzó con la punta de las uñas a Pedrito",
 		"question" : "¿Qué hizo el tigre?",
 		"options": [{
@@ -958,7 +958,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "El loro, gritando de dolor y de miedo, se fue volando, pero no podía volar bien, porque le faltaba la cola, que es como el timón de los pájaros. Volaba cayéndose en el aire de un lado para otro, y todos los pájaros que lo encontraban se alejaban asustados de aquel bicho raro. Por fin pudo llegar a la casa, y lo primero que hizo fue mirarse en el espejo de la cocinera.\n¡Pobre, Pedrito! Era el pájaro más raro y más feo que puede darse, todo pelado, todo rabón y temblando de frío. ¿Cómo iba a presentarse en el comedor con esa figura? Voló entonces hasta el hueco que había en el tronco de un eucalipto y que era como una cueva, y se escondió en el fondo, tiritando de frío y de vergüenza. Pero entretanto, en el comedor todos extrañaban su ausencia: ",
+		"text": "\tEl loro, gritando de dolor y de miedo, se fue volando, pero no podía volar bien, porque le faltaba la cola, que es como el timón de los pájaros. Volaba cayéndose en el aire de un lado para otro, y todos los pájaros que lo encontraban se alejaban asustados de aquel bicho raro. Por fin pudo llegar a la casa, y lo primero que hizo fue mirarse en el espejo de la cocinera.\n\t¡Pobre, Pedrito! Era el pájaro más raro y más feo que puede darse, todo pelado, todo rabón y temblando de frío. ¿Cómo iba a presentarse en el comedor con esa figura? Voló entonces hasta el hueco que había en el tronco de un eucalipto y que era como una cueva, y se escondió en el fondo, tiritando de frío y de vergüenza. Pero entretanto, en el comedor todos extrañaban su ausencia: ",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -976,7 +976,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "—¿Dónde estará Pedrito? —decían. Y llamaban—: ¡Pedrito! ¡Rica, papa, Pedrito! ¡Té con leche, Pedrito!\nPero Pedrito no se movía de su cueva, ni respondía nada, mudo y quieto. Lo buscaron por todas partes, pero el loro no apareció. Todos creyeron entonces que Pedrito había muerto, y los chicos se echaron a llorar. ",
+		"text": "\t—¿Dónde estará Pedrito? —decían. Y llamaban—: ¡Pedrito! ¡Rica, papa, Pedrito! ¡Té con leche, Pedrito!\n\tPero Pedrito no se movía de su cueva, ni respondía nada, mudo y quieto. Lo buscaron por todas partes, pero el loro no apareció. Todos creyeron entonces que Pedrito había muerto, y los chicos se echaron a llorar. ",
 		"pista": "Lo buscaron por todas partes, pero el loro no apareció. ",
 		"question" : "¿Por qué creían que Pedrito estaba muerto?",
 		"options": [{
@@ -994,7 +994,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Pero Pedrito no había muerto, sino que continuaba en su cueva sin dejarse ver por nadie, porque sentía mucha vergüenza de verse pelado como un ratón. De noche bajaba a comer y subía en seguida. De madrugada descendía de nuevo, muy ligero, iba a mirarse en el espejo de la cocinera, siempre muy triste porque las plumas tardaban mucho en crecer. ",
+		"text": "\tPero Pedrito no había muerto, sino que continuaba en su cueva sin dejarse ver por nadie, porque sentía mucha vergüenza de verse pelado como un ratón. De noche bajaba a comer y subía en seguida. De madrugada descendía de nuevo, muy ligero, iba a mirarse en el espejo de la cocinera, siempre muy triste porque las plumas tardaban mucho en crecer. ",
 		"pista": "porque sentía mucha vergüenza de verse pelado como un ratón",
 		"question" : "¿Por qué se escondía Pedrito?",
 		"options": [{
@@ -1012,7 +1012,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Hasta que por fin un día, o una tarde, la familia sentada a la mesa a la hora del té vio entrar a Pedrito muy tranquilo, balanceándose como si nada hubiera pasado. Todos se querían morir, morir de gusto cuando lo vieron bien vivo y con lindísimas plumas. \n—¡Pedrito, lorito! —le decían—. ¡Qué te pasó, Pedrito! ¡Qué plumas brillantes que tiene el lorito!",
+		"text": "\tHasta que por fin un día, o una tarde, la familia sentada a la mesa a la hora del té vio entrar a Pedrito muy tranquilo, balanceándose como si nada hubiera pasado. Todos se querían morir, morir de gusto cuando lo vieron bien vivo y con lindísimas plumas. \n\t—¡Pedrito, lorito! —le decían—. ¡Qué te pasó, Pedrito! ¡Qué plumas brillantes que tiene el lorito!",
 		"pista": "Todos se querían morir, morir de gusto cuando lo vieron bien vivo y con lindísimas plumas.",
 		"question" : "¿Por qué tenía plumas tan brillantes?",
 		"options": [{
@@ -1030,7 +1030,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "Pero no sabían que eran plumas nuevas, y Pedrito, muy serio, no decía tampoco una palabra. No hacía sino comer pan mojado en té con leche. Pero lo que es hablar, ni una sola palabra. Por eso, el dueño de casa se sorprendió mucho cuando a la mañana siguiente el loro fue volando a pararse en su hombro, charlando como un loco. En dos minutos le contó lo que le había pasado; un paseo al Paraguay, su encuentro con el tigre, y lo demás; y concluía cada cuento, cantando:\n—¡Ni una pluma en la cola de Pedrito! ¡Ni una pluma! ¡Ni una pluma! ",
+		"text": "\tPero no sabían que eran plumas nuevas, y Pedrito, muy serio, no decía tampoco una palabra. No hacía sino comer pan mojado en té con leche. Pero lo que es hablar, ni una sola palabra. Por eso, el dueño de casa se sorprendió mucho cuando a la mañana siguiente el loro fue volando a pararse en su hombro, charlando como un loco. En dos minutos le contó lo que le había pasado; un paseo al Paraguay, su encuentro con el tigre, y lo demás; y concluía cada cuento, cantando:\n\t—¡Ni una pluma en la cola de Pedrito! ¡Ni una pluma! ¡Ni una pluma! ",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -1048,7 +1048,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Y lo invitó a ir a cazar al tigre entre los dos. El dueño de casa, que precisamente iba en ese momento a comprar una piel de tigre que le hacía falta para la estufa, quedó muy contento de poderla tener gratis. Y volviendo a entrar en la casa para tomar la escopeta, emprendió junto con Pedrito el viaje al Paraguay.",
+		"text": "\tY lo invitó a ir a cazar al tigre entre los dos. El dueño de casa, que precisamente iba en ese momento a comprar una piel de tigre que le hacía falta para la estufa, quedó muy contento de poderla tener gratis. Y volviendo a entrar en la casa para tomar la escopeta, emprendió junto con Pedrito el viaje al Paraguay.",
 		"pista": "Y lo invitó a ir a cazar al tigre entre los dos",
 		"question" : "¿Por qué iban a Paraguay?",
 		"options": [{
@@ -1066,7 +1066,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Convinieron en que cuando Pedrito viera al tigre, lo distraería charlando, para que el hombre pudiera acercarse despacito con la escopeta. Y así pasó. El loro, sentado en una rama del árbol, charlaba y charlaba, mirando al mismo tiempo a todos lados, para ver si veía al tigre. Y por fin sintió un ruido de ramas partidas, y vio de repente debajo del árbol dos luces verdes fijas en él: eran los ojos del tigre. Entonces el loro se puso a gritar:",
+		"text": "\tConvinieron en que cuando Pedrito viera al tigre, lo distraería charlando, para que el hombre pudiera acercarse despacito con la escopeta. Y así pasó. El loro, sentado en una rama del árbol, charlaba y charlaba, mirando al mismo tiempo a todos lados, para ver si veía al tigre. Y por fin sintió un ruido de ramas partidas, y vio de repente debajo del árbol dos luces verdes fijas en él: eran los ojos del tigre. Entonces el loro se puso a gritar:",
 		"pista": "Convinieron en que cuando Pedrito viera al tigre, lo distraería charlando, para que el hombre pudiera acercarse despacito con la escopeta. Y así pasó.",
 		"question" : "¿Por qué estaba Pedrito sentado en la rama de un árbol hablando?",
 		"options": [{
@@ -1084,7 +1084,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "—¡Lindo día!... ¡Rica, papa!... ¡Rico té con leche!... ¿Quieres té con leche?... \nEl tigre enojadísimo al reconocer a aquel loro pelado que él creía haber muerto, y que tenía otra vez lindísimas plumas, juró que esta vez no se le escaparía:\n—¡Acer-cá-te más! ¡Soy sor-do!\nEl loro voló a otra rama más próxima, siempre charlando:\n—¡Rico, pan con leche!... ¡ESTÁ AL PIE DE ESTE ÁRBOL!...",
+		"text": "\t—¡Lindo día!... ¡Rica, papa!... ¡Rico té con leche!... ¿Quieres té con leche?... \n\tEl tigre enojadísimo al reconocer a aquel loro pelado que él creía haber muerto, y que tenía otra vez lindísimas plumas, juró que esta vez no se le escaparía:\n\t—¡Acer-cá-te más! ¡Soy sor-do!\n\tEl loro voló a otra rama más próxima, siempre charlando:\n\t—¡Rico, pan con leche!... ¡ESTÁ AL PIE DE ESTE ÁRBOL!...",
 		"pista": "—¡Rico, pan con leche!... ¡ESTÁ AL PIE DE ESTE ÁRBOL!...",
 		"question" : "¿A quién le gritó lo último Pedrito?",
 		"options": [{
@@ -1102,7 +1102,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "Al oír estas últimas palabras, el tigre lanzó un rugido y se levantó de un salto. —¿Con quién estás hablando? —rugió—. ¿A quién le has dicho que estoy al pie de este árbol?\n—¡A nadie, a nadie! —gritó el loro. Y seguía charlando y saltando de rama en rama, y acercándose. Pero él había dicho: está al pie de este árbol, para avisarle al hombre, que se iba arrimando bien agachado y con escopeta al hombro. Y llegó un momento en que el loro no pudo acercarse más, porque si no, caía en la boca del tigre, y entonces gritó:\n—¡Rica, papa!... ¡ATENCIÓN!\n—¡Más cer-ca aún!—rugió el tigre, agachándose para saltar.\n—¡Rico, té con leche!... ¡CUIDADO, VA A SALTAR!",
+		"text": "\tAl oír estas últimas palabras, el tigre lanzó un rugido y se levantó de un salto. —¿Con quién estás hablando? —rugió—. ¿A quién le has dicho que estoy al pie de este árbol?\n\t—¡A nadie, a nadie! —gritó el loro. Y seguía charlando y saltando de rama en rama, y acercándose. Pero él había dicho: está al pie de este árbol, para avisarle al hombre, que se iba arrimando bien agachado y con escopeta al hombro. Y llegó un momento en que el loro no pudo acercarse más, porque si no, caía en la boca del tigre, y entonces gritó:\n\t—¡Rica, papa!... ¡ATENCIÓN!\n\t—¡Más cer-ca aún!—rugió el tigre, agachándose para saltar.\n\t—¡Rico, té con leche!... ¡CUIDADO, VA A SALTAR!",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -1120,7 +1120,7 @@
 	},{
 		"tipo": 3,
 		"img": "",
-		"text": "Y el tigre saltó, en efecto. Dio un enorme salto, que el loro evitó lanzándose al mismo tiempo como una flecha en el aire. Pero también en ese mismo instante el hombre, apretó el gatillo, y nueve balines del tamaño de un garbanzo cada uno entraron como un rayo en el corazón del tigre, que lanzando un rugido que hizo temblar el monte entero, cayó muerto.",
+		"text": "\tY el tigre saltó, en efecto. Dio un enorme salto, que el loro evitó lanzándose al mismo tiempo como una flecha en el aire. Pero también en ese mismo instante el hombre, apretó el gatillo, y nueve balines del tamaño de un garbanzo cada uno entraron como un rayo en el corazón del tigre, que lanzando un rugido que hizo temblar el monte entero, cayó muerto.",
 		"pista": "Pero también en ese mismo instante el hombre, apretó el gatillo",
 		"question" : "¿Quién mató al tigre?",
 		"options": [{
@@ -1138,7 +1138,7 @@
 	},{
 		"tipo": 1,
 		"img": "",
-		"text": "Pero el loro, ¡qué gritos de alegría daba! ¡Estaba loco de contento, porque se había vengado — ¡y bien vengado!— del feísimo animal que le había sacado las plumas! El hombre estaba también muy contento, porque matar a un tigre es cosa difícil, y, además, tenía la piel para la estufa del comedor. Cuando llegaron a la casa, todos supieron por qué Pedrito había estado tanto tiempo oculto en el hueco del árbol, y todos lo felicitaron por la hazaña que había hecho.",
+		"text": "\tPero el loro, ¡qué gritos de alegría daba! ¡Estaba loco de contento, porque se había vengado — ¡y bien vengado!— del feísimo animal que le había sacado las plumas! El hombre estaba también muy contento, porque matar a un tigre es cosa difícil, y, además, tenía la piel para la estufa del comedor. Cuando llegaron a la casa, todos supieron por qué Pedrito había estado tanto tiempo oculto en el hueco del árbol, y todos lo felicitaron por la hazaña que había hecho.",
 		"pista": "",
 		"question" : "",
 		"options": [{
@@ -1156,7 +1156,7 @@
 	},{
 		"tipo": 2,
 		"img": "Cuentos_Loro03.png",
-		"text": "Vivieron en adelante muy contentos. Pero el loro no se olvidaba de lo que le había hecho el tigre, y todas las tardes, cuando entraba en el comedor para tomar el té se acercaba siempre a la piel del tigre, tendida delante de la estufa, y lo invitaba a tomar té con leche.\n —¡Rica, papa!... —le decía—. ¿Quieres té con leche?... ¡La papa para el tigre!... Y todos se morían de risa. Y Pedrito también.",
+		"text": "\tVivieron en adelante muy contentos. Pero el loro no se olvidaba de lo que le había hecho el tigre, y todas las tardes, cuando entraba en el comedor para tomar el té se acercaba siempre a la piel del tigre, tendida delante de la estufa, y lo invitaba a tomar té con leche.\n\t —¡Rica, papa!... —le decía—. ¿Quieres té con leche?... ¡La papa para el tigre!... Y todos se morían de risa. Y Pedrito también.",
 		"pista": "",
 		"question" : "",
 		"options": [{

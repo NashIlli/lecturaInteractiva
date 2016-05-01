@@ -24,9 +24,11 @@ namespace Assets.Scripts.MainMenu
             indexBook = index;
         }
 
-        public void SetTitleText(string title)
+        public void SetTitleText(string title, int maxFontSize)
         {
+            titleText.resizeTextMaxSize = maxFontSize;
             titleText.text = title;
         }
+    
     }
 }

@@ -10,8 +10,11 @@ namespace Assets.Scripts.LevelCompleted
 
         [SerializeField] private Text correctAsnwersText;
         [SerializeField] private Text wrongAsnwersText;
-         
 
+        void OnEnable()
+        {
+            SoundController.GetController().PlayLevelCompleteSound();
+        }
 
         public void OnClickAnotherBook()
         {
@@ -22,8 +25,8 @@ namespace Assets.Scripts.LevelCompleted
 
         public void SetAnswers(int correctAnswers, int wrongAnswers)
         {
-            correctAsnwersText.text = correctAnswers.ToString();
-            wrongAsnwersText.text = wrongAnswers.ToString();
+            correctAsnwersText.text = " " + correctAnswers;
+            wrongAsnwersText.text = " " + wrongAnswers;
         }
     }
 }

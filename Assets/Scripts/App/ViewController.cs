@@ -40,7 +40,7 @@ namespace Assets.Scripts.App
 		{
 		    double ratio = (Screen.width + 0d) / (Screen.height + 0d);
 		    if (ratio > 1.4) gameObject.GetComponent<CanvasScaler>().matchWidthOrHeight = 1f;
-		    else if (ratio > 1.2) gameObject.GetComponent<CanvasScaler>().matchWidthOrHeight = 0.5f;
+		    else if (ratio > 1.25) gameObject.GetComponent<CanvasScaler>().matchWidthOrHeight = 0.5f;
 		    else gameObject.GetComponent<CanvasScaler>().matchWidthOrHeight = 0f;
             
 		    
