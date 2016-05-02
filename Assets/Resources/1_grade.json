@@ -119,7 +119,7 @@
 }, {
 	"title": "EL LEÑADOR Y SU HACHA",
 	"pages": [{
-		"tipo": 1,
+		"tipo": 3,
 		"img": "myImage",
 		"text": "\tHABÍA UNA VEZ UN POBRE LEÑADOR QUE REGRESABA A SU CASA. AL CRUZAR UN PUENTECITO SOBRE EL RÍO, SE LE CAYÓ EL HACHA AL AGUA. ENTONCES EMPEZÓ A QUEJARSE TRISTEMENTE.\n\t\n\t—¿CÓMO TRABAJARÉ AHORA QUE NO TENGO HACHA?",
 		"pista": "AL CRUZAR UN PUENTECITO SOBRE EL RÍO, SE LE CAYÓ EL HACHA AL AGUA",
@@ -140,7 +140,7 @@
 		"tipo": 4,
 		"img": "Cuentos_Hacha01.png",
 		"text": "My text2",
-		"pista": "text2",
+		"pista": "",
 		"question": "¿QUÉ LE PASÓ AL LEÑADOR?",
 		"options": [{
 				"text": "SE LE CAYÓ SU HACHA AL RÍO",
@@ -194,7 +194,7 @@
 		"tipo": 5,
 		"img": "Cuentos_Hacha02.png",
 		"text": "My text2",
-		"pista": "text2",
+		"pista": "",
 		"question" : "myQuestion",
 		"options": [{
 				"text": "opction c",
@@ -478,8 +478,8 @@
 			, {
 		"tipo": 5,
 		"img": "Cuentos_Orejas02.png",
-		"text": "My text2",
-		"pista": "text2",
+		"text": "My",
+		"pista": "",
 		"question" : "myQuestion",
 		"options": [{
 				"text": "opction c",
@@ -611,8 +611,8 @@
 			, {
 		"tipo": 5,
 		"img": "Cuentos_Zorro02.png",
-		"text": "My text2",
-		"pista": "text2",
+		"text": "dssaasd",
+		"pista": "",
 		"question" : "myQuestion",
 		"options": [{
 				"text": "opction c",

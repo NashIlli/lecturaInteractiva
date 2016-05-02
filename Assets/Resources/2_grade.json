@@ -316,7 +316,7 @@
 		}, {
 			"tipo": 3,
 			"img": "",
-			"text": "-Abuelita, abuelita, ¡qué orejas tan grandes tienes!\n\t\n\t-Son para oirte mejor- dijo el lobo\n\t\n\t-Abuelita, abuelita, ¡qué dientes más grandes que tienes!\n\t\n\t-¡Son para comerte mejor!- dijo el lobo.\n\t\n\tY de un bocado se la comió",
+			"text": "\t-Abuelita, abuelita, ¡qué orejas tan grandes tienes!\n\t\n\t-Son para oirte mejor- dijo el lobo\n\t\n\t-Abuelita, abuelita, ¡qué dientes más grandes que tienes!\n\t\n\t-¡Son para comerte mejor!- dijo el lobo.\n\t\n\tY de un bocado se la comió",
 			"pista": "-¡Son para comerte mejor!- dijo el lobo.\n\t\n\tY de un bocado se la comió",
 			"question": "¿Con quién estaba hablando en verdad Caperucita?",
 			"options": [{
@@ -335,7 +335,7 @@
 			"tipo": 3,
 			"img": "",
 			"text": "\tUn leñador que pasaba por allí vio al lobo en la cama. Estaba durmiendo con su panza llena. El leñador agarró su hacha y le cortó la panza al lobo. ¡La abuelita y Caperucita estaban allí!",
-			"pista": "",
+			"pista": "El leñador agarró su hacha y le cortó la panza al lobo.",
 			"question": "¿Qué hizo el leñador?",
 			"options": [{
 					"text": "Salvó a la abuela y a Caperucita",

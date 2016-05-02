@@ -40,8 +40,8 @@
 			}, {
 				"tipo": 3,
 				"img": "myImage",
-				"text": "\tNo llevaba mucho recorrido, cuando el duende se le apareció preguntando a dónde iba: - ¡Qué te importará a ti! Aparta de mi camino, ¡Enano!- El duende se hizo a un lado, no sin antes maldecirle para que acabara en la misma trampa que el mayor, atrapado en un paso de las montañas que cada vez se hizo más estrecho, hasta que caballo y jinete quedaron inmovilizados.",
-				"pista": "- ¡Qué te importará a ti! Aparta de mi camino, ¡Enano!- ",
+				"text": "\tNo llevaba mucho recorrido, cuando el duende se le apareció preguntando a dónde iba: - ¡Qué te importará a ti! Apártate de mi camino, ¡Enano!- El duende se hizo a un lado, no sin antes maldecirle para que acabara en la misma trampa que el mayor, atrapado en un paso de las montañas que cada vez se hizo más estrecho, hasta que caballo y jinete quedaron inmovilizados.",
+				"pista": "- ¡Qué te importará a ti! Apártate de mi camino, ¡Enano!- ",
 				"question": "¿Por qué el duende atrapó a los hermanos?",
 				"options": [{
 						"text": "Porque estaba ofendido por cómo le hablaron",
@@ -626,7 +626,7 @@
 				"tipo": 3,
 				"img": "myImage",
 				"text": "\tY así hicieron, hasta que llegó el día en que no quedaba ni una sola muchacha. La única que quedaba era la princesa, la hija del rey. La gente le dijo al rey que tenía que entregar a la princesa, y puesto que el mismo rey había escrito el edicto para las muchachas, era justo que entregue a la princesa que aún no los había cumplido.",
-				"pista": "",
+				"pista": "La gente le dijo al rey que tenía que entregar a la princesa",
 				"question": "¿Qué hizo la gente?",
 				"options": [{
 						"text": "Le dijo al rey que ofreciera su hija al dragón",

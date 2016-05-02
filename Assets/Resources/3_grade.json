@@ -407,7 +407,7 @@
 			"tipo": 3,
 			"img": "",
 			"text": "\tTodo el pueblo se había congregado para ver el traje mágico, pero al igual que los demás, nadie se animó a decir que no podía verlo, por temor a ser considerado un tonto, así que comenzaron a alabarlo y felicitarlo. Pero entre la multitud, un niño pequeño gritó: -¡Miren, el emperador está desnudo!-",
-			"pista": "",
+			"pista": "Todo el pueblo se había congregado para ver el traje mágico, pero al igual que los demás, nadie se animó a decir que no podía verlo, por temor a ser considerado un tonto, así que comenzaron a alabarlo y felicitarlo.",
 			"question": "¿Por qué lo aplaudían al emperador?",
 			"options": [{
 					"text": "Porque no querían que pensaran que eran tontos",
@@ -482,7 +482,7 @@
 			"tipo": 3,
 			"img": ".png",
 			"text": "\tPor más que intentaban exterminarlos o, al menos, ahuyentarlos, parecía que cada vez acudían más ratones a la ciudad. Hasta los mismos gatos huían asustados.\n\tAnte la gravedad de la situación, convocaron al Consejo y dijeron: -Daremos cien monedas de oro a quien nos libre de los ratones",
-			"pista": "",
+			"pista": "Por más que intentaban exterminarlos o, al menos, ahuyentarlos, parecía que cada vez acudían más ratones a la ciudad. Hasta los mismos gatos huían asustados.",
 			"question": "¿Por qué huían auyentados los gatos?",
 			"options": [{
 					"text": "Porque había muchísimos ratones",
@@ -646,7 +646,7 @@
 		}, {
 			"tipo": 3,
 			"img": ".png",
-			"text": "\tAl cabo de un rato, el burro y el perro se encontraron con un gato.\n\t-Amigo, ¿por qué estás triste? -le preguntaron.\n\t-Como ya soy viejo, mi ama quería ahogarme. Por eso he escapado.\n\t-No te preocupes -le dijeron-; tu historia es igual que la nuestra. Ven con nosotros, nos haremos músicos.",
+			"text": "\tAl cabo de un rato, el burro y el perro se encontraron con un gato.\n\t-Amigo, ¿por qué estás triste? -le preguntaron.\n\t-Como ya soy viejo, mi ama quería ahogarme. Por eso he escapado y ahora no sé cómo voy a ganarme la vida...\n\t-No te preocupes -le dijeron-; tu historia es igual que la nuestra. Ven con nosotros, nos haremos músicos.",
 			"pista": "-Como ya soy viejo, mi ama quería ahogarme. Por eso he escapado y ahora no sé cómo voy a ganarme la vida...",
 			"question": "¿Por qué dicen que todas las historias son iguales?",
 			"options": [{
@@ -664,7 +664,7 @@
 		}, {
 			"tipo": 2,
 			"img": "Cuentos_Bremen01.png",
-			"text": "-No te preocupes -le dijeron-; tu historia es igual que la nuestra. Ven con nosotros, nos haremos músicos.\n\tUn poco más adelante, el burro, el perro y el gato oyeron a un gallo que cantaba, parecía que se iba a romper la garganta.\n\tEl gallo les dijo:\n\t-¡Qué injusticia! Toda la vida he trabajado de despertador y mañana piensan echarme a la sopa... Entonces, el burro le dijo:\n\t- Vente con nosotros a Bremen. Vamos a ser músicos de la banda municipal.",
+			"text": "\tUn poco más adelante, el burro, el perro y el gato oyeron a un gallo que cantaba, parecía que se iba a romper la garganta.\n\tEl gallo les dijo:\n\t-¡Qué injusticia! Toda la vida he trabajado de despertador y mañana piensan echarme a la sopa... Entonces, el burro le dijo:\n\t- Vente con nosotros a Bremen. Vamos a ser músicos de la banda municipal.",
 			"pista": "",
 			"question": "",
 			"options": [{
@@ -791,7 +791,7 @@
 			"tipo": 3,
 			"img": "",
 			"text": "\tEntonces, el gato se lanzó sobre él y le arañó la cara; en su huida tropezó con el perro y éste le mordió en una pierna; finalmente, el burro le atizó una patada tremenda.\n\tCuando escapaba aterrorizado oyó cantar al gallo:\n\t-¡Quiquiriqui!\n\tEl ladrón volvió junto a sus compañeros y les dijo:",
-			"pista": "",
+			"pista": "Cuando escapaba aterrorizado oyó cantar al gallo:\n\t-¡Quiquiriqui!",
 			"question": "¿Qué significa 'Quiquiriqui'?",
 			"options": [{
 					"text": "Es el canto del gallo",
