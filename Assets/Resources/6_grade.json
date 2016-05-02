@@ -426,7 +426,7 @@
 		"tipo": 3,
 		"img": "",
 		"text": "\tCuando terminó sus tareas, el rey volvió a su palacio. Al llegar por fin la segunda noche, Doniazada pidió a su hermana que concluyera la historia del mercader y el efrit. Sherezade dijo: –De todo corazón, siempre que este rey tan generoso me lo permita–. Y el rey, que sentía gran curiosidad acerca del destino del mercader, ordenó: –Puedes hablar.",
-		"pista": "",
+		"pista": "Doniazada pidió a su hermana que concluyera la historia del mercader y el efrit",
 		"question" : "¿Por qué estaba Doniazada en la habitación?",
 		"options": [{
 				"text": "Para ayudar a Sherezade a encantar al rey con sus historias",
@@ -471,7 +471,7 @@
 				"text": "No, porque era tonto",
 				"isCorrect": false
 			}, {
-				"text": "Si, pero no le importaba",
+				"text": "Sí, pero no le importaba",
 				"isCorrect": false
 			}
 
@@ -498,7 +498,7 @@
 		"tipo": 3,
 		"img": "",
 		"text": "\tLa misma decisión tomó el rey Shariar al día siguiente y en los sucesivos días. Sherezade anunciaba nuevas historias, las interrumpía sabiamente o las entrelazaba de tal modo que el personaje de un cuento contaba un cuento en el que un personaje contaba un cuento... Así, una historia llevaba a la otra en una narración sin fin que iba dejando a la joven un día más de vida, una semana más, un mes, un año tras otro año.",
-		"pista": "",
+		"pista": "Sherezade anunciaba nuevas historias, las interrumpía sabiamente o las entrelazaba de tal modo que el personaje de un cuento contaba un cuento en el que un personaje contaba un cuento...",
 		"question" : "¿Cómo hacía para hacer historias tan largas?",
 		"options": [{
 				"text": "Los personajes y las historias se entrelazaban",
@@ -701,7 +701,7 @@
 		"tipo": 3,
 		"img": "",
 		"text": "\tEl Estudiante seguía echado en la hierba, como lo había dejado; y las lágrimas no se secaban en sus anchos ojos. —¡Alégrate! —le gritó el Ruiseñor—. ¡Siéntete dichoso, porque tendrás tu rosa roja! Yo la construiré con mi música, a la luz de la luna, y la teñiré con la sangre de mi corazón. Lo único que pido a cambio, es que seas un verdadero amante, porque el Amor es más sabio que la Filosofía, por muy sabia que ésta sea, y es más poderoso que la Fuerza, por muy fuerte que ella sea.",
-		"pista": "Lo único que pido en cambio, es que seas un verdadero amante, porque el Amor es más sabio que la Filosofía, por muy sabia que ésta sea, y es más poderoso que la Fuerza, por muy fuerte que ella sea.",
+		"pista": "Lo único que pido a cambio, es que seas un verdadero amante, porque el Amor es más sabio que la Filosofía, por muy sabia que ésta sea, y es más poderoso que la Fuerza, por muy fuerte que ella sea.",
 		"question" : "¿Qué le pidió al Estudiante a cambio de la rosa?",
 		"options": [{
 				"text": "Amar sinceramente",
@@ -737,7 +737,7 @@
 		"tipo": 3,
 		"img": "",
 		"text": "\tLuego entró en su alcoba, y, echándose sobre su cama, comenzó de nuevo a pensar en su amor. Después de unos momentos se quedó dormido. Cuando la luna alumbró en los cielos, el Ruiseñor voló hacia el rosal, y apoyó su pecho sobre la mayor de las espinas. Toda la noche estuvo cantando con el pecho contra la espina, y la luna fría y cristalina se inclinó para escuchar.",
-		"pista": "Cuando la luna alumbró en los cielos, el Ruiseñor voló hacia el rosal, y apoyó su pecho sobre la mayor de las espinas.",
+		"pista": "Cuando la luna alumbró en los cielos, el Ruiseñor voló hacia el rosal, y apoyó su pecho sobre la mayor de las espinas",
 		"question" : "¿Por qué esperó a la noche el Ruiseñor?",
 		"options": [{
 				"text": "Porque el rosal le dijo que debía cantar de noche",

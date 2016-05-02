@@ -28,7 +28,7 @@ namespace Assets.Scripts._Levels
 
         public bool HasClue()
         {
-            return text != null && pista != null && text.Contains(pista);
+            return tipo == 3 && text != null && pista != null && text.Contains(pista);
         }
     }
 }

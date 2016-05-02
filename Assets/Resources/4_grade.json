@@ -77,13 +77,13 @@
 				"tipo": 3,
 				"img": "myImage",
 				"text": "\t-Busca entonces la fuente del agua de la vida tan rápido como puedas, pues si dan las doce, y sigues en el interior del castillo, ya nunca más podrás salir. – Añadió el enanito.\n\tA lomos de su caballo, pasados varios días, llegó el príncipe al castillo encantado. Tocó tres veces la puerta con la vara mágica, amansó a las bestias con los panes,  y llegó a una estancia donde había una preciosa muchacha y ella exclamó:",
-				"pista": "",
+				"pista": "Tocó tres veces la puerta con la vara mágica, amansó a las bestias con los panes",
 				"question": "¿Para qué servían el pan y la varilla?",
 				"options": [{
 						"text": "Para domar a las bestias y abrir la puerta",
 						"isCorrect": true
 					}, {
-						"text": "Para hacer mágia y comer",
+						"text": "Para hacer magia y comer",
 						"isCorrect": false
 					}, {
 						"text": "Para abrir a las bestias y darle de comer a la puerta",
@@ -239,7 +239,7 @@
 				"tipo": 3,
 				"img": "myImage",
 				"text": "\tAl llegar a la puerta, le abrieron enseguida, y allí estaba la princesa esperándole con los brazos abiertos, llena de alegría y reconociéndole como su salvador. La boda duró varios días, y trajeron mucha felicidad a la pareja, que invitó también al padre, que nunca volvió a enfermar.",
-				"pista": "",
+				"pista": "La boda duró varios días, y trajeron mucha felicidad a la pareja, que invitó también al padre, que nunca volvió a enfermar.",
 				"question": "¿Qué pasó al final de la historia?",
 				"options": [{
 						"text": "Los príncipes se casaron y festejaron por muchos días",

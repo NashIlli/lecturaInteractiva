@@ -59,7 +59,7 @@
 			"tipo": 3,
 			"img": "myImage",
 			"text": "\t“Esto sí servirá”, pensó el ratón.\n\tAsí que cogió el diente de leche y a cambio le dejó al niño la moneda de plata, luego volvió corriendo a la playa y le dio el diente al cangrejo, que se lo dio a la sardina, que se lo dio al pulpo, que se lo llevó a la ostra.",
-			"pista": "",
+			"pista": "Así que cogió el diente de leche y a cambio le dejó al niño la moneda de plata",
 			"question": "¿Qué dejó a cambio del diente?",
 			"options": [{
 					"text": "Una moneda de plata",

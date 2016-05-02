@@ -27,13 +27,23 @@ namespace Assets.Scripts._Levels.BookView
                 BookView.GetBookView().SetTicButtonInteractable(false);
                 for (int i = 0; i < toggles.Length; i++)
                 {
+                    toggles[i].GetComponentsInChildren<Image>()[1].color = toggles[i].isOn
+                        ? new Color32(0, 255, 65, 115)
+                        : new Color32(255, 152, 0, 115);
                     toggles[i].interactable = false;
+                    
                 }
                 BookView.GetBookView().SetForwardArrowInteractable(true);
                 BookView.GetBookView().SetHintButtonInteractble(false);
             }
             else
             {
+                foreach (var toggle in toggles)
+                {
+                    toggle.GetComponentsInChildren<Image>()[1].color = toggle.isOn
+                        ? new Color32(255, 0, 0, 121)
+                        : new Color32(255, 152, 0, 115);
+                }
                 SoundController.GetController().PlayWrongSound();
             }
             BookView.GetBookView().SetTicButtonEnabled(true);
@@ -98,7 +108,19 @@ namespace Assets.Scripts._Levels.BookView
                 BookView.GetBookView().SetForwardArrowInteractable(resolved);
                 //BookView.GetBookView().SetTicButtonInteractable(!resolved);
             }
-            if (resolved) BookView.GetBookView().SetTicButtonInteractable(false);
+            if (resolved)
+            {
+                
+            
+                BookView.GetBookView().SetTicButtonInteractable(false);
+                for (int i = 0; i < toggles.Length; i++)
+                {
+                    toggles[i].GetComponentsInChildren<Image>()[1].color = toggles[i].isOn
+                        ? new Color32(0, 255, 65, 115)
+                        : new Color32(255, 152, 0, 115);
+                }
+
+            }
 
         }
 
@@ -111,15 +133,20 @@ namespace Assets.Scripts._Levels.BookView
             string middle = text.text.Substring(hintIndex, hintLength);
             string end = text.text.Substring(hintIndex + hintLength, text.text.Length - (hintIndex + hintLength));
 
-            text.text = start + "<color=red>" + middle + "</color>" + end;
+            text.text = start + "<color=#FF812CFF>" + middle + "</color>" + end;
 
         }
 
         public void OnToggleClick()
         {
             SoundController.GetController().PlayClickSound();
+            foreach (var toggle in toggles)
+            {
+                toggle.GetComponentsInChildren<Image>()[1].color = new Color32(255, 152, 0, 115);
+            }
             for (int i = 0; i < toggles.Length; i++)
             {
+                
                 if (toggles[i].isOn)
                 {
                     BookView.GetBookView().SetTicButtonInteractable(true);
